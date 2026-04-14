@@ -1,0 +1,2214 @@
+mini,base_mm2,cost
+Warboss,40mm,75.0
+Warboss In Mega Armour,50mm,80.0
+Warboss On Warbike,100 x 40mm,75.0
+Weirdboy,40mm,65.0
+Big Mek In Mega Armour,40mm,90.0
+Big Mek On Warbike,90 x 52mm,105.0
+GHAZGHKULL THRAKA,80mm,235.0
+MAKARI,25mm,235.0
+Kaptin Badrukk,40mm,80.0
+Boss Zagstruk,40mm,90.0
+Boss Snikrot,40mm,75.0
+Mek,32mm,45.0
+Painboy,32mm,80.0
+Painboy On Warbike,90 x 52mm,85.0
+Mad Dok Grotsnik,32mm,65.0
+BOY,32mm,80.0
+BOY,32mm,170.0
+BOSS NOB,32mm,80.0
+BOSS NOB,32mm,170.0
+GRETCHIN,25mm,40.0
+GRETCHIN,25mm,80.0
+RUNTHERD,32mm,40.0
+RUNTHERD,32mm,80.0
+Burna Boyz,32mm,60.0
+Burna Boyz,32mm,120.0
+TANKBUSTAS,32mm,140.0
+Nobz,32mm,105.0
+Nobz,32mm,210.0
+Nob With Waaagh! Banner,32mm,70.0
+Nobz On Warbikes,75 x 42mm,125.0
+Meganobz,40mm,65.0
+Meganobz,40mm,95.0
+Meganobz,40mm,160.0
+Meganobz,40mm,190.0
+KOMMANDOS,32mm,120.0
+BOSS NOB,32mm,120.0
+Trukk,Use model,70.0
+STORMBOY,32mm,65.0
+STORMBOY,32mm,130.0
+BOSS NOB,32mm,65.0
+BOSS NOB,32mm,130.0
+Deffkoptas,75 x 42mm,80.0
+Deffkoptas,75 x 42mm,160.0
+Dakkajet,120 x 92mm flying base,135.0
+Burna-bommer,120 x 92mm flying base,125.0
+Blitza-bommer,120 x 92mm flying base,115.0
+Wazbom Blastajet,120 x 92mm flying base,175.0
+WARBIKER,75 x 42mm,65.0
+WARBIKER,75 x 42mm,130.0
+BOSS NOB ON WARBIKE,75 x 42mm,65.0
+BOSS NOB ON WARBIKE,75 x 42mm,130.0
+Wartrakks,Use model,50.0
+Wartrakks,Use model,100.0
+Skorchas,Use model,45.0
+Skorchas,Use model,90.0
+Warbuggies,Use model,40.0
+Warbuggies,Use model,80.0
+Big Gunz,Use model,20.0
+Big Gunz,Use model,40.0
+Mek Gunz,Use model,50.0
+Mek Gunz,Use model,100.0
+Mek Gunz,Use model,150.0
+Battlewagon,Use model,160.0
+Deff Dread,60mm,120.0
+Killa Kans,60mm,125.0
+Killa Kans,60mm,250.0
+Morkanaut,170 x 109mm,280.0
+Gorkanaut,170 x 109mm,265.0
+Lootas,32mm,50.0
+Lootas,32mm,100.0
+Flash Gitz,40mm,80.0
+Flash Gitz,40mm,160.0
+Stompa,Use model,800.0
+Grot Tanks,Use model,155.0
+Grot Tanks,Use model,310.0
+Grot Mega-tank,Use model,110.0
+Squiggoth,Use model,150.0
+Meka-dread,Use model,210.0
+Lifta Wagon,Use model,135.0
+Big Trakk,Use model,90.0
+Kannonwagon,Use model,115.0
+Kill Tank,Use model,295.0
+Chinork Warkopta,120 x 92mm flying base,105.0
+Gargantuan Squiggoth,Use model,440.0
+Apothecary Biologis,40mm,70.0
+Assault Squad,32mm,95.0
+Assault Squad,32mm,190.0
+Apothecary On Bike,75 x 25mm,65.0
+Assault Squad With Jump Packs,32mm,115.0
+Assault Squad With Jump Packs,32mm,230.0
+Land Raider,Use model,220.0
+Land Raider Crusader,Use model,220.0
+Land Raider Excelsior,Use model,310.0
+Suppressor Squad,40mm,75.0
+Tactical Squad,32mm,140.0
+Bladeguard Veteran Squad,40mm,80.0
+Bladeguard Veteran Squad,40mm,170.0
+Caestus Assault Ram,120 x 92mm flying base,215.0
+Captain,40mm,80.0
+Lieutenant With Combi-weapon,40mm,70.0
+Librarian In Terminator Armour,40mm,75.0
+Captain With Jump Pack,40mm,75.0
+Stormhawk Interceptor,120 x 92mm flying base,155.0
+Rhino Primaris,Use model,95.0
+Firestrike Servo-turrets,80mm,75.0
+Firestrike Servo-turrets,80mm,150.0
+Drop Pod,Use model,70.0
+Ballistus Dreadnought,90mm,150.0
+Sicaran Venator,Use model,220.0
+Typhon,Use model,385.0
+Chaplain On Bike,90 x 52mm,75.0
+Ultramarines Honour Guard,32mm,155.0
+Carab Culln The Risen,80mm,250.0
+Hammerfall Bunker,Use model,175.0
+Tarantula Sentry Battery,Use model,30.0
+Tarantula Sentry Battery,Use model,60.0
+Tarantula Sentry Battery,Use model,90.0
+Tarantula Air Defence Battery,Use model,70.0
+Eradicator Squad,40mm,100.0
+Eradicator Squad,40mm,200.0
+Relic Terminator Squad,40mm,200.0
+Relic Terminator Squad,40mm,400.0
+Javelin Attack Speeder,60mm flying base,110.0
+Rapier Carrier,Use model,100.0
+Mortis Dreadnought,60mm,130.0
+Chaplain With Jump Pack,32mm,75.0
+Storm Eagle Gunship,120 x 92mm flying base,255.0
+Storm Speeder Hammerstrike,90mm,125.0
+Chaplain In Terminator Armour,40mm,75.0
+SPACE MARINE BIKE,75 x 25mm,80.0
+SPACE MARINE BIKE,75 x 25mm,160.0
+SPACE MARINE BIKE,75 x 25mm,55.0
+ATTACK BIKE,Use model,80.0
+ATTACK BIKE,Use model,160.0
+ATTACK BIKE,Use model,55.0
+Dreadnought,60mm,135.0
+Terminator Assault Squad,40mm,180.0
+Terminator Assault Squad,40mm,360.0
+Librarian In Phobos Armour,40mm,70.0
+Venerable Dreadnought,60mm,165.0
+Uriel Ventris,40mm,95.0
+Dreadnought Drop Pod,Use model,75.0
+Sicaran Punisher,Use model,220.0
+Storm Speeder Hailstrike,90mm,115.0
+Inceptor Squad,40mm,120.0
+Inceptor Squad,40mm,240.0
+Infernus Squad,32mm,90.0
+Infernus Squad,32mm,180.0
+Iron Father Feirros,40mm,95.0
+Infiltrator Squad,32mm,100.0
+Infiltrator Squad,32mm,200.0
+Razorback,Use model,95.0
+Leviathan Dreadnought,80mm,215.0
+Land Speeder Storm,60mm flying base,70.0
+Astartes Servitors,25mm,55.0
+Captain In Terminator Armour,50mm,95.0
+Brutalis Dreadnought,90mm,160.0
+Scout Bike Squad,75 x 25mm,75.0
+Scout Bike Squad,75 x 25mm,150.0
+Roboute Guilliman,60mm,340.0
+Thunderhawk Gunship,120 x 92mm flying base,840.0
+Techmarine,40mm,55.0
+Hunter,Use model,100.0
+Vanguard Veteran Squad With Jump Packs,32mm,95.0
+Vanguard Veteran Squad With Jump Packs,32mm,190.0
+Imperial Space Marine,32mm,40.0
+Commander Dante,50mm,120.0
+Captain Tycho,25mm,75.0
+Tycho The Lost,25mm,90.0
+Librarian Dreadnought,60mm,170.0
+Chief Librarian Mephiston,40mm,120.0
+The Sanguinor,40mm,140.0
+Astorath,40mm,95.0
+Sanguinary Priest,40mm,75.0
+Sanguinary Priest On Bike,75 x 25mm,135.0
+Brother Corbulo,25mm,75.0
+Lemartes,40mm,100.0
+Sanguinary Guard,40mm,125.0
+Sanguinary Guard,40mm,260.0
+Death Company Dreadnought,90mm,160.0
+Furioso Dreadnought,60mm,150.0
+Baal Predator,Use model,125.0
+Gabriel Seth,25mm,90.0
+Azrael,50mm,115.0
+Belial,50mm,85.0
+Asmodai,50mm,70.0
+Ezekiel,25mm,75.0
+Deathwing Terminator Squad,40mm,180.0
+Deathwing Terminator Squad,40mm,360.0
+Deathwing Knights,40mm,250.0
+Ravenwing Darkshroud,60mm flying base,100.0
+Nephilim Jetfighter,120 x 92mm flying base,195.0
+Ravenwing Dark Talon,120 x 92mm flying base,210.0
+Ravenwing Black Knights,75 x 42mm,90.0
+Ravenwing Black Knights,75 x 42mm,180.0
+Land Speeder Vengeance,60mm flying base,120.0
+Fortress Of Redemption,Use model,480.0
+Logan Grimnar,80mm,110.0
+Logan Grimnar On Stormrider,120 x 92mm,
+Wolf Lord On Thunderwolf,60mm,
+Ragnar Blackmane,40mm,100.0
+Krom Dragongaze,32mm,
+Harald Deathwolf,60mm,
+Canis Wolfborn,60mm,
+Njal Stormcaller,40mm,85.0
+Ulrik The Slayer,32mm,70.0
+Wolf Guard Battle Leader In Terminator Armour,40mm,
+Wolf Guard Battle Leader On Thunderwolf,60mm,
+Bjorn The Fell-handed,60mm,170.0
+Blood Claws,32mm,135.0
+Blood Claws,32mm,285.0
+Lukas The Trickster,32mm,
+Grey Hunters,32mm,180.0
+Iron Priest,32mm,60.0
+Iron Priest On Thunderwolf,60mm,95.0
+Wolf Scouts,28.5mm,
+Wulfen,40mm,85.0
+Wulfen,40mm,170.0
+Murderfang,60mm,160.0
+Wolf Guard,32mm,
+Arjac Rockfist,50mm,105.0
+Wolf Guard Terminators,40mm,170.0
+Wolf Guard Terminators,40mm,340.0
+Stormwolf,120 x 92mm flying base,
+Thunderwolf Cavalry,60mm,115.0
+Thunderwolf Cavalry,60mm,230.0
+Fenrisian Wolves,40mm,40.0
+Fenrisian Wolves,40mm,80.0
+Skyclaws,32mm,
+Stormfang Gunship,120 x 92mm flying base,
+Long Fangs,32mm,
+Corvus Blackstar,120 x 92mm flying base,180.0
+Kaldor Draigo,40mm,
+Grand Master Voldus,40mm,110.0
+Grand Master,40mm,95.0
+Brother-captain,40mm,90.0
+Brother-captain Stern,40mm,
+Brotherhood Champion,32mm,70.0
+Castellan Crowe,40mm,90.0
+Strike Squad,32mm,120.0
+Strike Squad,32mm,240.0
+Brotherhood Terminator Squad,40mm,160.0
+Brotherhood Terminator Squad,40mm,200.0
+Brotherhood Terminator Squad,40mm,320.0
+Brotherhood Terminator Squad,40mm,400.0
+Purifier Squad,32mm,125.0
+Purifier Squad,32mm,250.0
+Paladin Squad,40mm,180.0
+Paladin Squad,40mm,225.0
+Paladin Squad,40mm,360.0
+Paladin Squad,40mm,450.0
+Interceptor Squad,32mm,130.0
+Interceptor Squad,32mm,260.0
+Purgation Squad,32mm,125.0
+Purgation Squad,32mm,250.0
+Nemesis Dreadknight,120 x 92mm,210.0
+Grey Knights Dreadnought,60mm,160.0
+Land Raider,Use model,220.0
+Land Raider Crusader,Use model,220.0
+Land Raider Redeemer,Use model,270.0
+Razorback,Use model,85.0
+Rhino,Use model,80.0
+Servitors,25mm,
+Stormraven Gunship,120 x 92mm flying base,280.0
+Brotherhood Techmarine,32mm,70.0
+Venerable Dreadnought,60mm,140.0
+Commander In Coldstar Battlesuit,60mm,95.0
+Tactical Drones,32mm flying base,70.0
+Tactical Drones,32mm flying base,140.0
+Tactical Drones,32mm flying base,210.0
+Ethereal,40mm,50.0
+Cadre Fireblade,25mm,50.0
+Commander Farsight,60mm,85.0
+Commander Shadowsun,50mm,100.0
+Aun'shi,25mm,50.0
+AUN'VA,40mm,65.0
+ETHEREAL GUARD,25mm,65.0
+Darkstrider,32mm,60.0
+Strike Team,25mm,75.0
+Breacher Team,25mm,100.0
+Kroot Carnivores,28.5mm,65.0
+Kroot Carnivores,28.5mm,140.0
+Krootox Riders,50mm,40.0
+Krootox Riders,50mm,60.0
+Krootox Riders,50mm,90.0
+Kroot Hounds,28.5mm,40.0
+Kroot Hounds,28.5mm,80.0
+Stealth Battlesuits,32mm,80.0
+Stealth Battlesuits,32mm,120.0
+Crisis Battlesuits,50mm,200.0
+Crisis Battlesuits,50mm,400.0
+Ghostkeel Battlesuit,105 x 70mm,160.0
+Riptide Battlesuit,120 x 92mm,190.0
+Pathfinder Team,25mm,90.0
+Piranha,60mm flying base,60.0
+Piranha,60mm flying base,120.0
+Piranha,60mm flying base,180.0
+Devilfish,60mm flying base,85.0
+Razorshark Strike Fighter,120 x 92mm flying base,170.0
+Sun Shark Bomber,120 x 92mm flying base,160.0
+Vespid Stingwings,28.5mm,65.0
+Vespid Stingwings,28.5mm,130.0
+Firesight Team,40mm,60.0
+Sky Ray Gunship,60mm flying base,140.0
+Longstrike,60mm flying base,140.0
+Hammerhead Gunship,60mm flying base,145.0
+Broadside Battlesuits,60mm,80.0
+Broadside Battlesuits,60mm,170.0
+Broadside Battlesuits,60mm,270.0
+Stormsurge,170 x 109mm,400.0
+Tidewall Droneport,Use model,85.0
+Tidewall Shieldline,Use model,85.0
+Tidewall Shieldline,Use model,20.0
+Tidewall Gunrig,Use model,90.0
+Shas'o R'alai,65mm,80.0
+Xv9 Hazard Battlesuits,60mm,55.0
+Xv9 Hazard Battlesuits,60mm,110.0
+Y'vahra Battlesuit,120 x 92mm,210.0
+R'varna Battlesuit,120 x 92mm,200.0
+Ta'unar Supremacy Armour,160mm,790.0
+Tetras,60mm flying base,80.0
+Tetras,60mm flying base,160.0
+Tx42 Piranha,60mm flying base,60.0
+Heavy Gun Drones,32mm flying base,45.0
+Remora Stealth Drones,60mm flying base,160.0
+Barracuda,120 x 92mm flying base,220.0
+Tiger Shark,160mm,325.0
+Ax-1-0 Tiger Shark,160mm,315.0
+Orca Dropship,Use model,275.0
+Manta,Use model,2100.0
+Remote Sensor Tower,Use model,50.0
+Drone Sentry Turret,Use model,50.0
+Hive Tyrant,60mm,195.0
+The Swarmlord,60mm,220.0
+Old One Eye,105 x 70mm,150.0
+Broodlord,75 x 42mm,80.0
+Tervigon,120 x 92mm,160.0
+Genestealers,32mm,75.0
+Genestealers,32mm,140.0
+Termagants,28.5mm,60.0
+Termagants,28.5mm,120.0
+Hormagaunts,28.5mm,65.0
+Hormagaunts,28.5mm,130.0
+Ripper Swarms,40mm,25.0
+Ripper Swarms,40mm,40.0
+Ripper Swarms,40mm,50.0
+Tyrant Guard,50mm,80.0
+Tyrant Guard,50mm,160.0
+Hive Guard,50mm,90.0
+Hive Guard,50mm,180.0
+Lictor,50mm,60.0
+Maleceptor,120 x 92mm,170.0
+Zoanthropes,40mm,100.0
+Zoanthropes,40mm,200.0
+Venomthropes,40mm,70.0
+Venomthropes,40mm,140.0
+Pyrovores,80mm,40.0
+Pyrovores,80mm,70.0
+Pyrovores,80mm,105.0
+Haruspex,120 x 92mm,125.0
+Deathleaper,60mm,80.0
+Raveners,40mm,75.0
+Raveners,40mm,150.0
+Sky-slasher Swarms,40mm,60.0
+Gargoyles,32mm flying base,85.0
+Gargoyles,32mm flying base,170.0
+Harpy,120 x 92mm flying base,215.0
+Hive Crone,120 x 92mm flying base,200.0
+Mucolid Spores,40mm,30.0
+Mucolid Spores,40mm,60.0
+Spore Mines,25mm,55.0
+Spore Mines,25mm,110.0
+Tyrannocyte,100mm,105.0
+Carnifexes,105 x 70mm,115.0
+Carnifexes,105 x 70mm,230.0
+Biovores,80mm,50.0
+Biovores,80mm,100.0
+Biovores,80mm,150.0
+Trygon,120 x 92mm,140.0
+Mawloc,120 x 92mm,135.0
+Exocrine,120 x 92mm,140.0
+Tyrannofex,120 x 92mm,200.0
+Toxicrene,120 x 92mm,150.0
+Sporocyst,100mm,145.0
+Malanthrope,60mm,75.0
+Dimachaeron,120 x 92mm,200.0
+Barbed Hierodule,127mm,340.0
+Harridan,120 x 92mm flying base,610.0
+Hierophant,Use model,810.0
+Scythed Hierodule,127mm,330.0
+Patriarch,50mm,75.0
+Magus,32mm,50.0
+Primus,32mm,70.0
+Acolyte Iconward,32mm,50.0
+Acolyte Hybrids,32mm,65.0
+Acolyte Hybrids,32mm,130.0
+Neophyte Hybrids,25mm,65.0
+Neophyte Hybrids,25mm,145.0
+Hybrid Metamorphs,32mm,70.0
+Hybrid Metamorphs,32mm,140.0
+Aberrants,32mm,135.0
+Aberrants,32mm,300.0
+Purestrain Genestealers,32mm,75.0
+Purestrain Genestealers,32mm,140.0
+Goliath Truck,Use model,85.0
+Goliath Rockgrinder,Use model,120.0
+Imotekh The Stormlord,40mm,100.0
+Overlord,40mm,85.0
+Lord,32mm,65.0
+Nemesor Zahndrekh,25mm,85.0
+Vargard Obyron,25mm,85.0
+Orikan The Diviner,40mm,80.0
+Anrakyr The Traveller,25mm,95.0
+Trazyn The Infinite,25mm,75.0
+Catacomb Command Barge,Use model,120.0
+Necron Warriors,32mm,90.0
+Necron Warriors,32mm,200.0
+Immortals,32mm,70.0
+Immortals,32mm,150.0
+Lychguard,32mm,85.0
+Lychguard,32mm,170.0
+Deathmarks,32mm,60.0
+Deathmarks,32mm,120.0
+Flayed Ones,28.5mm,60.0
+Flayed Ones,28.5mm,120.0
+Triarch Praetorians,32mm,90.0
+Triarch Praetorians,32mm,180.0
+Triarch Stalker,Use model,110.0
+C'tan Shard of the Nightbringer,90mm,305.0
+C'tan Shard of the Deceiver,40mm,265.0
+Ghost Ark,60mm,115.0
+Night Scythe,120 x 92mm flying base,145.0
+Doom Scythe,120 x 92mm flying base,230.0
+Canoptek Wraiths,50mm,110.0
+Canoptek Wraiths,50mm,220.0
+Tomb Blades,32mm flying base,75.0
+Tomb Blades,32mm flying base,150.0
+Canoptek Spyders,60mm flying base,75.0
+Canoptek Spyders,60mm flying base,150.0
+Monolith,160mm,400.0
+Annihilation Barge,Use model,105.0
+Doomsday Ark,60mm flying base,200.0
+Transcendent C'tan,60mm flying base,295.0
+Tesseract Vault,120 x 92mm flying base,425.0
+Obelisk,120 x 92mm flying base,300.0
+Canoptek Tomb Stalker,120 x 92mm,130.0
+Canoptek Acanthrites,40mm,85.0
+Canoptek Acanthrites,40mm,170.0
+Canoptek Tomb Sentinel,120 x 92mm,115.0
+Night Shroud,120 x 92mm flying base,140.0
+Sentry Pylon,Use model,120.0
+Tesseract Ark,60mm,130.0
+Gauss Pylon,Use model,210.0
+Eldrad Ulthran,32mm,110.0
+Prince Yriel,40mm,100.0
+Illic Nightspear,25mm,70.0
+Asurmen,40mm,125.0
+Jain Zar,40mm,105.0
+Karandras,25mm,90.0
+Fuegan,40mm,120.0
+Baharroth,40mm,115.0
+Maugan Ra,40mm,100.0
+Autarch,32mm,85.0
+Autarch Skyrunner,32mm flying base,90.0
+Avatar of Khaine,80mm,280.0
+Farseer,25mm,70.0
+Farseer Skyrunner,32mm flying base,80.0
+Warlock Conclave,32mm,55.0
+Warlock Conclave,32mm,130.0
+Warlock,32mm,45.0
+Warlock Skyrunner,32mm flying base,45.0
+Warlock Skyrunner,32mm flying base,90.0
+Spiritseer,25mm,65.0
+GUARDIAN DEFENDER,28.5mm,100.0
+HEAVY WEAPON PLATFORM,40mm,100.0
+STORM GUARDIAN,28.5mm,100.0
+SERPENT'S SCALE PLATFORM,40mm,100.0
+Windriders,32mm flying base,80.0
+Windriders,32mm flying base,160.0
+Rangers,28.5mm,55.0
+Rangers,28.5mm,110.0
+DIRE AVENGER,28.5mm,75.0
+DIRE AVENGER,28.5mm,150.0
+DIRE AVENGER EXARCH,28.5mm,75.0
+DIRE AVENGER EXARCH,28.5mm,150.0
+HOWLING BANSHEE,28.5mm,95.0
+HOWLING BANSHEE,28.5mm,190.0
+HOWLING BANSHEE EXARCH,28.5mm,95.0
+HOWLING BANSHEE EXARCH,28.5mm,190.0
+STRIKING SCORPION,28.5mm,85.0
+STRIKING SCORPION,28.5mm,150.0
+STRIKING SCORPION EXARCH,28.5mm,85.0
+STRIKING SCORPION EXARCH,28.5mm,150.0
+FIRE DRAGON,28.5mm,120.0
+FIRE DRAGON,28.5mm,220.0
+FIRE DRAGON EXARCH,28.5mm,120.0
+FIRE DRAGON EXARCH,28.5mm,220.0
+Wraithguard,40mm,170.0
+Wraithblades,40mm,160.0
+Wave Serpent,60mm flying base,125.0
+SWOOPING HAWK,32mm,85.0
+SWOOPING HAWK,32mm,190.0
+SWOOPING HAWK EXARCH,32mm,85.0
+SWOOPING HAWK EXARCH,32mm,190.0
+WARP SPIDER,28.5mm,95.0
+WARP SPIDER,28.5mm,190.0
+WARP SPIDER EXARCH,28.5mm,95.0
+WARP SPIDER EXARCH,28.5mm,190.0
+SHINING SPEAR,60mm flying base,110.0
+SHINING SPEAR,60mm flying base,220.0
+SHINING SPEAR EXARCH,60mm flying base,110.0
+SHINING SPEAR EXARCH,60mm flying base,220.0
+Crimson Hunter,120 x 92mm flying base,160.0
+Vypers,105 x 70mm,65.0
+Vypers,105 x 70mm,130.0
+Hemlock Wraithfighter,120 x 92mm flying base,155.0
+DARK REAPER,28.5mm,90.0
+DARK REAPER,28.5mm,195.0
+DARK REAPER EXARCH,28.5mm,90.0
+DARK REAPER EXARCH,28.5mm,195.0
+Falcon,60mm flying base,130.0
+Fire Prism,60mm flying base,150.0
+Night Spinner,60mm flying base,190.0
+War Walkers,60mm,85.0
+War Walkers,60mm,170.0
+Wraithlord,60mm,140.0
+Wraithknight,120 x 92mm,435.0
+SHADOW SPECTRE,25mm,115.0
+SHADOW SPECTRE,25mm,230.0
+SHADOW SPECTRE,25mm,30.0
+SHADOW SPECTRE EXARCH,25mm,115.0
+SHADOW SPECTRE EXARCH,25mm,230.0
+SHADOW SPECTRE EXARCH,25mm,30.0
+Wasp Assault Walker,60mm,95.0
+Wraithseer,60mm,160.0
+Hornet,60mm,100.0
+Warp Hunter,Use model,145.0
+Lynx,Use model,180.0
+Scorpion,Use model,410.0
+Cobra,Use model,415.0
+Nightwing,120 x 92mm flying base,150.0
+Phoenix,120 x 92mm flying base,175.0
+Vampire Raider,170 x 109mm flying base,430.0
+Vampire Hunter,170 x 109mm flying base,460.0
+Skathach Wraithknight,120 x 92mm,490.0
+Revenant Titan,Use model,1100.0
+Corsair Cloud Dancer Band,32mm flying base,105.0
+Corsair Cloud Dancer Band,32mm flying base,140.0
+Corsair Cloud Dancer Band,32mm flying base,210.0
+Corsair Cloud Dancer Band,32mm flying base,245.0
+Irillyth,25mm,105.0
+Phantom Titan,Use model,2100.0
+Corsair Reaver Band,25mm,125.0
+Corsair Reaver Band,25mm,150.0
+Corsair Reaver Band,25mm,250.0
+Corsair Reaver Band,25mm,275.0
+Corsair Skyreaver Band,25mm,125.0
+Corsair Skyreaver Band,25mm,150.0
+Corsair Skyreaver Band,25mm,250.0
+Corsair Skyreaver Band,25mm,275.0
+Archon,32mm,85.0
+Succubus,25mm,45.0
+Lelith Hesperax,32mm,95.0
+Haemonculus,25mm,60.0
+Urien Rakarth,25mm,80.0
+Drazhar,40mm,85.0
+Kabalite Warriors,25mm,100.0
+Wyches,25mm,80.0
+INCUBI,28.5mm,85.0
+INCUBI,28.5mm,170.0
+KLAIVEX,28.5mm,85.0
+KLAIVEX,28.5mm,170.0
+Mandrakes,28.5mm,65.0
+Mandrakes,28.5mm,120.0
+Wracks,25mm,55.0
+Wracks,25mm,110.0
+Grotesques,40mm,80.0
+Grotesques,40mm,170.0
+BEASTMASTER,32mm flying base,120.0
+CLAWED FIEND,40mm,120.0
+KHYMERAE,40mm,120.0
+RAZORWING FLOCK,40mm,120.0
+Raider,60mm flying base,75.0
+Venom,60mm flying base,65.0
+Reavers,32mm flying base,65.0
+Reavers,32mm flying base,120.0
+Hellions,32mm flying base,75.0
+Hellions,32mm flying base,150.0
+Razorwing Jetfighter,120 x 92mm flying base,170.0
+Voidraven Bomber,120 x 92mm flying base,235.0
+Scourges,32mm,130.0
+Scourges,32mm,180.0
+Talos,60mm flying base,80.0
+Talos,60mm flying base,160.0
+Cronos,60mm flying base,50.0
+Cronos,60mm flying base,85.0
+Ravager,60mm flying base,100.0
+Reaper,Use model,95.0
+Tantalus,Use model,230.0
+Leman Russ Commander,Use model,235.0
+Heavy Weapons Squad,50mm,65.0
+Scout Sentinels,80mm,55.0
+Scout Sentinels,80mm,110.0
+Armoured Sentinels,80mm,65.0
+Armoured Sentinels,80mm,130.0
+Chimera,Use model,85.0
+Taurox,Use model,75.0
+Hellhound,Use model,125.0
+Basilisk,Use model,140.0
+Hydra,Use model,95.0
+Wyvern,Use model,110.0
+Manticore,Use model,165.0
+Deathstrike,Use model,145.0
+Leman Russ Battle Tank,Use model,185.0
+Leman Russ Demolisher,Use model,190.0
+Baneblade,Use model,450.0
+Banehammer,Use model,420.0
+Banesword,Use model,450.0
+Doomhammer,Use model,415.0
+Hellhammer,Use model,420.0
+Shadowsword,Use model,410.0
+Stormlord,Use model,430.0
+Stormsword,Use model,465.0
+‘Iron Hand' Straken,25mm,55.0
+Sergeant Harker,25mm,40.0
+Commissar,28.5mm,30.0
+TEMPESTUS SCION,25mm,85.0
+TEMPESTOR PRIME,25mm,85.0
+Taurox Prime,Use model,90.0
+Ogryn Squad,40mm,60.0
+Ogryn Squad,40mm,130.0
+Bullgryn Squad,40mm,100.0
+Bullgryn Squad,40mm,200.0
+Ratlings,25mm,60.0
+Ratlings,25mm,100.0
+Nork Deddog,40mm,60.0
+Valkyrie,120 x 92mm flying base,190.0
+Atlas Recovery Vehicle,Use model,80.0
+Salamander Command Vehicle,Use model,80.0
+Hades Breaching Drill,Use model,110.0
+Centaur Light Carrier,Use model,40.0
+Trojan Support Vehicle,Use model,80.0
+Salamander Scout Vehicle,Use model,95.0
+Tauros Assault Vehicle,Use model,50.0
+Tauros Venator,Use model,55.0
+Armageddon-pattern Medusa,Use model,105.0
+Colossus,Use model,160.0
+Cyclops Demolition Vehicle,Use model,25.0
+Earthshaker Carriage Battery,Use model,120.0
+Griffon Mortar Carrier,Use model,115.0
+Heavy Mortar Team,Use model,50.0
+Heavy Quad Launcher Team,Use model,50.0
+Hydra Platform,Use model,95.0
+Malcador Annihilator,Use model,270.0
+Malcador Defender,Use model,310.0
+Malcador,Use model,250.0
+Malcador Infernus,Use model,235.0
+Manticore Platform,Use model,95.0
+Medusa Carriage Battery,Use model,125.0
+Rapier Laser Destroyer Battery,Use model,35.0
+Rapier Laser Destroyer Battery,Use model,70.0
+Rapier Laser Destroyer Battery,Use model,105.0
+Sabre Weapons Battery,Use model,45.0
+Sabre Weapons Battery,Use model,90.0
+Sentinel Powerlifter,Use model,55.0
+Stygies Destroyer Tank Hunter,Use model,180.0
+Tarantula Battery,Use model,40.0
+Tarantula Battery,Use model,80.0
+Tarantula Battery,Use model,120.0
+Stormblade,Use model,415.0
+Arkurian Stormhammer,Use model,480.0
+Crassus,Use model,180.0
+Dominus Armoured Siege Bombard,Use model,325.0
+Gorgon Heavy Transport,Use model,275.0
+Macharius,Use model,310.0
+Macharius Omega,Use model,310.0
+Macharius Vanquisher,Use model,285.0
+Macharius Vulcan,Use model,310.0
+Marauder Bomber,Use model,345.0
+Marauder Destroyer,Use model,375.0
+Minotaur,Use model,225.0
+Praetor,Use model,275.0
+Valdor,Use model,285.0
+Aquila Lander,120 x 92mm flying base,120.0
+Arvus Lighter,120 x 92mm flying base,95.0
+Avenger Strike Fighter,120 x 92mm flying base,130.0
+Voss-pattern Lightning,120 x 92mm flying base,130.0
+Vendetta Gunship,120 x 92mm flying base,255.0
+Vulture Gunship,120 x 92mm flying base,225.0
+Imperial Fortress Walls,Use model,
+Primaris Redoubt,Use model,220.0
+Belisarius Cawl,105 x 70mm,175.0
+Tech-priest Dominus,50mm,65.0
+Tech-priest Enginseer,32mm,55.0
+Kataphron Breachers,60mm,160.0
+Kataphron Breachers,60mm,320.0
+Kataphron Destroyers,60mm,105.0
+Kataphron Destroyers,60mm,210.0
+Fulgurite Electro-priests,32mm,70.0
+Fulgurite Electro-priests,32mm,140.0
+Corpuscarii Electro-priests,32mm,65.0
+Corpuscarii Electro-priests,32mm,130.0
+Kastelan Robots,60mm,180.0
+Kastelan Robots,60mm,360.0
+Cybernetica Datasmith,32mm,35.0
+Servitors,25mm,50.0
+Skitarii Rangers,25mm,85.0
+Skitarii Vanguard,25mm,95.0
+Sicarian Infiltrators,40mm,70.0
+Sicarian Infiltrators,40mm,140.0
+Sicarian Ruststalkers,40mm,75.0
+Sicarian Ruststalkers,40mm,150.0
+Ironstrider Ballistarii,105 x 70mm,75.0
+Ironstrider Ballistarii,105 x 70mm,150.0
+Ironstrider Ballistarii,105 x 70mm,225.0
+Sydonian Dragoons,105 x 70mm,65.0
+Sydonian Dragoons,105 x 70mm,130.0
+Sydonian Dragoons,105 x 70mm,195.0
+Onager Dunecrawler,130mm,155.0
+Knight Paladin,170 x 109mm,375.0
+Knight Errant,170 x 109mm,375.0
+Knight Warden,170 x 109mm,385.0
+Knight Gallant,170 x 109mm,375.0
+Knight Crusader,170 x 109mm,395.0
+Acastus Knight Porphyrion,Use model,700.0
+Cerastus Knight Acheron,170 x 109mm,395.0
+Cerastus Knight Atrapos,170 x 109mm,405.0
+Cerastus Knight Castigator,170 x 109mm,395.0
+Cerastus Knight Lancer,170 x 109mm,395.0
+Questoris Knight Magaera,170 x 109mm,385.0
+Questoris Knight Styrix,170 x 109mm,385.0
+Warhound Titan,Use model,1100.0
+Reaver Titan,Use model,2200.0
+Warlord Titan,Use model,3500.0
+Vindicare Assassin,32mm,110.0
+Vindicare Assassin,32mm,125.0
+Callidus Assassin,32mm,100.0
+Eversor Assassin,32mm,110.0
+Eversor Assassin,32mm,120.0
+Culexus Assassin,32mm,85.0
+Inquisitor Greyfax,32mm,65.0
+Inquisitor Karamazov,60mm,140.0
+Inquisitor Coteaz,40mm,75.0
+Inquisitor Coteaz,40mm,95.0
+Inquisitor,32mm,55.0
+Custodian Guard,40mm,160.0
+Custodian Guard,40mm,200.0
+Venerable Contemptor Dreadnought,60mm,170.0
+Venerable Land Raider,Use model,220.0
+Primaris Psyker,32mm,60.0
+Crusaders,25mm,40.0
+Crusaders,25mm,80.0
+Death Cult Assassins,25mm,55.0
+Death Cult Assassins,25mm,110.0
+Arco-flagellants,25mm,45.0
+Arco-flagellants,25mm,140.0
+Penitent Engines,50mm,75.0
+Penitent Engines,50mm,150.0
+CELESTINE,40mm,150.0
+GEMINAE SUPERIA,32mm,150.0
+Canoness,32mm,50.0
+Imagifier,32mm,65.0
+Hospitaller,50mm,50.0
+Dialogus,40mm,40.0
+Battle Sisters Squad,32mm,105.0
+Seraphim Squad,32mm,80.0
+Seraphim Squad,32mm,160.0
+REPENTIA SUPERIOR,32mm,75.0
+REPENTIA SUPERIOR,32mm,160.0
+SISTERS REPENTIA,28.5mm,75.0
+SISTERS REPENTIA,28.5mm,160.0
+Retributor Squad,32mm,105.0
+Dominion Squad,32mm,115.0
+Sororitas Rhino,Use model,75.0
+Immolator,Use model,115.0
+Exorcist,Use model,210.0
+Bastion,Use model,275.0
+Vengeance Weapon Battery,Use model,140.0
+Firestorm Redoubt,Use model,260.0
+Plasma Obliterator,Use model,225.0
+Macro-cannon Aquila Strongpoint,Use model,550.0
+Vortex Missile Strongpoint,Use model,525.0
+Void Shield Generator,Use model,155.0
+Skyshield Landing Pad,Use model,125.0
+Abaddon The Despoiler,60mm,270.0
+Huron Blackheart,50mm,80.0
+Cypher,32mm,90.0
+FABIUS BILE,40mm,85.0
+SURGEON ACOLYTE,32mm,85.0
+Chaos Lord,40mm,90.0
+Chaos Lord In Terminator Armour,40mm,95.0
+Chaos Lord On Bike,75 x 25mm,95.0
+Chaos Lord On Juggernaut,90 x 52mm,115.0
+Chaos Lord On Disc Of Tzeentch,40mm,100.0
+Chaos Lord On Palanquin Of Nurgle,60mm,90.0
+Chaos Lord On Steed Of Slaanesh,No official base size,100.0
+DARK APOSTLE,40mm,65.0
+DARK DISCIPLE,25mm,65.0
+Heretic Astartes Daemon Prince,60mm,165.0
+Sorcerer,40mm,60.0
+Sorcerer In Terminator Armour,40mm,80.0
+Sorcerer On Bike,75 x 25mm,75.0
+Sorcerer On Disc Of Tzeentch,40mm,80.0
+Sorcerer On Palanquin Of Nurgle,60mm,80.0
+Sorcerer On Steed Of Slaanesh,No official base size,85.0
+Warpsmith,60 x 35.5mm,70.0
+Cultist Mob,25mm,50.0
+Cultist Mob,25mm,100.0
+Chaos Terminator Squad,40mm,180.0
+Chaos Terminator Squad,40mm,360.0
+Chosen,32mm,125.0
+Chosen,32mm,250.0
+Possessed,40mm,120.0
+Possessed,40mm,240.0
+Helbrute,60mm,130.0
+Mutilators,40mm,185.0
+Chaos Rhino,Use model,75.0
+Chaos Bikers,75 x 42mm,70.0
+Chaos Bikers,75 x 42mm,130.0
+Raptors,32mm,90.0
+Raptors,32mm,170.0
+Warp Talons,32mm,125.0
+Warp Talons,32mm,270.0
+Chaos Spawn,50mm,70.0
+Heldrake,120 x 92mm flying base,205.0
+Chaos Land Raider,Use model,220.0
+Chaos Predator Destructor,Use model,140.0
+Chaos Vindicator,Use model,185.0
+Obliterators,50mm,160.0
+Havocs,40mm,125.0
+Forgefiend,120 x 92mm,180.0
+Maulerfiend,120 x 92mm,130.0
+Defiler,160mm,190.0
+Khorne Lord Of Skulls,Use model,450.0
+Sorcerer,32mm,85.0
+Sorcerer In Terminator Armour,40mm,85.0
+Rubric Marine,32mm,105.0
+Rubric Marine,32mm,190.0
+Aspiring Sorcerer,32mm,105.0
+Aspiring Sorcerer,32mm,190.0
+Helbrute,60mm,110.0
+Chaos Rhino,Use model,90.0
+Chaos Spawn,50mm,65.0
+Heldrake,120 x 92mm flying base,215.0
+Chaos Land Raider,Use model,220.0
+Chaos Predator Destructor,Use model,140.0
+Chaos Vindicator,Use model,185.0
+Forgefiend,120 x 92mm,140.0
+Maulerfiend,120 x 92mm,130.0
+Defiler,160mm,165.0
+Magnus The Red,100mm,435.0
+Ahriman,40mm,100.0
+Exalted Sorcerer,32mm,80.0
+Tzaangors,32mm,70.0
+Tzaangors,32mm,160.0
+Scarab Occult Terminator,40mm,180.0
+Scarab Occult Terminator,40mm,360.0
+Scarab Occult Sorcerer,40mm,180.0
+Scarab Occult Sorcerer,40mm,360.0
+Daemon Prince of Tzeentch,60mm,180.0
+Death Guard Chaos Lord,40mm,
+Death Guard Chaos Lord In Terminator Armour,40mm,
+Death Guard Sorcerer In Terminator Armour,40mm,
+Death Guard Cultists,25mm,
+Plague Marines,32mm,95.0
+Plague Marines,32mm,130.0
+Plague Marines,32mm,190.0
+Death Guard Possessed,32mm,155.0
+Death Guard Possessed,32mm,310.0
+Helbrute,60mm,115.0
+Chaos Rhino,Use model,85.0
+Chaos Spawn,50mm,80.0
+Chaos Land Raider,Use model,240.0
+Chaos Predator Annihilator,Use model,135.0
+Daemon Prince of Nurgle,60mm,195.0
+Typhus,50mm,100.0
+Lord of Contagion,40mm,120.0
+Malignant Plaguecaster,32mm,60.0
+Poxwalkers,25mm,65.0
+Poxwalkers,25mm,130.0
+Foetid Bloat-drone,60mm,100.0
+Noxious Blightbringer,40mm,50.0
+Chaos Cerastus Knight Acheron,170 x 109mm,385.0
+Chaos Cerastus Knight Lancer,170 x 109mm,385.0
+Chaos Cerastus Knight Castigator,170 x 109mm,385.0
+Chaos Cerastus Knight Atrapos,170 x 109mm,395.0
+Chaos Questoris Knight Magaera,120 x 92mm,375.0
+Chaos Acastus Knight Porphyrion,Use model,700.0
+Chaos Questoris Knight Styrix,120 x 92mm,375.0
+Karanak,75 x 42mm,75.0
+Skarbrand,100mm,305.0
+Skulltaker,40mm,85.0
+Rendmaster On Blood Throne,120 x 92mm,165.0
+Flesh Hounds,60 x 35.5mm,75.0
+Flesh Hounds,60 x 35.5mm,150.0
+Bloodletters,32mm,110.0
+Bloodcrushers,90 x 52mm,110.0
+Bloodcrushers,90 x 52mm,220.0
+Skull Cannon,120 x 92mm,95.0
+Kairos Fateweaver,100mm,270.0
+The Changeling,40mm,90.0
+The Blue Scribes,60mm flying base,75.0
+Lord of Change,100mm,260.0
+Flamers,32mm,65.0
+Flamers,32mm,130.0
+Exalted Flamer,75 x 42mm,65.0
+Screamers,32mm flying base,80.0
+Screamers,32mm flying base,160.0
+Burning Chariot,120 x 92mm,115.0
+Epidemius,60mm,80.0
+Great Unclean One,130mm,250.0
+Plaguebearers,32mm,110.0
+Nurglings,40mm,40.0
+Nurglings,40mm,70.0
+Beasts Of Nurgle,60mm,65.0
+Beasts Of Nurgle,60mm,130.0
+Plague Drones,60mm,110.0
+Plague Drones,60mm,220.0
+The Masque Of Slaanesh,32mm,95.0
+Keeper Of Secrets,100mm,270.0
+Tranceweaver,32mm,60.0
+Herald Of Slaanesh On Steed Of Slaanesh,60 x 35.5mm,70.0
+Tormentbringer On Exalted Seeker Chariot,120 x 92mm,140.0
+Daemonettes,25mm,100.0
+Fiends,75 x 42mm,95.0
+Fiends,75 x 42mm,190.0
+Hellflayer,120 x 92mm,80.0
+Hellflayer,120 x 92mm,160.0
+Seekers,60 x 35.5mm,80.0
+Seekers,60 x 35.5mm,160.0
+Seeker Chariot,120 x 92mm,65.0
+Seeker Chariot,120 x 92mm,130.0
+Exalted Seeker Chariot,120 x 92mm,115.0
+Be'lakor,100mm,375.0
+Daemon Prince of Chaos,60mm,190.0
+Furies,25mm,40.0
+Furies,25mm,80.0
+Soul Grinder,160mm,180.0
+Cerberus,Use model,285.0
+Vanguard Veteran Squad,32mm,120.0
+Vanguard Veteran Squad,32mm,240.0
+Invictor Tactical Warsuit,90mm,125.0
+Intercessor Squad,32mm,80.0
+Intercessor Squad,32mm,160.0
+Invader Atv,Use model,60.0
+Incursor Squad,32mm,80.0
+Incursor Squad,32mm,160.0
+Scout Squad,28.5mm,70.0
+Scout Squad,28.5mm,140.0
+Sicaran Arcus,Use model,200.0
+Sergeant Telion,25mm,70.0
+Sicaran Omega,Use model,235.0
+Thunderfire Cannon,Use model,90.0
+Bladeguard Ancient,40mm,45.0
+Company Veterans On Bikes,75 x 25mm,110.0
+Company Veterans On Bikes,75 x 25mm,275.0
+Company Champion On Bike,75 x 25mm,60.0
+Land Speeder Tempest,60mm flying base,95.0
+Land Speeder Tornado,60mm flying base,95.0
+Captain In Gravis Armour,40mm,80.0
+Chaplain,40mm,60.0
+Kratos,Use model,265.0
+Heavy Intercessor Squad,40mm,100.0
+Heavy Intercessor Squad,40mm,200.0
+Vindicator Laser Destroyer,Use model,175.0
+Sokar-pattern Stormbird,Use model,1100.0
+Ancient On Bike,75 x 25mm,90.0
+Terminator Squad,40mm,170.0
+Terminator Squad,40mm,340.0
+Terminus Ultra,Use model,285.0
+Sicaran Battle Tank,Use model,220.0
+Vindicator,Use model,185.0
+Mastodon,Use model,610.0
+Stormtalon Gunship,120 x 92mm flying base,165.0
+Stormraven Gunship,120 x 92mm flying base,280.0
+Chaplain Venerable Dreadnought,60mm,150.0
+Centurion Devastator Squad,50mm,165.0
+Centurion Devastator Squad,50mm,330.0
+Grey Knights Thunderhawk Gunship,Use model,805.0
+Repressor,Use model,130.0
+Valkyrie Sky Talon,120 x 92mm flying base,185.0
+Blood Slaughterer,Use model,160.0
+Greater Blight Drone,60mm,150.0
+Decimator,60mm,170.0
+Kytan Ravager,170 x 109mm,425.0
+Greater Brass Scorpion,Use model,560.0
+Chaos Deimos Predator,Use model,115.0
+Dreadclaw Drop Pod,120 x 92mm flying base,115.0
+Kharybdis Assault Claw,120 x 92mm flying base,325.0
+Hell Blade,120 x 92mm flying base,115.0
+Hell Talon,120 x 92mm flying base,140.0
+Chaos Thunderhawk,120 x 92mm flying base,840.0
+An'ggrath The Unbound,130mm,415.0
+Zarakynel,105 x 70mm,320.0
+Aetaos'rau'keres,130mm,315.0
+Plague Toads,60mm,120.0
+Pox Riders,60mm,160.0
+Spined Chaos Beast,No official base size,145.0
+Giant Chaos Spawn,100mm,130.0
+Scabeiathrax The Bloated,Use model,275.0
+Librarian With Jump Pack,25mm,75.0
+Lieutenant In Reiver Armour,40mm,55.0
+Lieutenant,40mm,65.0
+Land Raider Prometheus,Use model,275.0
+Librarian On Bike,75 x 25mm,80.0
+Exalted Champion,40mm,70.0
+Grand Master In Nemesis Dreadknight,120 x 92mm,225.0
+Brotherhood Librarian,40mm,80.0
+Brotherhood Chaplain,40mm,65.0
+Stormhawk Interceptor,120 x 92mm flying base,160.0
+Stormtalon Gunship,120 x 92mm flying base,170.0
+Foul Blightspawn,40mm,75.0
+Biologus Putrifier,40mm,60.0
+Plague Surgeon,40mm,50.0
+Tallyman,40mm,50.0
+Deathshroud Terminators,40mm,160.0
+Deathshroud Terminators,40mm,320.0
+Blightlord Terminators,40mm,115.0
+Blightlord Terminators,40mm,185.0
+Blightlord Terminators,40mm,370.0
+Myphitic Blight-haulers,80mm,100.0
+Myphitic Blight-haulers,80mm,200.0
+Plagueburst Crawler,Use model,210.0
+Mortarion,100mm,380.0
+Mukaali Riders,40mm,110.0
+Grot Bomm Launcha,Use model,50.0
+Attack Fighta,120 x 92mm flying base,100.0
+Fighta-bommer,120 x 92mm flying base,100.0
+Deff Rolla Battle Fortress,Use model,250.0
+Kill Krusha,Use model,230.0
+Raven Strike Fighter,120 x 92mm flying base,130.0
+Knarloc Riders,65mm,110.0
+Great Knarloc,65mm,100.0
+Firestorm,60mm flying base,115.0
+Ministorum Priest,32mm,35.0
+Tech-Priest Enginseer,32mm,45.0
+Munitorum Servitors,25mm,35.0
+Ogryn Bodyguard,40mm,40.0
+Bonesinger,25mm,45.0
+Sly Marbo,32mm,55.0
+Ravenwing Talonmaster,65mm,105.0
+Trajann Valoris,40mm,140.0
+Shield-captain,40mm,120.0
+Shield-captain In Allarus Terminator Armour,40mm,130.0
+Shield-captain On Dawneagle Jetbike,75 x 42mm,150.0
+Custodian Wardens,40mm,210.0
+Custodian Wardens,40mm,260.0
+Allarus Custodians,40mm,120.0
+Allarus Custodians,40mm,180.0
+Allarus Custodians,40mm,300.0
+Allarus Custodians,40mm,360.0
+Vertus Praetors,75 x 42mm,150.0
+Vertus Praetors,75 x 42mm,225.0
+Bloodmaster,40mm,65.0
+Skullmaster,60mm,100.0
+Contemptor-achillus Dreadnought,60mm,155.0
+Caladius Grav-tank,170 x 109mm,215.0
+Coronus Grav-carrier,Use model,200.0
+Changecaster,32mm,60.0
+Fateskimmer,120 x 92mm,95.0
+Fluxmaster,60mm flying base,60.0
+Rotigus,130mm,250.0
+Horticulous Slimux,105 x 70mm,120.0
+Poxbringer,32mm,55.0
+Sloppity Bilepiper,32mm,55.0
+Spoilpox Scrivener,40mm,60.0
+Feculent Gnarlmaw,Use model,100.0
+Tzaangor Shaman,40mm,60.0
+Tzaangor Enlightened,40mm,55.0
+Tzaangor Enlightened,40mm,90.0
+Mutalith Vortex Beast,120 x 92mm,175.0
+Commander In Crisis Battlesuit,50mm,80.0
+Commander In Enforcer Battlesuit,60mm,80.0
+Telemon Heavy Dreadnought,100mm,225.0
+Armiger Helverin,100mm,140.0
+Armiger Warglaive,100mm,140.0
+Knight Preceptor,170 x 109mm,365.0
+Canis Rex,170 x 109mm,415.0
+Knight Castellan,170 x 109mm,410.0
+Knight Valiant,170 x 109mm,410.0
+Scout Sniper Squad,25mm,75.0
+Scout Sniper Squad,25mm,150.0
+Sergeant Chronus,25mm,75.0
+Secutarii Hoplites,25mm,65.0
+Secutarii Hoplites,25mm,130.0
+Secutarii Peltasts,25mm,50.0
+Secutarii Peltasts,25mm,100.0
+Techmarine On Bike,75 x 25mm,110.0
+Terrax-pattern Termite,Use model,200.0
+Big Mek With Shokk Attack Gun,40mm,80.0
+Deffkilla Wartrike,150 x 95mm,80.0
+Kustom Boosta-blasta,150 x 95mm,70.0
+Shokkjump Dragsta,150 x 95mm,70.0
+Boomdakka Snazzwagon,150 x 95mm,70.0
+Megatrakk Scrapjet,150 x 95mm,75.0
+Rukkatrukk Squigbuggy,150 x 95mm,95.0
+Abominant,40mm,85.0
+Preacher,32mm,50.0
+Haarken Worldclaimer,40mm,90.0
+Contemptor-galatus Dreadnought,60mm,165.0
+Aquilon Custodians,50mm,195.0
+Aquilon Custodians,50mm,390.0
+Custodian Guard With Adrasite And Pyrithite Spears,40mm,250.0
+Agamatus Custodians,60mm flying base,225.0
+Agamatus Custodians,60mm flying base,450.0
+Venatari Custodians,40mm,165.0
+Venatari Custodians,40mm,330.0
+Pallas Grav-attack,105 x 70mm,105.0
+Sagittarum Custodians,40mm,225.0
+Orion Assault Dropship,160mm,690.0
+Jackal Alphus,60 x 35.5mm,55.0
+Clamavus,32mm,50.0
+Locus,32mm,45.0
+Sanctus,32mm,50.0
+Kelermorph,32mm,60.0
+Nexos,40mm,60.0
+Biophagus,25mm,50.0
+Achilles Ridgerunners,120 x 92mm,95.0
+Achilles Ridgerunners,120 x 92mm,170.0
+ATALAN JACKAL,60 x 35.5mm,85.0
+ATALAN JACKAL,60 x 35.5mm,150.0
+ATALAN WOLFQUAD,60mm,85.0
+ATALAN WOLFQUAD,60mm,150.0
+Tectonic Fragdrill,Use model,125.0
+Seraptek Heavy Construct,Use model,540.0
+Inquisitor Eisenhorn,32mm,65.0
+Tech-priest Manipulus,50mm,60.0
+Master Of Possession,40mm,60.0
+Lord Discordant On Helstalker,120 x 92mm,160.0
+Master Of Executions,40mm,80.0
+Venomcrawler,100mm,110.0
+Noctilith Crown,Use model,125.0
+Skull Altar,Use model,105.0
+Infernal Enrapturess,60 x 35.5mm,60.0
+Rein And Raus,25mm,50.0
+Amallyn Shadowguide,32mm,75.0
+Rogue Psyker,32mm,60.0
+Negavolt Cultists,32mm,55.0
+Spindle Drones,25mm,35.0
+Fellgor Beastmen,32mm,70.0
+Assault Intercessor Squad,32mm,75.0
+Assault Intercessor Squad,32mm,150.0
+Land Raider Achilles,Use model,285.0
+Land Raider Proteus,Use model,250.0
+Fire Raptor Gunship,120 x 92mm flying base,290.0
+Storm Speeder Thunderstrike,90mm,150.0
+Chief Librarian Tigurius,40mm,75.0
+Ambull,50mm,85.0
+Contorted Epitome,75 x 42mm,100.0
+Shalaxi Helbane,100mm,380.0
+Syll'esske,50mm,120.0
+Skorpius Dunerider,Use model,85.0
+Skorpius Disintegrator,Use model,165.0
+Knight Despoiler,170 x 109mm,375.0
+Knight Tyrant,170 x 109mm,410.0
+Knight Desecrator,170 x 109mm,365.0
+Knight Rampager,170 x 109mm,365.0
+Chaos Acastus Knight Asterius,Use model,765.0
+War Dog Moirax,100mm,150.0
+Acastus Knight Asterius,Use model,765.0
+Falchion,Use model,515.0
+Gladiator Reaper,100mm,160.0
+Eliminator Squad,40mm,85.0
+Ares Gunship,160mm,580.0
+X-101,32mm,40.0
+Gladiator Valiant,100mm,150.0
+Terrax-pattern Termite,Use model,200.0
+Da Red Gobbo,32mm,40.0
+Carnodon,Use model,160.0
+Death Company Marines,32mm,85.0
+Death Company Marines,32mm,160.0
+Triumph Of Saint Katherine,120 x 92mm,235.0
+Junith Eruita,50mm,80.0
+Zephyrim Squad,32mm,80.0
+Zephyrim Squad,32mm,160.0
+Mortifiers,50mm,70.0
+Mortifiers,50mm,140.0
+Battle Sanctum,Use model,170.0
+Attack Bike Squad,Use model,55.0
+Attack Bike Squad,Use model,110.0
+Attack Bike Squad,Use model,165.0
+Warbringer Nemesis Titan,Use model,2600.0
+Big Mek With Kustom Force Field,40mm,55.0
+Serberys Sulphurhounds,60 x 35.5mm,55.0
+Serberys Sulphurhounds,60 x 35.5mm,110.0
+Serberys Raiders,60 x 35.5mm,60.0
+Serberys Raiders,60 x 35.5mm,120.0
+Pteraxii Sterylizors,40mm,80.0
+Pteraxii Sterylizors,40mm,160.0
+Pteraxii Skystalkers,40mm,70.0
+Pteraxii Skystalkers,40mm,140.0
+Archaeopter Transvector,170 x 109mm,150.0
+Archaeopter Stratoraptor,170 x 109mm,185.0
+Archaeopter Fusilave,170 x 109mm,160.0
+Aleya,32mm,65.0
+Inquisitor Draxus,32mm,75.0
+Inquisitor Draxus,32mm,95.0
+Illuminor Szeras,80mm,165.0
+The Archivist,50mm,70.0
+Hellblaster Squad,32mm,110.0
+Hellblaster Squad,32mm,220.0
+Aggressor Squad,40mm,100.0
+Aggressor Squad,40mm,200.0
+Adrax Agatone,40mm,85.0
+Land Speeder Typhoon,60mm flying base,100.0
+Command Squad,32mm,165.0
+Darnath Lysander,50mm,100.0
+Plasmancer,32mm,55.0
+Skorpekh Lord,60mm,90.0
+Skorpekh Destroyers,50mm,90.0
+Skorpekh Destroyers,50mm,180.0
+Cryptothralls,32mm,60.0
+Canoptek Reanimator,60mm,75.0
+Canoptek Scarab Swarms,40mm,40.0
+Canoptek Scarab Swarms,40mm,80.0
+Canoptek Doomstalker,90mm,140.0
+Lokhust Heavy Destroyers,60mm,55.0
+Lokhust Heavy Destroyers,60mm,110.0
+Lokhust Heavy Destroyers,60mm,165.0
+Land Raider Redeemer,Use model,270.0
+Devastator Squad,32mm,120.0
+Devastator Squad,32mm,200.0
+Primaris Company Champion,32mm,55.0
+Spartan,Use model,315.0
+Sternguard Veteran Squad,32mm,100.0
+Sternguard Veteran Squad,32mm,200.0
+Stalker,Use model,140.0
+Librarian,40mm,65.0
+Deathstorm Drop Pod,Use model,95.0
+Deimos Predator,Use model,115.0
+Deredeo Dreadnought,80mm,170.0
+Desolation Squad,32mm,200.0
+Death Company Marines,32mm,85.0
+Death Company Marines,32mm,160.0
+Sammael,60mm flying base,115.0
+Lazarus,40mm,70.0
+Deathwing Command Squad,40mm,200.0
+Deathwing Command Squad,40mm,400.0
+Royal Warden,32mm,50.0
+Lokhust Lord,60mm flying base,80.0
+Technomancer,50mm,80.0
+Psychomancer,40mm,55.0
+Chronomancer,40mm,65.0
+Hexmark Destroyer,50mm,75.0
+C'tan Shard of the Void Dragon,80mm,300.0
+Ophydian Destroyers,50mm,80.0
+Ophydian Destroyers,50mm,160.0
+Lokhust Destroyers,60mm flying base,40.0
+Lokhust Destroyers,60mm flying base,60.0
+Lokhust Destroyers,60mm flying base,90.0
+Lokhust Destroyers,60mm flying base,180.0
+SZAREKH,100mm,400.0
+TRIARCHAL MENHIR,50mm,400.0
+Convergence Of Dominion,Use model,60.0
+Convergence Of Dominion,Use model,120.0
+Convergence Of Dominion,Use model,180.0
+Tomb Citadel Walls,Use model,920.0
+Guardian Drone,50mm,45.0
+GRENADIER,25mm,110.0
+HEAVY WEAPONS TEAM,60mm,110.0
+QUARTERMASTER REVENANT,25mm,45.0
+MEDICAE SERVITOR,25mm,45.0
+Elysian Sniper Squad,60mm,65.0
+Death Rider Commissar,40mm,35.0
+Storm Chimera,Use model,90.0
+Mega Dread,Use model,225.0
+Lord of Virulence,50mm,100.0
+Chaos Predator Destructor,Use model,145.0
+Miasmic Malignifier,Use model,105.0
+Deathwing Strikemaster,40mm,80.0
+Court Of The Archon,25mm,95.0
+Palatine,32mm,50.0
+Tor Garadon,40mm,90.0
+Technoarcheologist,32mm,45.0
+Skitarii Marshal,32mm,35.0
+Morvenn Vahl,60mm,170.0
+AESTRED THURGA,32mm,70.0
+AGATHAE DOLAN,25mm,70.0
+Celestian Sacresants,32mm,70.0
+Celestian Sacresants,32mm,130.0
+Dogmata,32mm,45.0
+Paragon Warsuits,50mm,210.0
+Castigator,Use model,160.0
+IBRAM GAUNT,28.5mm,100.0
+TANITH GHOST,28.5mm,100.0
+Zodgrod Wortsnagga,50mm,90.0
+Beastboss,50mm,80.0
+Beastboss On Squigosaur,80mm,110.0
+Painboss,40mm,70.0
+Wurrboy,32mm,60.0
+Mozrog Skragbad,80mm,145.0
+BEAST SNAGGA BOY,32mm,95.0
+BEAST SNAGGA BOY,32mm,190.0
+BEAST SNAGGA NOB,32mm,95.0
+BEAST SNAGGA NOB,32mm,190.0
+Squighog Boyz,75 x 42mm,150.0
+Squighog Boyz,75 x 42mm,300.0
+Nob On Smasha Squig,90 x 52mm,150.0
+Nob On Smasha Squig,90 x 52mm,300.0
+Kill Rig,170 x 109mm,155.0
+Hunta Rig,170 x 109mm,135.0
+Big'ed Bossbunka,Use model,135.0
+Infernal Master,40mm,95.0
+Chaos Predator Annihilator,Use model,130.0
+NOVITIATE SUPERIOR,32mm,100.0
+SISTER NOVITIATE,28.5mm,100.0
+Voidsmen-at-arms,25mm,50.0
+Voidsmen-at-arms,25mm,70.0
+Blade Champion,40mm,120.0
+Valerian,40mm,110.0
+Knight-centura,32mm,55.0
+Prosecutors,32mm,40.0
+Prosecutors,32mm,50.0
+Prosecutors,32mm,75.0
+Prosecutors,32mm,85.0
+Vigilators,32mm,50.0
+Vigilators,32mm,65.0
+Vigilators,32mm,100.0
+Vigilators,32mm,110.0
+Witchseekers,32mm,50.0
+Witchseekers,32mm,65.0
+Witchseekers,32mm,115.0
+Witchseekers,32mm,125.0
+Anathema Psykana Rhino,Use model,75.0
+Reductus Saboteur,32mm,65.0
+Winged Hive Tyrant,60mm,170.0
+Parasite Of Mortrex,40mm,80.0
+Lieutenant In Phobos Armour,40mm,55.0
+Corsair Voidreavers,28.5mm,65.0
+Corsair Voidreavers,28.5mm,110.0
+Corsair Voidscarred,28.5mm,80.0
+Corsair Voidscarred,28.5mm,160.0
+Shroud Runners,60mm flying base,80.0
+Shroud Runners,60mm flying base,160.0
+Troupe Master,25mm,75.0
+Shadowseer,25mm,60.0
+Troupe,25mm,85.0
+Troupe,25mm,100.0
+Troupe,25mm,190.0
+Troupe,25mm,205.0
+Death Jester,25mm,90.0
+Solitaire,25mm,115.0
+Skyweavers,60mm flying base,95.0
+Skyweavers,60mm flying base,190.0
+Voidweaver,65mm,125.0
+Starweaver,65mm,80.0
+Yvraine,75 x 42mm,100.0
+The Visarch,32mm,90.0
+The Yncarne,80mm,260.0
+War Dog Executioner,100mm,130.0
+War Dog Stalker,100mm,140.0
+War Dog Karnivore,100mm,150.0
+War Dog Brigand,100mm,140.0
+War Dog Huntsman,100mm,140.0
+Knight Abominant,170 x 109mm,355.0
+Impulsor,100mm,80.0
+CULT DEMAGOGUE,32mm,90.0
+OTHER MODELS,28.5mm,90.0
+Legionaries,32mm,90.0
+Legionaries,32mm,170.0
+MUTANT,25mm,90.0
+MUTANT,25mm,195.0
+TORMENT,40mm,90.0
+TORMENT,40mm,195.0
+Chaos Predator Annihilator,Use model,135.0
+Bloodthirster,120 x 92mm,305.0
+Blue Horrors,25mm,125.0
+PINK HORROR,32mm,140.0
+BLUE HORROR/BRIMSTONE HORROR,25mm,140.0
+Imperial Navy Breachers,25mm,90.0
+FARSTALKERS & KILL-BROKER,28.5mm,85.0
+KROOT HOUNDS,28.5mm,85.0
+TRAITOR ENFORCER,32mm,55.0
+TRAITOR OGRYN,40mm,55.0
+Traitor Guardsmen Squad,25mm,70.0
+Mutoid Vermin,25mm,85.0
+NIGHTMARE HULK,40mm,125.0
+GELLERPOX MUTANTS,25mm,125.0
+Ûthar The Destined,40mm,95.0
+Kâhl,40mm,70.0
+Einhyr Champion,40mm,70.0
+GRIMNYR,40mm,65.0
+CORV,25mm,65.0
+BRÔKHYR IRON-MASTER,32mm,75.0
+IRONKIN ASSISTANT,28.5mm,75.0
+E-COG,25mm,75.0
+Hearthkyn Warriors,28.5mm,100.0
+Einhyr Hearthguard,32mm,135.0
+Einhyr Hearthguard,32mm,270.0
+Cthonian Beserks,28.5mm,100.0
+Cthonian Beserks,28.5mm,200.0
+Hernkyn Pioneers,90 x 52mm,80.0
+Hernkyn Pioneers,90 x 52mm,160.0
+Sagitaur,Use model,95.0
+Brôkhyr Thunderkyn,40mm,80.0
+Brôkhyr Thunderkyn,40mm,160.0
+Hekaton Land Fortress,Use model,240.0
+Lord Solar Leontus,80mm,130.0
+Ursula Creed,32mm,85.0
+Cadian Castellan,28.5mm,55.0
+CADIAN COMMANDER,28.5mm,65.0
+CADIAN VETERAN GUARDSMAN,28.5mm,65.0
+Regimental Attachés,,40.0
+Cadian Shock Troops,25mm,65.0
+Cadian Shock Troops,25mm,120.0
+Death Korps Of Krieg,25mm,65.0
+Death Korps Of Krieg,25mm,145.0
+Catachan Jungle Fighters,25mm,65.0
+Catachan Jungle Fighters,25mm,120.0
+Kasrkin,28.5mm,110.0
+Attilan Rough Riders,60 x 35.5mm,60.0
+Attilan Rough Riders,60 x 35.5mm,120.0
+Rogal Dorn Battle Tank,Use model,250.0
+Aegis Defence Line,Use model,145.0
+Angron,100mm,360.0
+Khârn The Betrayer,40mm,100.0
+Lord Invocatus,90 x 52mm,110.0
+Daemon Prince of Khorne,60mm,200.0
+Lord On Juggernaut,90 x 52mm,90.0
+Master of Executions,40mm,60.0
+Khorne Berzerkers,32mm,180.0
+Khorne Berzerkers,32mm,360.0
+Jakhals,28.5mm,65.0
+Jakhals,28.5mm,140.0
+Chaos Terminators,40mm,175.0
+Chaos Terminators,40mm,350.0
+Eightbound,40mm,135.0
+Eightbound,40mm,270.0
+Exalted Eightbound,40mm,140.0
+Exalted Eightbound,40mm,280.0
+Helbrute,60mm,120.0
+Chaos Spawn,50mm,90.0
+Chaos Land Raider,Use model,220.0
+Chaos Predator Destructor,Use model,145.0
+Chaos Predator Annihilator,Use model,145.0
+Forgefiend,120 x 92mm,170.0
+Maulerfiend,120 x 92mm,150.0
+Chaos Rhino,Use model,85.0
+Heldrake,120 x 92mm flying base,200.0
+Khorne Lord of Skulls,Use model,505.0
+Ancient In Terminator Armour,40mm,75.0
+Chaplain Cassius,32mm,80.0
+Vashtorr The Arkifane,80mm,175.0
+Lion El'jonson,60mm,315.0
+Vigilant Squad,28.5mm,85.0
+Subductor Squad,28.5mm,85.0
+Subductor Squad,28.5mm,100.0
+Exaction Squad,28.5mm,90.0
+Barbgaunts,40mm,55.0
+Barbgaunts,40mm,110.0
+Neurogaunts,25mm,45.0
+Neurogaunts,25mm,90.0
+Neurotyrant,50mm,105.0
+Psychophage,120 x 92mm,110.0
+Screamer-killer,90mm,135.0
+Tyranid Warriors With Melee Bio-weapons,50mm,75.0
+Tyranid Warriors With Melee Bio-weapons,50mm,150.0
+Tyranid Warriors With Ranged Bio-weapons,50mm,65.0
+Tyranid Warriors With Ranged Bio-weapons,50mm,130.0
+Von Ryan's Leapers,40mm,70.0
+Von Ryan's Leapers,40mm,140.0
+Winged Tyranid Prime,50mm,65.0
+Astraeus,160mm,525.0
+Captain In Phobos Armour,40mm,70.0
+Captain On Bike,75 x 25mm,95.0
+Centurion Assault Squad,50mm,150.0
+Centurion Assault Squad,50mm,300.0
+Fellblade,Use model,535.0
+Gladiator Lancer,100mm,160.0
+Ironclad Dreadnought,60mm,150.0
+Judiciar,40mm,70.0
+Kayvaan Shrike,40mm,100.0
+Kor'sarro Khan,40mm,70.0
+Land Raider Helios,Use model,265.0
+Land Speeder,60mm flying base,80.0
+OUTRIDER,90 x 52mm,80.0
+OUTRIDER,90 x 52mm,160.0
+OUTRIDER,90 x 52mm,60.0
+INVADER ATV,Use model,80.0
+INVADER ATV,Use model,160.0
+INVADER ATV,Use model,60.0
+Pedro Kantor,25mm,90.0
+Predator Annihilator,Use model,135.0
+Predator Destructor,Use model,140.0
+Redemptor Dreadnought,90mm,195.0
+Reiver Squad,32mm,80.0
+Reiver Squad,32mm,160.0
+Relic Contemptor Dreadnought,60mm,180.0
+Relic Razorback,Use model,105.0
+Repulsor,100mm,180.0
+Repulsor Executioner,100mm,220.0
+Rhino,Use model,75.0
+Thunderhawk Transporter,120 x 92mm,495.0
+Tyrannic War Veterans,25mm,85.0
+Vulkan He'stan,40mm,100.0
+Whirlwind,Use model,190.0
+Whirlwind Scorpius,Use model,115.0
+Xiphon Interceptor,120 x 92mm flying base,115.0
+Heretic Astartes Daemon Prince With Wings,60mm,180.0
+Renegade Enforcer,25mm,65.0
+Renegade Heavy Weapons Squad,40mm,75.0
+OGRYN PACK MASTER,40mm,40.0
+OGRYN PACK MASTER,40mm,70.0
+CHAOS MAULER HOUND,60 x 35.5mm,40.0
+CHAOS MAULER HOUND,60 x 35.5mm,70.0
+Renegade Ogryn Brutes,40mm,95.0
+Renegade Plague Ogryns,40mm,95.0
+Deffkoptas With Big Shootas,75 x 42mm,130.0
+Death Company Marines With Jump Packs,32mm,120.0
+Death Company Marines With Jump Packs,32mm,230.0
+Sanguinary Priest With Jump Pack,32mm,100.0
+Earthshaker Platform,Use model,110.0
+Elysian Drop Sentinel,60mm,85.0
+Leman Russ Eradicator,Use model,170.0
+Leman Russ Executioner,Use model,170.0
+Leman Russ Exterminator,Use model,180.0
+Leman Russ Punisher,Use model,150.0
+Leman Russ Vanquisher,Use model,145.0
+Tempestus Scions,25mm,70.0
+Tempestus Scions,25mm,140.0
+Ravenwing Command Squad,75 x 42mm,120.0
+Daemon Prince of Nurgle with Wings,60mm,195.0
+Icon Bearer,32mm,45.0
+Norn Emissary,100mm,260.0
+Norn Assimilator,100mm,275.0
+Neurolictor,50mm,70.0
+Exalted Sorcerer on Disc of Tzeentch,40mm,100.0
+Daemon Prince of Khorne with Wings,60mm,180.0
+Daemon Prince Of Chaos With Wings,60mm,180.0
+Autarch Wayleaper,32mm,80.0
+Inquisitor In Terminator Armour,25mm,70.0
+Damned Legionnaires,25mm,90.0
+Damned Legionnaires,25mm,180.0
+ROGUE TRADER,25mm,75.0
+ROGUE TRADER,25mm,105.0
+OTHER MODELS,25mm,75.0
+OTHER MODELS,25mm,105.0
+Janus Draik,32mm,40.0
+Neyam Shai Murad,32mm,40.0
+Navigator,32mm,60.0
+Navigator,32mm,75.0
+Ur-025,32mm,55.0
+Inquisitorial Agents,25mm,50.0
+Inquisitorial Agents,25mm,100.0
+Inquisitorial Agents,25mm,60.0
+Inquisitorial Agents,25mm,120.0
+Grey Knights Relic Razorback,Use model,95.0
+Armiger Moirax,100mm,150.0
+Sir Hekhtur,25mm,
+EPHRAEL STERN,32mm,85.0
+KYGANIL OF THE BLOODY TEARS,32mm,85.0
+Company Heroes,40mm,105.0
+Apothecary,40mm,50.0
+Ancient,40mm,50.0
+Assault Intercessors With Jump Packs,32mm,90.0
+Assault Intercessors With Jump Packs,32mm,170.0
+Spectrus Kill Team,32mm,180.0
+Fortis Kill Team,32mm,180.0
+Indomitor Kill Team,40mm,250.0
+Deathwatch Veterans,32mm,100.0
+Deathwatch Veterans,32mm,190.0
+Impulsor,100mm,85.0
+Gladiator Lancer,100mm,160.0
+Gladiator Valiant,100mm,160.0
+Gladiator Reaper,100mm,160.0
+Repulsor Executioner,100mm,220.0
+Repulsor,100mm,180.0
+GRIMALDUS,40mm,110.0
+CENOBYTE SERVITOR,28.5mm,110.0
+Castellan,40mm,60.0
+High Marshal Helbrecht,60mm,120.0
+Emperor's Champion,40mm,90.0
+Marshal,40mm,80.0
+Sword Brethren Squad,40mm,105.0
+Sword Brethren Squad,40mm,130.0
+Sword Brethren Squad,40mm,235.0
+Sword Brethren Squad,40mm,260.0
+NEOPHYTES,28.5mm,150.0
+NEOPHYTES,28.5mm,310.0
+OTHER MODELS,32mm,150.0
+OTHER MODELS,32mm,310.0
+Venerable Dreadnought,60mm,140.0
+Wolf Guard Pack Leader With Jump Pack,32mm,
+Wolf Guard Pack Leader In Terminator Armour,40mm,
+Wolf Guard Pack Leader,32mm,
+Cyberwolf,40mm,
+Hounds Of Morkai,32mm,
+Castellum Stronghold,Use model,
+Wall Of Martyrs Bunker,Use model,180.0
+Wall Of Martyrs Defence Line,Use model,140.0
+Wall Of Martyrs Defence Line,Use model,280.0
+Wall Of Martyrs Defence Emplacement,Use model,140.0
+Aegis Defence Line With Weapon Emplacement,Use model,145.0
+Khorne Berzerkers,32mm,180.0
+Khorne Berzerkers,32mm,360.0
+Rubric Marine,32mm,105.0
+Rubric Marine,32mm,190.0
+Aspiring Sorcerer,32mm,105.0
+Aspiring Sorcerer,32mm,190.0
+Plague Marines,32mm,95.0
+Plague Marines,32mm,130.0
+Plague Marines,32mm,190.0
+Chaos Thunderhawk,120 x 92mm flying base,840.0
+Greater Blight Drone,60mm,150.0
+Blood Slaughterer,Use model,160.0
+Chaos Thunderhawk,120 x 92mm flying base,840.0
+Greater Brass Scorpion,Use model,560.0
+Kytan Ravager,170 x 109mm,425.0
+Chaos Thunderhawk,120 x 92mm flying base,840.0
+Chaos Lord On Palanquin Of Nurgle,60mm,90.0
+NIGHTMARE HULK,40mm,125.0
+GELLERPOX MUTANTS,25mm,125.0
+Hell Blade,120 x 92mm flying base,115.0
+Hell Talon,120 x 92mm flying base,140.0
+Mutoid Vermin,25mm,85.0
+Chaos Lord On Disc Of Tzeentch,40mm,100.0
+Hell Blade,120 x 92mm flying base,115.0
+Hell Talon,120 x 92mm flying base,140.0
+Sorcerer On Palanquin Of Nurgle,60mm,80.0
+Hell Blade,120 x 92mm flying base,115.0
+Hell Talon,120 x 92mm flying base,140.0
+Terrax-pattern Termite,Use model,200.0
+Terrax-pattern Termite,Use model,200.0
+Terrax-pattern Termite,Use model,200.0
+Terrax-pattern Termite,Use model,200.0
+Land Raider Achilles,Use model,285.0
+Land Raider Achilles,Use model,285.0
+Land Raider Achilles,Use model,285.0
+Land Raider Achilles,Use model,285.0
+Land Raider Proteus,Use model,250.0
+Land Raider Proteus,Use model,250.0
+Land Raider Proteus,Use model,250.0
+Land Raider Proteus,Use model,250.0
+Fire Raptor Gunship,120 x 92mm flying base,290.0
+Fire Raptor Gunship,120 x 92mm flying base,290.0
+Fire Raptor Gunship,120 x 92mm flying base,290.0
+Fire Raptor Gunship,120 x 92mm flying base,290.0
+Spartan,Use model,315.0
+Spartan,Use model,315.0
+Spartan,Use model,315.0
+Spartan,Use model,315.0
+Deredeo Dreadnought,80mm,170.0
+Deredeo Dreadnought,80mm,170.0
+Deredeo Dreadnought,80mm,170.0
+Deredeo Dreadnought,80mm,170.0
+Cerberus,Use model,285.0
+Cerberus,Use model,285.0
+Cerberus,Use model,285.0
+Cerberus,Use model,285.0
+Kratos,Use model,265.0
+Kratos,Use model,265.0
+Kratos,Use model,265.0
+Kratos,Use model,265.0
+Sokar-pattern Stormbird,Use model,1100.0
+Sokar-pattern Stormbird,Use model,1100.0
+Sokar-pattern Stormbird,Use model,1100.0
+Sokar-pattern Stormbird,Use model,1100.0
+Sicaran Battle Tank,Use model,220.0
+Sicaran Battle Tank,Use model,220.0
+Sicaran Battle Tank,Use model,220.0
+Sicaran Battle Tank,Use model,220.0
+Mastodon,Use model,610.0
+Mastodon,Use model,610.0
+Mastodon,Use model,610.0
+Mastodon,Use model,610.0
+Leviathan Dreadnought,80mm,215.0
+Leviathan Dreadnought,80mm,215.0
+Leviathan Dreadnought,80mm,215.0
+Leviathan Dreadnought,80mm,215.0
+Fellblade,Use model,535.0
+Fellblade,Use model,535.0
+Fellblade,Use model,535.0
+Fellblade,Use model,535.0
+Relic Contemptor Dreadnought,60mm,180.0
+Relic Contemptor Dreadnought,60mm,180.0
+Relic Contemptor Dreadnought,60mm,180.0
+Relic Contemptor Dreadnought,60mm,180.0
+Whirlwind Scorpius,Use model,115.0
+Whirlwind Scorpius,Use model,115.0
+Whirlwind Scorpius,Use model,115.0
+Whirlwind Scorpius,Use model,115.0
+Xiphon Interceptor,120 x 92mm flying base,115.0
+Xiphon Interceptor,120 x 92mm flying base,115.0
+Xiphon Interceptor,120 x 92mm flying base,115.0
+Xiphon Interceptor,120 x 92mm flying base,115.0
+Rapier Carrier,Use model,100.0
+Rapier Carrier,Use model,100.0
+Rapier Carrier,Use model,100.0
+Rapier Carrier,Use model,100.0
+Storm Eagle Gunship,120 x 92mm flying base,255.0
+Storm Eagle Gunship,120 x 92mm flying base,255.0
+Storm Eagle Gunship,120 x 92mm flying base,255.0
+Storm Eagle Gunship,120 x 92mm flying base,255.0
+Sicaran Venator,Use model,220.0
+Sicaran Venator,Use model,220.0
+Sicaran Venator,Use model,220.0
+Sicaran Venator,Use model,220.0
+Typhon,Use model,385.0
+Typhon,Use model,385.0
+Typhon,Use model,385.0
+Typhon,Use model,385.0
+Sicaran Punisher,Use model,220.0
+Sicaran Punisher,Use model,220.0
+Sicaran Punisher,Use model,220.0
+Sicaran Punisher,Use model,220.0
+Falchion,Use model,515.0
+Falchion,Use model,515.0
+Falchion,Use model,515.0
+Falchion,Use model,515.0
+Sydonian Dragoons,105 x 70mm,55.0
+Sydonian Dragoons,105 x 70mm,100.0
+Sydonian Dragoons,105 x 70mm,150.0
+Sydonian Skatros,40mm,50.0
+Inner Circle Companions,40mm,90.0
+Inner Circle Companions,40mm,180.0
+Crisis Sunforge Battlesuits,50mm,140.0
+Crisis Battlesuits,50mm,120.0
+Crisis Battlesuits,50mm,110.0
+Kroot Trail Shaper,32mm,55.0
+Kroot War Shaper,32mm,50.0
+Kroot Flesh Shaper,32mm,45.0
+Kroot Lone-Spear,90 x 52mm,80.0
+Krootox Rampagers,50mm,85.0
+Krootox Rampagers,50mm,170.0
+Big Mek,50mm,70.0
+Ufthak Blackhawk,50mm,70.0
+Chaos Lord,40mm,80.0
+Cultist Firebrand,32mm,45.0
+Cultist Mob with Firearms,25mm,50.0
+Cultist Mob with Firearms,25mm,100.0
+Canoness,32mm,75.0
+Benefictus,32mm,70.0
+Acolyte Hybrids With Hand Flamers,32mm,70.0
+Acolyte Hybrids With Hand Flamers,32mm,140.0
+Celestian Sacresant Aveline,50mm,45.0
+Ministorum Priest,32mm,40.0
+Grey Knights Terminator Squad,40mm,190.0
+Grey Knights Terminator Squad,40mm,210.0
+Watch Captain Artemis,32mm,65.0
+Watch Master,32mm,95.0
+Deathwatch Veterans,32mm,100.0
+Deathwatch Veterans,32mm,190.0
+Corvus Blackstar,120 x 92mm flying base,180.0
+Battle Sisters Squad,32mm,100.0
+Battle Sisters Squad,32mm,115.0
+Immolator,Use model,100.0
+Immolator,Use model,115.0
+Chimera,Use model,70.0
+KILL TEAM VETERAN,32mm,220.0
+KILL TEAM BIKER,75 x 42mm,220.0
+CHAPLAIN CASSIUS,32mm,220.0
+KILL TEAM TERMINATOR,40mm,220.0
+Deathwatch Terminator Squad,40mm,210.0
+Deathwatch Terminator Squad,40mm,420.0
+Veteran Bike Squad,75 x 25mm,70.0
+Veteran Bike Squad,75 x 25mm,140.0
+KILL TEAM VETERANS,32mm,160.0
+KILL TEAM VETERANS,32mm,320.0
+KILL TEAM BIKER,75 x 42mm,160.0
+KILL TEAM BIKER,75 x 42mm,320.0
+KILL TEAM TERMINATOR,40mm,160.0
+KILL TEAM TERMINATOR,40mm,320.0
+KILL TEAM INTERCESSOR,32mm,100.0
+KILL TEAM INTERCESSOR,32mm,200.0
+KILL TEAM OUTRIDER,90 x 52mm,100.0
+KILL TEAM OUTRIDER,90 x 52mm,200.0
+Indomitor Kill Team,40mm,120.0
+Indomitor Kill Team,40mm,240.0
+Spectrus Kill Team,32mm,90.0
+Spectrus Kill Team,32mm,180.0
+Daemonhost,25mm,40.0
+Daemonhost,25mm,80.0
+Jokaero Weaponsmith,25mm,30.0
+Imperial Rhino,Use model,75.0
+Captain,40mm,80.0
+Death Company Captain,40mm,70.0
+Death Company Captain,40mm,75.0
+Tempestus Aquilons,28.5mm,100.0
+Death Company Dreadnought with Magna-grapple,90mm,145.0
+Death Company Marines with Boltguns,32mm,125.0
+Death Company Marines with Boltguns,32mm,250.0
+Death Company Marines with Boltguns and Jump Packs,32mm,140.0
+Death Company Marines with Boltguns and Jump Packs,32mm,280.0
+Tech-priest Dominus,50mm,65.0
+Tech-priest Manipulus,50mm,60.0
+Skitarii Marshal,32mm,35.0
+Skitarii Rangers,25mm,85.0
+Skitarii Vanguard,25mm,95.0
+Cultist Firebrand,32mm,45.0
+CULT DEMAGOGUE,32mm,90.0
+OTHER MODELS,28.5mm,90.0
+TRAITOR ENFORCER,32mm,55.0
+TRAITOR OGRYN,40mm,55.0
+Renegade Enforcer,25mm,65.0
+Rogue Psyker,32mm,60.0
+Cultist Mob,25mm,50.0
+Cultist Mob,25mm,100.0
+Cultist Mob with Firearms,25mm,50.0
+Cultist Mob with Firearms,25mm,100.0
+MUTANT,25mm,90.0
+MUTANT,25mm,195.0
+TORMENT,40mm,90.0
+TORMENT,40mm,195.0
+Fellgor Beastmen,32mm,70.0
+Traitor Guardsmen Squad,25mm,70.0
+NIGHTMARE HULK,40mm,125.0
+GELLERPOX MUTANTS,25mm,125.0
+Mutoid Vermin,25mm,85.0
+Negavolt Cultists,32mm,55.0
+Renegade Heavy Weapons Squad,40mm,75.0
+OGRYN PACK MASTER,40mm,40.0
+OGRYN PACK MASTER,40mm,70.0
+CHAOS MAULER HOUND,60 x 35.5mm,40.0
+CHAOS MAULER HOUND,60 x 35.5mm,70.0
+Renegade Ogryn Brutes,40mm,95.0
+Renegade Plague Ogryns,40mm,95.0
+BREAKA BOY,32mm,140.0
+Watch Master,32mm,95.0
+Watch Captain Artemis,32mm,65.0
+Deathwatch Terminator Squad,40mm,190.0
+Deathwatch Terminator Squad,40mm,350.0
+KILL TEAM SERGEANT WITH JUMP PACK AND KILL TEAM INTERCESSORS WITH JUMP PACKS,32mm,275.0
+KILL TEAM HEAVY INTERCESSORS WITH JUMP PACKS,40mm,275.0
+KILL TEAM VETERAN,32mm,220.0
+KILL TEAM BIKER,75 x 42mm,220.0
+CHAPLAIN CASSIUS,32mm,220.0
+KILL TEAM TERMINATOR,40mm,220.0
+Legionaries,32mm,110.0
+Legionaries,32mm,190.0
+Deathleaper,60mm,80.0
+Parasite Of Mortrex,40mm,80.0
+Winged Hive Tyrant,60mm,170.0
+Winged Tyranid Prime,50mm,65.0
+Gargoyles,32mm flying base,85.0
+Gargoyles,32mm flying base,170.0
+Tyrannocyte,100mm,105.0
+Lictor,50mm,60.0
+Mawloc,120 x 92mm,135.0
+Neurolictor,50mm,70.0
+Raveners,40mm,75.0
+Raveners,40mm,150.0
+Trygon,120 x 92mm,140.0
+Von Ryan's Leapers,40mm,70.0
+Von Ryan's Leapers,40mm,140.0
+LORD COMMISSAR,32mm,65.0
+VETERAN GUARDSMAN,25mm,65.0
+Lord Marshal Dreir,75 x 42mm,100.0
+CATACHAN COMMANDER,25mm,65.0
+VETERAN GUARDSMAN,25mm,65.0
+Rogal Dorn Tank Commander,Use model,275.0
+Krieg Combat Engineers,25mm,60.0
+Krieg Combat Engineers,25mm,95.0
+Catachan Heavy Weapons Squad,60mm,65.0
+HEAVY WEAPONS GUNNER,50mm,75.0
+FIRE COORDINATOR,25mm,75.0
+Artillery Team,130mm,95.0
+Artillery Team,100mm,110.0
+Death Riders,60 x 35.5mm,60.0
+Death Riders,60 x 35.5mm,120.0
+Lhykhis,40mm,120.0
+D-cannon Platform,40mm,125.0
+Shadow Weaver Platform,40mm,75.0
+Vibro Cannon Platform,40mm,60.0
+Wraithknight,120 x 92mm,420.0
+Ynnari Archon,32mm,85.0
+Ynnari Succubus,25mm,45.0
+Ynnari Kabalite Warriors,25mm,110.0
+Ynnari Wyches,25mm,90.0
+INCUBI,28.5mm,85.0
+INCUBI,28.5mm,170.0
+KLAIVEX,28.5mm,85.0
+KLAIVEX,28.5mm,170.0
+Ynnari Reavers,32mm flying base,65.0
+Ynnari Reavers,32mm flying base,120.0
+Ynnari Raider,60mm flying base,80.0
+Venom,60mm flying base,70.0
+MINKA LESK,,80.0
+LESK'S VETERANS,,80.0
+Ratlings,,40.0
+Cadian Castellan,28.5mm,55.0
+CADIAN COMMANDER,28.5mm,65.0
+CADIAN VETERAN GUARDSMAN,28.5mm,65.0
+CATACHAN COMMANDER,25mm,65.0
+VETERAN GUARDSMAN,25mm,65.0
+LORD COMMISSAR,32mm,65.0
+VETERAN GUARDSMAN,25mm,65.0
+Leman Russ Commander,Use model,235.0
+Primaris Psyker,32mm,60.0
+Rogal Dorn Tank Commander,Use model,275.0
+Death Rider Commissar,40mm,35.0
+QUARTERMASTER REVENANT,25mm,45.0
+MEDICAE SERVITOR,25mm,45.0
+MINKA LESK,,80.0
+LESK'S VETERANS,,80.0
+Cadian Shock Troops,25mm,65.0
+Cadian Shock Troops,25mm,120.0
+Catachan Jungle Fighters,25mm,65.0
+Catachan Jungle Fighters,25mm,120.0
+Death Korps Of Krieg,25mm,65.0
+Death Korps Of Krieg,25mm,145.0
+Chimera,Use model,85.0
+Taurox,Use model,75.0
+Taurox Prime,Use model,90.0
+Storm Chimera,Use model,90.0
+Aegis Defence Line,Use model,145.0
+Earthshaker Platform,Use model,110.0
+Hydra Platform,Use model,95.0
+Manticore Platform,Use model,95.0
+Sabre Weapons Battery,Use model,45.0
+Sabre Weapons Battery,Use model,90.0
+Armoured Sentinels,80mm,65.0
+Armoured Sentinels,80mm,130.0
+Artillery Team,130mm,95.0
+Attilan Rough Riders,60 x 35.5mm,60.0
+Attilan Rough Riders,60 x 35.5mm,120.0
+Baneblade,Use model,450.0
+Banehammer,Use model,420.0
+Banesword,Use model,450.0
+Basilisk,Use model,140.0
+Heavy Weapons Squad,50mm,65.0
+Catachan Heavy Weapons Squad,60mm,65.0
+Death Riders,60 x 35.5mm,60.0
+Death Riders,60 x 35.5mm,120.0
+Deathstrike,Use model,145.0
+Doomhammer,Use model,415.0
+Artillery Team,100mm,110.0
+Hellhammer,Use model,420.0
+Hellhound,Use model,125.0
+Hydra,Use model,95.0
+Kasrkin,28.5mm,110.0
+Krieg Combat Engineers,25mm,60.0
+Krieg Combat Engineers,25mm,95.0
+HEAVY WEAPONS GUNNER,50mm,75.0
+FIRE COORDINATOR,25mm,75.0
+Leman Russ Battle Tank,Use model,185.0
+Leman Russ Demolisher,Use model,190.0
+Leman Russ Eradicator,Use model,170.0
+Leman Russ Executioner,Use model,170.0
+Leman Russ Exterminator,Use model,180.0
+Leman Russ Punisher,Use model,150.0
+Leman Russ Vanquisher,Use model,145.0
+Manticore,Use model,165.0
+Rogal Dorn Battle Tank,Use model,250.0
+Scout Sentinels,80mm,55.0
+Scout Sentinels,80mm,110.0
+Shadowsword,Use model,410.0
+Stormlord,Use model,430.0
+Stormsword,Use model,465.0
+Wyvern,Use model,110.0
+Cyclops Demolition Vehicle,Use model,25.0
+Arkurian Stormhammer,Use model,480.0
+Armageddon-pattern Medusa,Use model,105.0
+Atlas Recovery Vehicle,Use model,80.0
+Carnodon,Use model,160.0
+Centaur Light Carrier,Use model,40.0
+Colossus,Use model,160.0
+Crassus,Use model,180.0
+GRENADIER,25mm,110.0
+HEAVY WEAPONS TEAM,60mm,110.0
+Dominus Armoured Siege Bombard,Use model,325.0
+Earthshaker Carriage Battery,Use model,120.0
+Elysian Drop Sentinel,60mm,85.0
+Elysian Sniper Squad,60mm,65.0
+Gorgon Heavy Transport,Use model,275.0
+Griffon Mortar Carrier,Use model,115.0
+Hades Breaching Drill,Use model,110.0
+Heavy Mortar Team,Use model,50.0
+Heavy Quad Launcher Team,Use model,50.0
+Macharius,Use model,310.0
+Macharius Omega,Use model,310.0
+Macharius Vanquisher,Use model,285.0
+Macharius Vulcan,Use model,310.0
+Malcador,Use model,250.0
+Malcador Annihilator,Use model,270.0
+Malcador Defender,Use model,310.0
+Malcador Infernus,Use model,235.0
+Medusa Carriage Battery,Use model,125.0
+Minotaur,Use model,225.0
+Mukaali Riders,40mm,110.0
+Munitorum Servitors,25mm,35.0
+Praetor,Use model,275.0
+Rapier Laser Destroyer Battery,Use model,35.0
+Rapier Laser Destroyer Battery,Use model,70.0
+Rapier Laser Destroyer Battery,Use model,105.0
+Regimental Attachés,,40.0
+Salamander Command Vehicle,Use model,80.0
+Salamander Scout Vehicle,Use model,95.0
+Sentinel Powerlifter,Use model,55.0
+Stormblade,Use model,415.0
+Stygies Destroyer Tank Hunter,Use model,180.0
+Tarantula Battery,Use model,40.0
+Tarantula Battery,Use model,80.0
+Tarantula Battery,Use model,120.0
+Tauros Assault Vehicle,Use model,50.0
+Tauros Venator,Use model,55.0
+Trojan Support Vehicle,Use model,80.0
+Valdor,Use model,285.0
+Chaos Lord,40mm,90.0
+Chaos Lord In Terminator Armour,40mm,95.0
+Chaos Lord,40mm,80.0
+Chaos Lord On Disc Of Tzeentch,40mm,100.0
+Chaos Lord On Juggernaut,90 x 52mm,115.0
+Chaos Lord On Palanquin Of Nurgle,60mm,90.0
+Chaos Lord On Steed Of Slaanesh,No official base size,100.0
+Chaos Terminator Squad,40mm,180.0
+Chaos Terminator Squad,40mm,360.0
+Chosen,32mm,125.0
+Chosen,32mm,250.0
+Cultist Firebrand,32mm,45.0
+CULT DEMAGOGUE,32mm,90.0
+OTHER MODELS,28.5mm,90.0
+TRAITOR ENFORCER,32mm,55.0
+TRAITOR OGRYN,40mm,55.0
+Renegade Enforcer,25mm,65.0
+Rogue Psyker,32mm,60.0
+Cultist Mob,25mm,50.0
+Cultist Mob,25mm,100.0
+Cultist Mob with Firearms,25mm,50.0
+Cultist Mob with Firearms,25mm,100.0
+MUTANT,25mm,90.0
+MUTANT,25mm,195.0
+TORMENT,40mm,90.0
+TORMENT,40mm,195.0
+Fellgor Beastmen,32mm,70.0
+Traitor Guardsmen Squad,25mm,70.0
+NIGHTMARE HULK,40mm,125.0
+GELLERPOX MUTANTS,25mm,125.0
+Mutoid Vermin,25mm,85.0
+Negavolt Cultists,32mm,55.0
+Renegade Heavy Weapons Squad,40mm,75.0
+OGRYN PACK MASTER,40mm,40.0
+OGRYN PACK MASTER,40mm,70.0
+CHAOS MAULER HOUND,60 x 35.5mm,40.0
+CHAOS MAULER HOUND,60 x 35.5mm,70.0
+Renegade Ogryn Brutes,40mm,95.0
+Renegade Plague Ogryns,40mm,95.0
+DARK APOSTLE,40mm,65.0
+DARK DISCIPLE,25mm,65.0
+Havocs,40mm,125.0
+Legionaries,32mm,90.0
+Legionaries,32mm,170.0
+Master Of Possession,40mm,60.0
+Possessed,40mm,120.0
+Possessed,40mm,240.0
+Raptors,32mm,90.0
+Raptors,32mm,170.0
+Sorcerer,40mm,60.0
+Sorcerer On Disc Of Tzeentch,40mm,80.0
+Sorcerer On Palanquin Of Nurgle,60mm,80.0
+Sorcerer On Steed Of Slaanesh,No official base size,85.0
+Sorcerer In Terminator Armour,40mm,80.0
+Warp Talons,32mm,125.0
+Warp Talons,32mm,270.0
+Fulgrim,130mm,340.0
+Lord Exultant,40mm,80.0
+Tormentors,32mm,85.0
+Tormentors,32mm,170.0
+Infractors,32mm,85.0
+Infractors,32mm,160.0
+Terminator Squad,40mm,170.0
+Chaos Land Raider,Use model,220.0
+Lucius the Eternal,50mm,150.0
+Lord Kakophonist,40mm,70.0
+Sorcerer,40mm,60.0
+Daemon Prince of Slaanesh,60mm,195.0
+Daemon Prince of Slaanesh with Wings,60mm,200.0
+Noise Marines,40mm,145.0
+Flawless Blades,40mm,110.0
+Flawless Blades,40mm,220.0
+Chaos Spawn,50mm,80.0
+Maulerfiend,120 x 92mm,130.0
+Heldrake,120 x 92mm flying base,195.0
+Chaos Rhino,Use model,80.0
+Shalaxi Helbane,100mm,380.0
+Daemonettes,25mm,90.0
+Fiends,75 x 42mm,95.0
+Fiends,75 x 42mm,190.0
+Keeper of Secrets,100mm,270.0
+Seekers,60 x 35.5mm,80.0
+Seekers,60 x 35.5mm,160.0
+Noise Marines,40mm,145.0
+Tormentbringer,120 x 92mm,140.0
+Hellflayer,120 x 92mm,105.0
+Hellflayer,120 x 92mm,210.0
+Karanak,75 x 42mm,65.0
+Skarbrand,100mm,305.0
+Bloodthirster,120 x 92mm,305.0
+Bloodletters,32mm,90.0
+Bloodcrushers,90 x 52mm,110.0
+Bloodcrushers,90 x 52mm,220.0
+Flesh Hounds,60 x 35.5mm,75.0
+Flesh Hounds,60 x 35.5mm,150.0
+Lord of Poxes,40mm,75.0
+Foetid Bloat-drone,60mm,120.0
+Rotigus,130mm,250.0
+Great Unclean One,130mm,250.0
+Plaguebearers,32mm,110.0
+Plague Drones,60mm,115.0
+Plague Drones,60mm,230.0
+Beasts of Nurgle,60mm,65.0
+Beasts of Nurgle,60mm,130.0
+Nurglings,40mm,40.0
+Nurglings,40mm,70.0
+Ravener Prime,40mm,165.0
+Raveners,40mm,165.0
+Ravener Prime,40mm,165.0
+Raveners,40mm,165.0
+Servitor Underseer,32mm,60.0
+Combat Servitors and Gun Servitors,25mm,60.0
+Daemon Prince of Tzeentch with Wings,60mm,170.0
+Sekhetar Robots,40mm,80.0
+Sekhetar Robots,40mm,160.0
+Tzaangor Enlightened with Fatecaster Greatbows,40mm,60.0
+Tzaangor Enlightened with Fatecaster Greatbows,40mm,110.0
+Kairos Fateweaver,100mm,260.0
+Lord of Change,100mm,250.0
+Flamers,32mm,65.0
+Flamers,32mm,130.0
+Screamers,32mm flying base,80.0
+Screamers,32mm flying base,160.0
+PINK HORROR,32mm,115.0
+BLUE HORROR/BRIMSTONE HORROR,25mm,115.0
+Blue Horrors/Brimstone Horror,25mm,90.0
+Wolf Priest,40mm,70.0
+Wolf Guard Battle Leader,40mm,65.0
+Wolf Guard Headtakers,40mm,85.0
+Wolf Guard Headtakers,40mm,110.0
+Wolf Guard Headtakers,40mm,170.0
+Wolf Guard Headtakers,40mm,220.0
+Hunting Wolves,60 x 35.5mm,85.0
+Hunting Wolves,60 x 35.5mm,110.0
+Hunting Wolves,60 x 35.5mm,170.0
+Hunting Wolves,60 x 35.5mm,220.0
+Wulfen,40mm,100.0
+Wulfen,40mm,200.0
+Wulfen Dreadnought,60mm,145.0
+Knight Ruinator,170 x 109mm,375.0
+Execrator,40mm,70.0
+Crusade Ancient,40mm,65.0
+Sternguard Veteran Squad,32mm,85.0
+Sternguard Veteran Squad,32mm,170.0
+Terminator Squad,40mm,175.0
+Terminator Squad,40mm,330.0
+Land Raider Crusader,Use model,220.0
+Buri Aegnirssen,40mm,110.0
+Memnyr Strategist,32mm,45.0
+Arkanyst Evaluator,32mm,75.0
+Knight Defender,170 x 109mm,425.0
+Greater Daemon,100mm,
+Lesser Daemons,32mm,
+Abomination,50mm,
+Daemonic Beasts,75 x 42mm,
+NEOPHYTES,25mm,
+OTHER MODELS,32mm,
+Lady Malys,32mm,
+Hand of the Archon,25mm,
+Scourges,32mm,
+Death Jester,25mm,
+Shadowseer,25mm,
+Solitaire,25mm,
+Troupe Master,25mm,
+Starweaver,65mm,
+Skyweavers,60mm flying base,
+Troupe,25mm,
+Voidweaver,65mm,
+Captain,50mm,
+Captain On Bike,90 x 52mm,
+Corsair Voidreavers,28.5mm,
+Corsair Voidscarred,28.5mm,
+Corsair Cloud Dancer Band,32mm flying base,
+Corsair Reaver Band,25mm,
+Corsair Skyreaver Band,25mm,
+INQUISITOR OSTROMANDEUS,32mm,
+STENTOR-I-52,28.5mm,
+"KILL TEAM SERGEANT, DEATHWATCH VETERAN",32mm,
+GRAVIS VETERAN,40mm,
+"KILL TEAM SERGEANT, DEATHWATCH VETERAN",32mm,
+GRAVIS VETERAN,40mm,
+Canoptek Macrocytes,28.5mm,
+Canoptek Tomb Crawlers,50mm,
+Geomancer,50mm,
+Judiciar Xacharus,40mm,
+Chaplain Kastiel,40mm,
+Da Red Gobbo Tinboy,40mm,
+WOLF SCOUTS,32mm,
+HUNTING WOLVES,60 x 35.5mm,
+MARNEUS CALGAR,50mm,
+Cato Sicarius,40mm,
+Victrix Honour Guard,40mm,
+Nekrosor Ammentar,80mm,
+Captain Titus,40mm,
+"Ancient Gadriel, Veteran Sergeant Metaurus",40mm,
+"Gaius Silva, Aemelia Minervas, Dainal Kornelius, Lucia Vestha",28.5mm,
+Celestian Insidiants,32mm,
+"GARLON SOULEATER, GARREON THE CORPSEMASTER, KATAR GARRIX",40mm,
+"CAPTAIN SARGOTTA, THE ENFORCER",40mm,
+Prince Yriel,40mm,
+Prince Yriel,32mm,
+Starfangs,105 x 70mm,
+Corsair Skyreavers,28.5mm,
+Prince Yriel,32mm,
+Prince Yriel,40mm,
+Corsair Skyreavers,28.5mm,
+Starfangs,105 x 70mm,
+Ferren Areios,40mm,
+Mutilators,50mm,
+Defiler,160mm,
+Defiler,160mm,
+Defiler,160mm,
+Thulia Ghuld,80mm,
+Hastarii Exterminators,32mm,
+Hastarii Fusiliers,32mm,
+Knight Destrier,150 x 95mm,
