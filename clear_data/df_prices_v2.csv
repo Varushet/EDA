@@ -1,371 +1,356 @@
-price,all,faction
-56.12,Adeptus Custodes Custodian Guard,Adeptus_Custodes
-46.0,Astra Telepathica Sisters Of Silence,Adeptus_Custodes
+price,mini,faction
+56.12,Custodian Guard,Adeptus_Custodes
+46.0,Sisters Of Silence,Adeptus_Custodes
 35.88,Captain General Trajann Valoris,Adeptus_Custodes
-56.12,Adeptus Custodes Custodian Wardens,Adeptus_Custodes
-56.12,Adeptus Custodes Vertus Praetors,Adeptus_Custodes
-46.92,Adeptus Custodes Allarus Custodians,Adeptus_Custodes
-10.12,Etb: Chaos Space Marines Chaos Cultists,Chaos_Space_Marines
-35.88,Deathwatch Veterans,Deathwatch
-74.52,Deathwatch: Corvus Blackstar,Deathwatch
-32.2,Deathwatch Watch Master,Deathwatch
-13.8,Deathwatch Upgrades,Deathwatch
-129.72,Combat Patrol: Deathwatch,Deathwatch
-46.92,Daemonifuge Ephrael Stern & Kyganil,Chaos_Daemons
-35.88,Blood Angels Death Company,Blood_Angels
-45.08,Blood Angels: Sanguinary Guard,Blood_Angels
-98.44,Space Marines Stormraven Gunship,Space_Marines
-55.2,Blood Angels: Furioso Dreadnought,Blood_Angels
-31.28,Blood Angels Sanguinary Priest,Blood_Angels
-33.12,Blood Angels Chaplain With Jump Pack,Blood_Angels
-42.32,Blood Angels: Death Company Intercessors,Blood_Angels
-129.72,Combat Patrol: Blood Angels,Blood_Angels
-13.8,Blood Angels Primaris Upgrades,Blood_Angels
-37.72,Blood Angels: Mephiston,Blood_Angels
-14.72,Blood Angels: Upgrades,Blood_Angels
-37.72,Chaos Space Marines Bikers,Chaos_Space_Marines
+56.12,Custodian Wardens,Adeptus_Custodes
+56.12,Vertus Praetors,Adeptus_Custodes
+46.92,Allarus Custodians,Adeptus_Custodes
+10.12,Etb Chaos Cultists,Chaos_Space_Marines
+35.88,Veterans,Deathwatch
+74.52,Corvus Blackstar,Deathwatch
+32.2,Watch Master,Deathwatch
+13.8,Upgrades,Deathwatch
+129.72,Combat Patrol,Deathwatch
+35.88,Death Company,Blood_Angels
+45.08,Sanguinary Guard,Blood_Angels
+98.44,Stormraven Gunship,Space_Marines
+55.2,Furioso Dreadnought,Blood_Angels
+31.28,Sanguinary Priest,Blood_Angels
+33.12,Chaplain With Jump Pack,Blood_Angels
+42.32,Death Company Intercessors,Blood_Angels
+129.72,Combat Patrol,Blood_Angels
+13.8,Primaris Upgrades,Blood_Angels
+37.72,Mephiston,Blood_Angels
+14.72,Upgrades,Blood_Angels
+37.72,Bikers,Chaos_Space_Marines
 45.08,Khorne Berzerkers,Chaos_Daemons
-41.4,Chaos Space Marines Rhino,Chaos_Space_Marines
-28.52,Chaos Space Marines Chaos Lord,Chaos_Space_Marines
-35.88,Chaos Space Marine Raptors,Chaos_Daemons
-69.92,Chaos Space Marines Forgefiend,Chaos_Space_Marines
-69.0,Chaos Space Marines Heldrake,Chaos_Space_Marines
-56.12,Chaos Space Marine Terminators,Chaos_Daemons
-34.04,Chaos S/M: Haarken Worldclaimer,Chaos_Daemons
-28.52,Death Guard: Biologus Putrifier,Death_Guard
+41.4,Rhino,Chaos_Space_Marines
+28.52,Chaos Lord,Chaos_Space_Marines
+35.88,Raptors,Chaos_Space_Marines
+69.92,Forgefiend,Chaos_Space_Marines
+69.0,Heldrake,Chaos_Space_Marines
+56.12,Terminators,Chaos_Space_Marines
+34.04,Chaos S/M Haarken Worldclaimer,Chaos_Daemons
+28.52,Biologus Putrifier,Death_Guard
 33.12,Kharn The Betrayer,Chaos_Daemons
-35.88,Chaos Space Marines Possessed,Chaos_Space_Marines
-28.52,Death Guard: Nauseous Rotbone,Death_Guard
-139.84,Thousand Sons Magnus The Red,Thousand_Sons
-55.2,Thousand Sons Rubric Marines,Thousand_Sons
-56.12,Thousand Sons Scarab Occult Terminators,Thousand_Sons
-33.12,Chaos Space Marines Dark Apostle,Chaos_Space_Marines
+35.88,Possessed,Chaos_Space_Marines
+28.52,Nauseous Rotbone,Death_Guard
+139.84,Magnus The Red,Thousand_Sons
+55.2,Rubric Marines,Thousand_Sons
+56.12,Scarab Occult Terminators,Thousand_Sons
+33.12,Dark Apostle,Chaos_Space_Marines
 37.72,Ahriman Arch Sorcerer Of Tzeentch,Chaos_Daemons
-56.12,Thousand Sons Exalted Sorcerers,Thousand_Sons
-28.52,Chaos Space Marines Master Of Executions,Chaos_Space_Marines
-28.52,D/G: Scribbus Wretch The Tallyman,Chaos_Daemons
-28.52,Death Guard: Foul Blightspawn,Death_Guard
-28.52,Death Guard: Plague Marine Icon Bearer,Death_Guard
-28.52,Death Guard: Plague Marine Champion,Death_Guard
-139.84,Mortarion: Daemon Primarch Of Nurgle,Chaos_Daemons
-56.12,Death Guard: Deathshroud Bodyguard,Death_Guard
-56.12,Death Guard: Blightlord Terminators,Death_Guard
-60.72,Death Guard: Plagueburst Crawler,Death_Guard
-37.72,D/Guard: Typhus Herald Of The Plague God,Chaos_Daemons
-46.92,Death Guard: Foetid Bloat Drone,Death_Guard
-46.92,Death Guard Plague Marines,Death_Guard
-23.92,Death Guard: Myphitic Blight Hauler,Death_Guard
-34.04,Chaos Space Marines Noise Marine,Chaos_Space_Marines
-60.72,Chaos Space Marines Vex Machinator,Chaos_Space_Marines
+56.12,Exalted Sorcerers,Thousand_Sons
+28.52,Master Of Executions,Chaos_Space_Marines
+28.52,D/G Scribbus Wretch The,Chaos_Daemons
+28.52,Foul Blightspawn,Death_Guard
+28.52,Plague Marine Icon Bearer,Death_Guard
+28.52,Plague Marine Champion,Death_Guard
+139.84,Mortarion Daemon Primarch Of Nurgle,Chaos_Daemons
+56.12,Deathshroud Bodyguard,Death_Guard
+56.12,Blightlord Terminators,Death_Guard
+60.72,Plagueburst Crawler,Death_Guard
+37.72,D/Guard Typhus Herald Of The Plague God,Chaos_Daemons
+46.92,Foetid Bloat Drone,Death_Guard
+46.92,Plague Marines,Death_Guard
+23.92,Myphitic Blight Hauler,Death_Guard
+34.04,Noise Marine,Chaos_Space_Marines
+60.72,Vex Machinator,Chaos_Space_Marines
 56.12,Chaos S/Marines Abaddon The Despoiler,Chaos_Daemons
-51.52,Chaos Space Marines Havocs,Chaos_Space_Marines
-28.52,Chaos Space Marines Chaos Lord (B/S F),Chaos_Space_Marines
-139.84,Chaos Knights: Knight Desecrator,Chaos_Knights
-28.52,Chaos Space Marines Sorcerer,Chaos_Space_Marines
-54.28,Chaos Space Marines Noctilith Crown,Chaos_Space_Marines
-37.72,Chaos Space Marines: Fabius Bile,Chaos_Space_Marines
-129.72,Combat Patrol: Death Guard,Death_Guard
-33.12,Death Guard: Poxwalkers,Death_Guard
-33.12,Death Guard Lord Of Virulence,Death_Guard
-56.12,Death Guard: Miasmic Malignifier,Death_Guard
-31.28,Dark Angels: Company Veterans,Dark_Angels
-56.12,Dark Angels: Deathwing Command Squad,Dark_Angels
-50.6,Dark Angels Ravenwing Command Squad,Dark_Angels
-129.72,Combat Patrol: Dark Angels,Dark_Angels
-13.8,Dark Angels Primaris Upgrades,Dark_Angels
-14.72,Dark Angels Upgrades,Dark_Angels
-34.04,Drukhari Kabalite Warriors,Drukhari
-34.04,Dark Eldar Wyches,Drukhari
-45.08,Drukhari Raider,Drukhari
-51.52,Drukhari Talos,Drukhari
-32.2,Drukhari Scourges,Drukhari
-34.04,Drukhari Venom,Drukhari
-27.6,Drukhari Archon,Drukhari
-51.52,Drukhari Incubi,Drukhari
-37.72,Drukhari Drazhar,Drukhari
-27.6,Craftworlds Farseer,Craftworlds
-46.92,Craftworlds Windriders,Craftworlds
-37.72,Craftworlds Guardians,Craftworlds
-51.52,Craftworlds Wraithguard,Craftworlds
-74.52,Craftworlds Hemlock Wraithfighter,Craftworlds
-33.12,Craftworlds Dire Avengers,Craftworlds
-51.52,Craftworlds Wraithlord,Craftworlds
-34.04,Craftworlds War Walker,Craftworlds
-34.04,Craftworlds Skyrunner,Craftworlds
-54.28,Craftworlds Wave Serpent,Craftworlds
-129.72,Craftworlds Wraithknight,Craftworlds
-74.52,Ynnari: Triumvirate Of Ynnead,Ynnari
-46.0,Eldar Dark Reapers,Drukhari
-51.52,Craftworlds Howling Banshees,Craftworlds
-37.72,Craftworlds Jain Zar,Craftworlds
-32.2,Craftworlds Eldrad Ulthran,Craftworlds
-28.52,Craftworlds Spiritseer,Craftworlds
-55.2,Astra Militarum Leman Russ Battle Tank,Astra_Militarum
-45.08,Astra Militarum Chimera,Astra_Militarum
-34.04,Astra Militarum Cadian Command Squad,Astra_Militarum
-74.52,Astra Militarum Valkyrie,Astra_Militarum
-55.2,Astra Militarum Leman Russ Demolisher,Astra_Militarum
-34.04,Astra Militarum Sentinel,Astra_Militarum
+51.52,Havocs,Chaos_Space_Marines
+28.52,Chaos Lord (B/S F),Chaos_Space_Marines
+139.84,Knight Desecrator,Chaos_Knights
+28.52,Sorcerer,Chaos_Space_Marines
+54.28,Noctilith Crown,Chaos_Space_Marines
+37.72,Fabius Bile,Chaos_Space_Marines
+129.72,Combat Patrol,Death_Guard
+33.12,Poxwalkers,Death_Guard
+33.12,Lord Of Virulence,Death_Guard
+56.12,Miasmic Malignifier,Death_Guard
+31.28,Company Veterans,Dark_Angels
+56.12,Deathwing Command Squad,Dark_Angels
+50.6,Ravenwing Command Squad,Dark_Angels
+129.72,Combat Patrol,Dark_Angels
+13.8,Primaris Upgrades,Dark_Angels
+14.72,Upgrades,Dark_Angels
+34.04,Kabalite Warriors,Drukhari
+34.04,Wyches,Drukhari
+45.08,Raider,Drukhari
+51.52,Talos,Drukhari
+32.2,Scourges,Drukhari
+34.04,Venom,Drukhari
+27.6,Archon,Drukhari
+51.52,Incubi,Drukhari
+37.72,Drazhar,Drukhari
+27.6,Farseer,Craftworlds
+46.92,Windriders,Craftworlds
+37.72,Guardians,Craftworlds
+51.52,Wraithguard,Craftworlds
+74.52,Hemlock Wraithfighter,Craftworlds
+33.12,Dire Avengers,Craftworlds
+51.52,Wraithlord,Craftworlds
+34.04,War Walker,Craftworlds
+34.04,Skyrunner,Craftworlds
+54.28,Wave Serpent,Craftworlds
+129.72,Wraithknight,Craftworlds
+74.52,Triumvirate Of Ynnead,Ynnari
+46.0,Reapers,Drukhari
+51.52,Howling Banshees,Craftworlds
+37.72,Jain Zar,Craftworlds
+32.2,Eldrad Ulthran,Craftworlds
+28.52,Spiritseer,Craftworlds
+55.2,Leman Russ Battle Tank,Astra_Militarum
+45.08,Chimera,Astra_Militarum
+34.04,Cadian Command Squad,Astra_Militarum
+74.52,Valkyrie,Astra_Militarum
+55.2,Leman Russ Demolisher,Astra_Militarum
+34.04,Sentinel,Astra_Militarum
 51.52,Militarum Auxilla Bullgryns,Astra_Militarum
 35.88,Militarum Tempestus Scions,Astra_Militarum
-34.04,Astra Militarum Cadian Infantry Squad,Astra_Militarum
+34.04,Cadian Infantry Squad,Astra_Militarum
 37.72,A/Militarum Cadian Heavy Weapon Squad,Astra_Militarum
 27.6,Officio Prefectus Commissar,Astra_Militarum
-56.12,Astra Militarum Hydra,Astra_Militarum
-129.72,Astra Militarum Baneblade,Astra_Militarum
-46.0,Space Marines Tactical Squad,Space_Marines
-46.0,Space Marines Assault Squad,Space_Marines
-50.6,Space Marines Terminator Squad,Space_Marines
-37.72,Space Marine Bike Squad,Space_Marines
-50.6,Space Marines Devastator Squad,Space_Marines
-32.2,Space Marines Scouts,Space_Marines
-45.08,Space Marines Vanguard Veteran Squad,Space_Marines
-54.28,Space Marine Sternguard Veteran Squad,Space_Marines
-32.2,Space Marine Attack Bike,Space_Marines
-42.32,Space Marines Razorback,Space_Marines
-56.12,Space Marines: Hammerfall Bunker,Space_Marines
-56.12,Space Marines Predator,Space_Marines
-72.68,Space Marines Centurion Assault Squad,Space_Marines
-56.12,Space Marines Vindicator,Space_Marines
-41.4,Space Marines Drop Pod,Space_Marines
-32.2,Space Marines Scouts With Sniper Rifles,Space_Marines
-89.24,S/Marines Land Raider Crusader/Redeemer,Space_Marines
-42.32,Space Marines: Primaris Chaplain On Bike,Space_Marines
-55.2,Space Marines Venerable Dreadnought,Space_Marines
-51.52,Space Marines Terminator Assault Squad,Space_Marines
-34.04,Space Marine Land Speeder Storm,Space_Marines
-56.12,Space Marines: Assault Intercessors,Space_Marines
-74.52,Space Marines Gladiator,Space_Marines
-31.28,Space Marines Librarian,Space_Marines
-33.12,Space Marines Primaris Techmarine,Space_Marines
-56.12,Space Marines Outriders,Space_Marines
-56.12,Space Marines Stormhawk Interceptor,Space_Marines
-46.92,Space Marines Primaris Eradicators,Space_Marines
-46.92,Space Marines Bladeguard Veterans,Space_Marines
-60.72,Space Marines Storm Speeder,Space_Marines
-54.28,Space Marines Ironclad Dreadnought,Space_Marines
-37.72,Space Marines Primaris Invader Atv,Space_Marines
-46.92,Space Marines Company Command,Space_Marines
-33.12,Space Marines Firestrike Servo Turret,Space_Marines
+56.12,Hydra,Astra_Militarum
+129.72,Baneblade,Astra_Militarum
+46.0,Tactical Squad,Space_Marines
+46.0,Assault Squad,Space_Marines
+50.6,Terminator Squad,Space_Marines
+37.72,Bike Squad,Space_Marines
+50.6,Devastator Squad,Space_Marines
+32.2,Scouts,Space_Marines
+45.08,Vanguard Veteran Squad,Space_Marines
+54.28,Sternguard Veteran Squad,Space_Marines
+32.2,Attack Bike,Space_Marines
+42.32,Razorback,Space_Marines
+56.12,Hammerfall Bunker,Space_Marines
+56.12,Predator,Space_Marines
+72.68,Centurion Assault Squad,Space_Marines
+56.12,Vindicator,Space_Marines
+41.4,Drop Pod,Space_Marines
+32.2,Scouts With Sniper Rifles,Space_Marines
+42.32,Primaris Chaplain On Bike,Space_Marines
+55.2,Venerable Dreadnought,Space_Marines
+51.52,Terminator Assault Squad,Space_Marines
+34.04,Land Speeder Storm,Space_Marines
+56.12,Assault Intercessors,Space_Marines
+74.52,Gladiator,Space_Marines
+31.28,Librarian,Space_Marines
+33.12,Primaris Techmarine,Space_Marines
+56.12,Outriders,Space_Marines
+56.12,Stormhawk Interceptor,Space_Marines
+46.92,Primaris Eradicators,Space_Marines
+46.92,Bladeguard Veterans,Space_Marines
+60.72,Storm Speeder,Space_Marines
+54.28,Ironclad Dreadnought,Space_Marines
+37.72,Primaris Invader Atv,Space_Marines
+46.92,Company Command,Space_Marines
+33.12,Firestrike Servo Turret,Space_Marines
 92.92,S/Marines Primaris Repulsor Executioner,Space_Marines
-33.12,Space Marines Primaris Apothecary,Space_Marines
-33.12,Space Marines Primaris Captain,Space_Marines
-33.12,Space Marines Primaris Chaplain,Space_Marines
-33.12,Space Marines Primaris Librarian,Space_Marines
+33.12,Primaris Apothecary,Space_Marines
+33.12,Primaris Captain,Space_Marines
+33.12,Primaris Chaplain,Space_Marines
+33.12,Primaris Librarian,Space_Marines
 33.12,Primaris Lieutenant In Phobos Armour,Space_Marines
 33.12,Primaris Librarian In Phobos Armour,Space_Marines
-34.04,Space Marines Captain In Phobos Armour,Space_Marines
-46.92,Space Marines Primaris Aggressors,Space_Marines
-56.12,Space Marines Primaris Reivers,Space_Marines
-56.12,Space Marines Primaris Intercessors,Space_Marines
-56.12,Space Marines Primaris Hellblasters,Space_Marines
+34.04,Captain In Phobos Armour,Space_Marines
+46.92,Primaris Aggressors,Space_Marines
+56.12,Primaris Reivers,Space_Marines
+56.12,Primaris Intercessors,Space_Marines
+56.12,Primaris Hellblasters,Space_Marines
 60.72,S/Marines Primaris Redemptor Dreadnought,Space_Marines
-74.52,Space Marines Primaris Repulsor,Space_Marines
-46.92,Space Marines Primaris Inceptors,Space_Marines
+74.52,Primaris Repulsor,Space_Marines
+46.92,Primaris Inceptors,Space_Marines
 33.12,S/M Primaris Lieutenant With Power Sword,Space_Marines
-46.92,Space Marines Primaris Eliminators,Space_Marines
-69.92,Space Marines Primaris Impulsor,Space_Marines
-56.12,Space Marines Primaris Infiltrators,Space_Marines
+46.92,Primaris Eliminators,Space_Marines
+69.92,Primaris Impulsor,Space_Marines
+56.12,Primaris Infiltrators,Space_Marines
 56.12,S/M Primaris Invictor Tactical Warsuit,Space_Marines
-42.32,Necrons: Necron Warriors,Necrons
-45.08,Necrons: Triarch Praetorians,Necrons
-158.24,Necrons Monolith,Necrons
-35.88,Necrons: Immortals,Necrons
-51.52,Necrons: Ghost Ark,Necrons
-45.08,Necrons: Catacomb Command Barge,Necrons
-46.0,Necrons: Tomb Blades,Necrons
-51.52,Necrons: Canoptek Wraiths,Necrons
-56.12,Necrons: Doom Scythe,Necrons
-35.88,Necrons: Canoptek Spyder,Necrons
-51.52,Necrons: Triarch Stalker,Necrons
-26.68,Necrons: Overlord,Necrons
-33.12,Necrons: Cryptek,Necrons
-56.12,Necrons: Convergence Of Dominion,Necrons
-139.84,Necrons: Szarekh The Silent King,Necrons
-33.12,Necrons Hexmark Destroyer,Necrons
-33.12,Necrons Lokhusts Heavy Destroyer,Necrons
-37.72,Necrons Canoptek Doomstalker,Necrons
-102.12,Necrons: C'Tan Shard Of The Void Dragon,Necrons
-51.52,Necrons Skorpekh Destroyers,Necrons
-51.52,Necrons Ophydian Destroyers,Necrons
-33.12,Necrons Psychomancer,Necrons
-46.92,Necrons Illuminor Szeras,Necrons
-42.32,Ork Warbiker Mob,Orks
-58.88,Ork Meganobz,Orks
-41.4,Ork Trukk,Orks
-34.04,Ork Boyz,Orks
-32.2,Ork Nobz,Orks
-32.2,Ork Stormboyz,Orks
-17.48,Orks Gretchin,Orks
-51.52,Ork Killa Kans,Orks
-115.92,Ork Gorkanaut,Orks
-69.92,Ork Battlewagon,Orks
-32.2,Ork Lootas,Orks
-51.52,Ork Flash Gitz,Orks
-27.6,Orks Painboy,Orks
-46.92,Ork Mek Gun,Orks
-45.08,Orks Mekboy Workshop,Orks
-60.72,Orks: Ghazghkull Thraka,Orks
-69.92,Ork Wazbom Blastajet,Orks
-46.92,Orks Warboss Grukk'S Boss Mob,Orks
-46.92,Orks Shokkjump Dragsta,Orks
-46.92,Orks Rukkatrukk Squigbuggy,Orks
-46.92,Orks Megatrakk Scrapjet,Orks
-46.92,Orks Kustom Boosta Blasta,Orks
-46.92,Orks Deffkilla Wartrike,Orks
-46.92,Orks Boomdakka Snazzwagon,Orks
-34.04,Tyranid Genestealers,Genestealer_Cult
-56.12,Tyranids Hive Tyrant,Tyranids
-54.28,Tyranid Tyrannofex / Tervigon,Tyranids
-34.04,Tyranid Gargoyle Brood,Tyranids
-74.52,Tyranid Trygon/Mawloc,Tyranids
-74.52,Tyranid Harpy,Tyranids
-33.12,Tyranids Termagant Brood,Tyranids
-34.04,Tyranid Hormagaunt Brood,Tyranids
-51.52,Tyranid Warriors,Tyranids
-60.72,Tyranid Tyrannocyte,Tyranids
-61.64,Tyranid Venomthropes,Tyranids
-37.72,Tyranid Broodlord,Tyranids
-28.52,Genestealer Cults Biophagus,Genestealer_Cult
-28.52,Genestealer Cults Clamavus,Genestealer_Cult
-28.52,Genestealer Cults Locus,Genestealer_Cult
-28.52,Genestealer Cults Magus,Genestealer_Cult
-28.52,Genestealer Cults Nexos,Genestealer_Cult
-28.52,Genestealer Cults Sanctus,Genestealer_Cult
-56.12,Genestealer Cults Broodcoven,Genestealer_Cult
-37.72,Genestealer Cults Acolyte Hybrids,Genestealer_Cult
-41.4,Genestealer Cults Neophyte Hybrids,Genestealer_Cult
-56.12,Genestealer Cults Goliath,Genestealer_Cult
-42.32,Genestealer Cults Brood Brothers,Genestealer_Cult
-28.52,Genestealer Cults Abominant,Genestealer_Cult
-37.72,Genestealer Cults Aberrants,Genestealer_Cult
-46.92,Genestealer Cults Achilles Ridgerunner,Genestealer_Cult
-51.52,Genestealer Cults Atalan Jackals,Genestealer_Cult
-35.88,Genestealer Cults Jackal Alphus,Genestealer_Cult
-28.52,Genestealer Cults Kelermorph,Genestealer_Cult
-69.92,Adepta Sororitas Immolator,Adepta_Sororitas
-74.52,Adepta Sororitas Exorcist,Adepta_Sororitas
-34.04,Officio Assassinorum Vindicare Assassin,Imperial_Assassins
-34.04,Officio Assassinorum Culexus Assassin,Imperial_Assassins
-34.04,Officio Assassinorum Eversor Assassin,Imperial_Assassins
-28.52,Adepta Sororitas Imagifier,Adepta_Sororitas
-33.12,Adepta Sororitas Dialogus,Adepta_Sororitas
-42.32,Adepta Sororitas Junith Eruita,Adepta_Sororitas
-33.12,Adepta Sororitas Hospitaller,Adepta_Sororitas
-46.92,Adepta Sororitas Arco Flagellants,Adepta_Sororitas
-56.12,Adepta Sororitas Battle Sisters Squad,Adepta_Sororitas
-33.12,Adepta Sororitas Canoness,Adepta_Sororitas
-46.92,Adepta Sororitas Repentia Squad,Adepta_Sororitas
-102.12,A/Soror.: The Triumph Of Saint Katherine,Adepta_Sororitas
-51.52,Adepta Sororitas Retributor Squad,Adepta_Sororitas
-56.12,Adepta Sororitas Rhino,Adepta_Sororitas
-51.52,Adepta Sororitas Seraphim Squad,Adepta_Sororitas
-106.72,Adepta Sororitas Battle Sanctum,Adepta_Sororitas
+42.32,Necron Warriors,Necrons
+45.08,Triarch Praetorians,Necrons
+158.24,Monolith,Necrons
+35.88,Immortals,Necrons
+51.52,Ghost Ark,Necrons
+45.08,Catacomb Command Barge,Necrons
+46.0,Tomb Blades,Necrons
+51.52,Canoptek Wraiths,Necrons
+56.12,Doom Scythe,Necrons
+35.88,Canoptek Spyder,Necrons
+51.52,Triarch Stalker,Necrons
+26.68,Overlord,Necrons
+33.12,Cryptek,Necrons
+56.12,Convergence Of Dominion,Necrons
+139.84,Szarekh The Silent King,Necrons
+33.12,Hexmark Destroyer,Necrons
+33.12,Lokhusts Heavy Destroyer,Necrons
+37.72,Canoptek Doomstalker,Necrons
+102.12,C'Tan Shard Of The Void Dragon,Necrons
+51.52,Skorpekh Destroyers,Necrons
+51.52,Ophydian Destroyers,Necrons
+33.12,Psychomancer,Necrons
+46.92,Illuminor Szeras,Necrons
+42.32,Warbiker Mob,Orks
+58.88,Meganobz,Orks
+41.4,Trukk,Orks
+34.04,Boyz,Orks
+32.2,Nobz,Orks
+32.2,Stormboyz,Orks
+17.48,Gretchin,Orks
+51.52,Killa Kans,Orks
+115.92,Gorkanaut,Orks
+69.92,Battlewagon,Orks
+32.2,Lootas,Orks
+51.52,Flash Gitz,Orks
+27.6,Painboy,Orks
+46.92,Mek Gun,Orks
+45.08,Mekboy Workshop,Orks
+60.72,Ghazghkull Thraka,Orks
+69.92,Wazbom Blastajet,Orks
+46.92,Warboss Grukk'S Boss Mob,Orks
+46.92,Shokkjump Dragsta,Orks
+46.92,Rukkatrukk Squigbuggy,Orks
+46.92,Megatrakk Scrapjet,Orks
+46.92,Kustom Boosta Blasta,Orks
+46.92,Deffkilla Wartrike,Orks
+46.92,Boomdakka Snazzwagon,Orks
+34.04,Tyranid,Genestealer_Cult
+56.12,Hive Tyrant,Tyranids
+54.28,Tyrannofex / Tervigon,Tyranids
+34.04,Gargoyle Brood,Tyranids
+74.52,Trygon/Mawloc,Tyranids
+74.52,Harpy,Tyranids
+33.12,Termagant Brood,Tyranids
+34.04,Hormagaunt Brood,Tyranids
+51.52,Warriors,Tyranids
+60.72,Tyrannocyte,Tyranids
+61.64,Venomthropes,Tyranids
+37.72,Broodlord,Tyranids
+28.52,s Biophagus,Genestealer_Cult
+28.52,s Clamavus,Genestealer_Cult
+28.52,s Locus,Genestealer_Cult
+28.52,s Magus,Genestealer_Cult
+28.52,s Nexos,Genestealer_Cult
+28.52,s Sanctus,Genestealer_Cult
+56.12,s Broodcoven,Genestealer_Cult
+37.72,s Acolyte Hybrids,Genestealer_Cult
+41.4,s Neophyte Hybrids,Genestealer_Cult
+56.12,s Goliath,Genestealer_Cult
+42.32,s Brood Brothers,Genestealer_Cult
+28.52,s Abominant,Genestealer_Cult
+37.72,s Aberrants,Genestealer_Cult
+46.92,s Achilles Ridgerunner,Genestealer_Cult
+51.52,s Atalan Jackals,Genestealer_Cult
+35.88,s Jackal Alphus,Genestealer_Cult
+28.52,s Kelermorph,Genestealer_Cult
+69.92,Immolator,Adepta_Sororitas
+74.52,Exorcist,Adepta_Sororitas
+34.04,Officio Vindicare Assassin,Imperial_Assassins
+34.04,Officio Culexus Assassin,Imperial_Assassins
+34.04,Officio Eversor Assassin,Imperial_Assassins
+28.52,Imagifier,Adepta_Sororitas
+33.12,Dialogus,Adepta_Sororitas
+42.32,Junith Eruita,Adepta_Sororitas
+33.12,Hospitaller,Adepta_Sororitas
+46.92,Arco Flagellants,Adepta_Sororitas
+56.12,Battle Sisters Squad,Adepta_Sororitas
+33.12,Canoness,Adepta_Sororitas
+46.92,Repentia Squad,Adepta_Sororitas
+102.12,. The Triumph Of Saint Katherine,Adepta_Sororitas
+51.52,Retributor Squad,Adepta_Sororitas
+56.12,Rhino,Adepta_Sororitas
+51.52,Seraphim Squad,Adepta_Sororitas
+106.72,Battle Sanctum,Adepta_Sororitas
 33.12,Lord Inquisitor Kyria Draxus,Inquisition
 51.52,Celestine The Living Saint,Adepta_Sororitas
-45.08,Space Wolves Grey Hunters,Space_Wolves
-50.6,Space Wolves Wolf Guard Terminators,Space_Wolves
-53.36,Space Wolves Thunderwolf Cavalry,Space_Wolves
-33.12,Space Wolves Fenrisian Wolves,Space_Wolves
-75.44,Space Wolves Stormfang Gunship,Space_Wolves
-53.36,Space Wolves Venerable Dreadnought,Space_Wolves
-56.12,Space Wolves: Wulfen,Space_Wolves
-30.36,Space Wolves Ulrik The Slayer,Space_Wolves
-30.36,Space Wolves Iron Priest,Space_Wolves
-13.8,Space Wolves Primaris Upgrades,Space_Wolves
-42.32,Space Wolves Hounds Of Morkai,Space_Wolves
-37.72,Space Wolves: Ragnar Blackmane,Space_Wolves
-14.72,Space Wolves Upgrades,Space_Wolves
-69.92,Imperial Knights Armiger Helverins,Imperial_Knights
-158.24,Imperial Knights: Knight Valiant,Imperial_Knights
+45.08,Grey Hunters,Space_Wolves
+50.6,Wolf Guard Terminators,Space_Wolves
+53.36,Thunderwolf Cavalry,Space_Wolves
+33.12,Fenrisian Wolves,Space_Wolves
+75.44,Stormfang Gunship,Space_Wolves
+53.36,Venerable Dreadnought,Space_Wolves
+56.12,Wulfen,Space_Wolves
+30.36,Ulrik The Slayer,Space_Wolves
+30.36,Iron Priest,Space_Wolves
+13.8,Primaris Upgrades,Space_Wolves
+42.32,Hounds Of Morkai,Space_Wolves
+37.72,Ragnar Blackmane,Space_Wolves
+14.72,Upgrades,Space_Wolves
+69.92,Armiger Helverins,Imperial_Knights
+158.24,Knight Valiant,Imperial_Knights
 146.28,Knight Preceptor Canis Rex,Imperial_Knights
-158.24,Imperial Knights: Knight Castellan,Imperial_Knights
-69.92,Imperial Knights: Armiger Warglaives,Imperial_Knights
-33.12,S/Marines: Terminator Chaplain Tarentus,Space_Marines
-23.92,Iron Hands Primaris Upgrades & Transfers,Space_MariSupplement_Marinesnes
-37.72,Iron Hands: Iron Father Feirros,Space_MariSupplement_Marinesnes
-23.92,Raven Guard Primaris Upgrades & Transfrs,Supplement_Marines
-37.72,Raven Guard Kayvaan Shrike,Supplement_Marines
-23.92,Salamanders Primaris Upgrades & Transfrs,Supplement_Marines
-37.72,Salamanders Adrax Agatone,Supplement_Marines
-14.72,Ultramarines Upgrades,Supplement_Marines
-14.72,Ultramarines Primaris Upgrades,Supplement_Marines
-56.12,Ultramarines Roboute Guilliman,Supplement_Marines
+158.24,Knight Castellan,Imperial_Knights
+69.92,Armiger Warglaives,Imperial_Knights
+23.92,Iron Hands Primaris Upgrades & Transfers,Space_Marines
+23.92,Primaris Upgrades & Transfrs,Supplement_Marines
+37.72,Kayvaan Shrike,Supplement_Marines
+23.92,Primaris Upgrades & Transfrs,Supplement_Marines
+37.72,Adrax Agatone,Supplement_Marines
+14.72,Upgrades,Supplement_Marines
+14.72,Primaris Upgrades,Supplement_Marines
+56.12,Roboute Guilliman,Supplement_Marines
 51.52,Marneus Calgar With Victrix Honour Guard,Supplement_Marines
-37.72,Ultramarines Chief Librarian Tigurius,Supplement_Marines
-23.92,White Scars Primaris Upgrades/Transfers,Supplement_Marines
-37.72,White Scars Kor'Sarro Khan,Supplement_Marines
-37.72,Imperial Fists Tor Garadon,Supplement_Marines
+37.72,Chief Librarian Tigurius,Supplement_Marines
+23.92,White Scars Primaris Upgrades/Transfers,Space_Marines
 23.92,Imp. Fists Primaris Upgrades & Transfers,Space_Marines
-33.12,Ultramarines Captain Uriel Ventris,Supplement_Marines
-46.92,Tau Empire Fire Warriors,Tau_Empire
-69.92,Tau Empire Xv8 Crisis Battlesuits,Tau_Empire
-35.88,Tau Empire Pathfinder Team,Tau_Empire
-45.08,Tau Empire Ty7 Devilfish,Tau_Empire
-56.12,Hammerhead Gunship,Tau_Empire
-102.12,Tau Empire Xv104 Riptide Battlesuit,Tau_Empire
-32.2,Tau Empire Xv25 Stealth Battlesuits,Tau_Empire
-51.52,Tau Empire Xv88 Broadside Battlesuit,Tau_Empire
-27.6,T'Au Empire Cadre Fireblade,Tau_Empire
-158.24,Tau Empire Kv128 Stormsurge,Tau_Empire
-34.04,Tau Empire Tx4 Piranha,Tau_Empire
-74.52,Tau Xv95 Ghostkeel Battlesuit,Tau_Empire
-51.52,Tau Empire Commander,Tau_Empire
-42.32,T'Au Empire: Commander Shadowsun,Tau_Empire
-60.72,Tau Empire Tidewall Shieldline,Tau_Empire
-56.12,Grey Knights Strike Squad,Grey_Knights
-50.6,Grey Knights Paladin Squad,Grey_Knights
-56.12,Grey Knights Nemesis Dreadknight,Grey_Knights
-34.04,Grey Knights Grand Master Voldus,Grey_Knights
-37.72,Harlequin Troupe,Harlequins
-41.4,Harlequin Skyweavers,Harlequins
-38.64,Harlequin Starweaver,Harlequins
-26.68,Harlequin Shadowseer,Harlequins
-26.68,Harlequin Death Jester,Harlequins
-41.4,Adeptus Mechanicus Skitarii,Adeptus_Mechanicus
-46.0,Adeptus Mechanicus Sicarians,Adeptus_Mechanicus
-51.52,Adeptus Mechanicus Ironstrider,Adeptus_Mechanicus
-69.92,Adeptus Mechanicus Onager Dunecrawler,Adeptus_Mechanicus
+33.12,Captain Uriel Ventris,Supplement_Marines
+46.92,Fire Warriors,Tau_Empire
+69.92,Xv8 Crisis Battlesuits,Tau_Empire
+35.88,Pathfinder Team,Tau_Empire
+45.08,Ty7 Devilfish,Tau_Empire
+56.12,Hammerhead,Tau_Empire
+102.12,Xv104 Riptide Battlesuit,Tau_Empire
+32.2,Xv25 Stealth Battlesuits,Tau_Empire
+51.52,Xv88 Broadside Battlesuit,Tau_Empire
+27.6,Empire Cadre Fireblade,Tau_Empire
+158.24,Kv128 Stormsurge,Tau_Empire
+34.04,Tx4 Piranha,Tau_Empire
+74.52,Xv95 Ghostkeel Battlesuit,Tau_Empire
+51.52,Commander,Tau_Empire
+42.32,Empire Commander Shadowsun,Tau_Empire
+60.72,Tidewall Shieldline,Tau_Empire
+56.12,Strike Squad,Grey_Knights
+50.6,Paladin Squad,Grey_Knights
+56.12,Nemesis Dreadknight,Grey_Knights
+34.04,Grand Master Voldus,Grey_Knights
+37.72,Troupe,Harlequins
+41.4,Skyweavers,Harlequins
+38.64,Starweaver,Harlequins
+26.68,Shadowseer,Harlequins
+26.68,Death Jester,Harlequins
+41.4,Skitarii,Adeptus_Mechanicus
+46.0,Sicarians,Adeptus_Mechanicus
+51.52,Ironstrider,Adeptus_Mechanicus
+69.92,Onager Dunecrawler,Adeptus_Mechanicus
 54.28,Adeptus Mech. Kataphron Battle Servitors,Adeptus_Mechanicus
-42.32,Adeptus Mechanicus Electro Priests,Adeptus_Mechanicus
-69.92,Adeptus Mechanicus Kastelan Robots,Adeptus_Mechanicus
-51.52,Adeptus Mechanicus Belisarius Cawl,Adeptus_Mechanicus
-34.04,Adeptus Mechanicus Tech Priest Dominus,Adeptus_Mechanicus
-69.92,Adept/Mechanicus Skorpius Disintegrator,Adeptus_Mechanicus
-33.12,Adeptus Mechanicus Tech Priest Manipulus,Adeptus_Mechanicus
-92.92,Adeptus Mechanicus: Archaeopter,Adeptus_Mechanicus
-56.12,Adeptus Mechanicus: Pteraxii,Adeptus_Mechanicus
-56.12,Adeptus Mechanicus Serberys Raiders,Adeptus_Mechanicus
-32.2,S/Mechanicus: Thermic Plasma Regulators,Adeptus_Mechanicus
-83.72,Start Collecting! Craftworlds,Craftworlds
-83.72,Start Collecting! Astra Militarum,Astra_Militarum
-83.72,Start Collecting! Orks,Orks
-88.32,Start Collecting! Tyranids,Tyranids
+42.32,Electro Priests,Adeptus_Mechanicus
+69.92,Kastelan Robots,Adeptus_Mechanicus
+51.52,Belisarius Cawl,Adeptus_Mechanicus
+34.04,Tech Priest Dominus,Adeptus_Mechanicus
+33.12,Tech Priest Manipulus,Adeptus_Mechanicus
+92.92,Archaeopter,Adeptus_Mechanicus
+56.12,Pteraxii,Adeptus_Mechanicus
+56.12,Serberys Raiders,Adeptus_Mechanicus
+83.72,Start Collecting!,Craftworlds
+83.72,Start Collecting!,Astra_Militarum
+83.72,Start Collecting!,Orks
+88.32,Start Collecting!,Tyranids
 88.32,Start Collecting! Militarum Tempestus,Astra_Militarum
-88.32,Start Collecting! Thousand Sons,Thousand_Sons
-88.32,Start Collecting! T'Au Empire,Tau_Empire
-88.32,Start Collecting! Adeptus Mechanicus,Adeptus_Mechanicus
-88.32,Start Collecting! Genestealer Cults,Genestealer_Cult
-46.92,Talons Of The Emperor:Valerian And Aleya,Adeptus_Custodes
-17.48,Ciaphas Cain: Hero Of The Imperium,Inquisition
-41.4,Adeptus Titanicus Civitas Imperialis,Imperial_Knights
-60.72,Adeptus Titanicus Warhound Scout Titans,Imperial_Knights
+88.32,Start Collecting!,Thousand_Sons
+88.32,Start Collecting! Empire,Tau_Empire
+88.32,Start Collecting!,Adeptus_Mechanicus
+88.32,Start Collecting! s,Genestealer_Cult
+46.92,Talons Of The Emperorvalerian And Aleya,Adeptus_Custodes
+17.48,Ciaphas Cain Hero Of The Imperium,Inquisition
 102.12,Warlord Titan With Plasma Annihilator,Imperial_Knights
 56.12,Reaver Titan W/Melta Cannon & Chainfist,Imperial_Knights
-46.92,A/Titanicus Acastus Knights Porphyrion,Imperial_Knights
-37.72,Adeptus Titanicus Questoris Knights,Imperial_Knights
 83.72,Warbringer Nemesis Titan W/Quake Cannon,Imperial_Knights
-50.6,Ad/Titanicus: Manufactorum Imperialis,Imperial_Knights
-60.72,At Cerastus Knights Acheron & Castigator,Imperial_Knights
-38.64,A/I: Imperial Navy Thunderbolt Fighters,Astra_Militarum
-38.64,A/I: Imperial Navy Marauder Bombers,Astra_Militarum
-38.64,A/I: Imperial Navy Marauder Destroyers,Astra_Militarum
-33.12,Aeronautica Imperialis: Taros Air War,Astra_Militarum
-39.56,A/I Imperial Navy Lightning Fighters,Astra_Militarum
-39.56,Aer/Imp: Valkyrie Assault Carriers,Astra_Militarum
-39.56,A/I: T'Au Tiger Shark Fighter Bombers,Astra_Militarum
-39.56,A/I:T'Au Tiger Shark Ax 1.0 Fighter Bomb,Astra_Militarum
-39.56,A/I: Imper. Navy Avenger Strike Fighters,Astra_Militarum
+38.64,Imperial Navy Thunderbolt Fighters,Astra_Militarum
+38.64,Imperial Navy Marauder Bombers,Astra_Militarum
+38.64,Imperial Navy Marauder Destroyers,Astra_Militarum
+33.12,Aeronautica Imperialis Taros Air War,Astra_Militarum
+39.56,Imperial Navy Lightning Fighters,Astra_Militarum
+39.56,Aer/Imp Valkyrie Assault Carriers,Astra_Militarum
+39.56,T'Au Tiger Shark Fighter Bombers,Astra_Militarum
+39.56,Imper. Navy Avenger Strike Fighters,Astra_Militarum
 14.72,Middenland Tufts (3 Pack),Space_Marines
 83.72,Start Collecting! Daemons Of Slaanesh,Chaos_Daemons
 83.72,Start Collecting! Daemons Of Tzeentch,Chaos_Daemons
@@ -373,8 +358,8 @@ price,all,faction
 83.72,Start Collecting! Daemons Of Nurgle,Chaos_Daemons
 41.4,Daemons Of Nurgle Beast Of Nurgle,Chaos_Daemons
 129.72,Daemons Of Nurgle Great Unclean One,Chaos_Daemons
-32.2,Daemons Of Nurgle: Sloppity Bilepiper,Chaos_Daemons
-32.2,Daemons Of Nurgle: Spoilpox Scrivener,Chaos_Daemons
+32.2,Daemons Of Nurgle Sloppity Bilepiper,Chaos_Daemons
+32.2,Daemons Of Nurgle Spoilpox Scrivener,Chaos_Daemons
 37.72,Feculent Gnarlmaw,Chaos_Daemons
 129.72,Daemons Of Slaanesh Keeper Of Secrets,Chaos_Daemons
 34.04,Daemons Of Khorne Bloodletters,Chaos_Daemons
@@ -391,12 +376,11 @@ price,all,faction
 34.04,Daemons Of Khorne Skulltaker,Chaos_Daemons
 33.12,Magister On Disc Of Tzeentch,Chaos_Daemons
 33.12,Daemons Of Tzeentch The Changeling,Chaos_Daemons
-37.72,Daemons Of Slaanesh:Infernal Enrapturess,Chaos_Daemons
-46.92,Syll'Esske: The Vengeful Allegiance,Chaos_Daemons
-46.92,Daemons/Slaanesh: The Contorted Epitome,Chaos_Daemons
+37.72,Daemons Of Slaaneshinfernal Enrapturess,Chaos_Daemons
+46.92,Syll'Esske The Vengeful Allegiance,Chaos_Daemons
+46.92,Daemons/Slaanesh The Contorted Epitome,Chaos_Daemons
 28.52,Bloodmaster Herald Of Khorne,Chaos_Daemons
 46.92,Daemons Of Khorne Flesh Hounds,Chaos_Daemons
 34.04,Karanak The Hound Of Vengeance,Chaos_Daemons
-32.2,Daemons Of Slaanesh: The Masque,Chaos_Daemons
-23.92,B/Stone Fortress: Cultists Of The Abyss,Chaos_Daemons
-11.96,Space Marine Heroes 3 F/Dispenser (Row),Space_Marines
+32.2,Daemons Of Slaanesh The Masque,Chaos_Daemons
+11.96,Heroes 3 F/Dispenser (Row),Space_Marines
