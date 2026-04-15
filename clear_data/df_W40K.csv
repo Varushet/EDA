@@ -1,0 +1,947 @@
+mini,faction,material,edition,year,base_mm2,cost,price,price_old,match_score
+Baharroth,Craftworlds,Metal,Warhammer 40K: Rogue Trader,1990.0,40mm,115.0,44.16,44.16,90
+WARP SPIDER,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,28.5mm,95.0,57.5,57.5,96
+Avatar of Khaine,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,80mm,280.0,104.88,104.88,100
+Asurmen,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,40mm,125.0,44.16,44.16,100
+Karandras,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,25mm,90.0,52.900000000000006,52.900000000000006,100
+Fuegan,Craftworlds,Metal,Warhammer 40K: 2nd Edition,1994.0,40mm,120.0,44.16,44.16,100
+Baharroth,Craftworlds,Metal,Warhammer 40K: 2nd Edition,1994.0,40mm,115.0,44.16,44.16,100
+Maugan Ra,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,40mm,100.0,44.16,44.16,100
+WARP SPIDER EXARCH,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,28.5mm,95.0,52.900000000000006,52.900000000000006,100
+Warlock,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,32mm,45.0,55.2,55.2,90
+Warlock,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,32mm,45.0,55.2,55.2,90
+Autarch,Craftworlds,Plastic,Warhammer 40K: 2nd Edition,1994.0,32mm,85.0,40.02,40.02,90
+Vypers,Craftworlds,Plastic,Warhammer 40K: 2nd Edition,1997.0,105 x 70mm,65.0,52.900000000000006,52.900000000000006,91
+Falcon,Craftworlds,Plastic,Warhammer 40K: 2nd Edition,1997.0,60mm flying base,130.0,52.900000000000006,52.900000000000006,100
+Warlock,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,32mm,45.0,55.2,55.2,90
+Assault Squad With Jump Packs,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,1999.0,32mm,115.0,54.28,54.28,86
+SHINING SPEAR,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,1999.0,60mm flying base,110.0,63.48,63.48,96
+SHINING SPEAR EXARCH,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,1999.0,60mm flying base,110.0,52.900000000000006,52.900000000000006,98
+SWOOPING HAWK,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,2000.0,32mm,85.0,57.5,57.5,96
+Warlock,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,2003.0,32mm,45.0,55.2,55.2,90
+STORM GUARDIAN,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,2003.0,28.5mm,100.0,55.2,55.2,97
+Wave Serpent,Craftworlds,Plastic,Warhammer 40K: 4th Edition,2005.0,60mm flying base,125.0,54.28,54.28,100
+Rangers,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,55.0,57.5,57.5,100
+HEAVY WEAPON PLATFORM,Craftworlds,Plastic,Warhammer 40K: 4th Edition,2006.0,40mm,100.0,52.900000000000006,52.900000000000006,95
+Farseer,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,25mm,70.0,27.6,27.6,90
+Prince Yriel,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,40mm,100.0,43.24,43.24,100
+STRIKING SCORPION,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,85.0,52.900000000000006,52.900000000000006,97
+DIRE AVENGER,Craftworlds,Plastic,Warhammer 40K: 4th Edition,2006.0,28.5mm,75.0,44.16,44.16,96
+DARK REAPER,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,90.0,57.5,57.5,96
+War Walkers,Chaos_Knights,Plastic,Warhammer 40K: 4th Edition,2006.0,60mm,85.0,78.2,78.2,95
+Heavy Gun Drones,Death_Guard,Plastic,Warhammer 40K: 4th Edition,2006.0,32mm flying base,45.0,55.2,55.2,86
+FIRE DRAGON,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,120.0,57.5,57.5,96
+Wraithlord,Craftworlds,Plastic,Warhammer 40K: 4th Edition,2006.0,60mm,140.0,51.52,51.52,100
+Autarch Skyrunner,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2007.0,32mm flying base,90.0,52.900000000000006,52.900000000000006,100
+Lieutenant With Combi-weapon,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2010.0,40mm,70.0,54.28,54.28,86
+Fire Prism,Craftworlds,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm flying base,150.0,63.48,63.48,100
+Night Spinner,Craftworlds,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm flying base,190.0,63.48,63.48,100
+Wraithknight,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,435.0,129.72,129.72,100
+Wraithguard,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,170.0,51.52,51.52,100
+Wraithblades,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,160.0,59.8,59.8,100
+Illic Nightspear,Craftworlds,Finecast,Warhammer 40K: 6th Edition,2013.0,25mm,70.0,52.900000000000006,52.900000000000006,100
+Farseer,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,25mm,70.0,27.6,27.6,100
+Hemlock Wraithfighter,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,155.0,74.52,74.52,100
+Crimson Hunter,Craftworlds,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,160.0,88.32,88.32,100
+Autarch,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,85.0,40.02,40.02,100
+Farseer Skyrunner,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm flying base,80.0,40.02,40.02,100
+Warlock Skyrunner,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm flying base,45.0,40.02,40.02,100
+Windriders,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm flying base,80.0,46.92,46.92,100
+Eldrad Ulthran,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,110.0,32.2,32.2,100
+Spiritseer,Craftworlds,Plastic,Warhammer 40K: 8th Edition,2018.0,25mm,65.0,28.52,28.52,100
+Jain Zar,Craftworlds,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,105.0,37.72,37.72,100
+HOWLING BANSHEE,Craftworlds,Plastic,Warhammer 40K: 8th Edition,2019.0,28.5mm,95.0,57.5,57.5,97
+Shroud Runners,Craftworlds,Plastic,Warhammer 40K: 9th Edition,2022.0,60mm flying base,80.0,67.62,67.62,100
+Rangers,Craftworlds,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,55.0,57.5,57.5,100
+Autarch,Craftworlds,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,85.0,40.02,40.02,100
+Maugan Ra,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,40mm,100.0,44.16,44.16,100
+DARK REAPER,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,90.0,57.5,57.5,96
+Warlock,Craftworlds,Plastic,Warhammer 40K: 9th Edition,2022.0,32mm,45.0,55.2,55.2,93
+GUARDIAN DEFENDER,Craftworlds,Plastic,Warhammer 40K: 9th Edition,2022.0,28.5mm,100.0,55.2,55.2,85
+STORM GUARDIAN,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,2003.0,28.5mm,100.0,55.2,55.2,97
+Avatar of Khaine,Craftworlds,Finecast,Warhammer 40K: 2nd Edition,1994.0,80mm,280.0,104.88,104.88,100
+SHINING SPEAR,Craftworlds,Finecast,Warhammer 40K: 3rd Edition,1999.0,60mm flying base,110.0,63.48,63.48,96
+Kabalite Warriors,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,25mm,100.0,34.04,34.04,100
+Wyches,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,25mm,80.0,34.04,34.04,100
+Reavers,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,32mm flying base,65.0,44.16,44.16,100
+Hellions,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,32mm flying base,75.0,32.2,32.2,100
+Raider,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm flying base,75.0,45.08,45.08,100
+Ravager,Drukhari,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm flying base,100.0,63.48,63.48,100
+Mandrakes,Drukhari,Finecast,Warhammer 40K: 5th Edition,2010.0,28.5mm,65.0,55.2,55.2,100
+Urien Rakarth,Drukhari,Finecast,Warhammer 40K: 5th Edition,2010.0,25mm,80.0,55.2,55.2,100
+Lelith Hesperax,Drukhari,Finecast,Warhammer 40K: 5th Edition,2010.0,32mm,95.0,44.16,44.16,100
+BEASTMASTER,Deathwatch,Finecast,Warhammer 40K: 5th Edition,2011.0,32mm flying base,120.0,48.76,48.76,100
+KHYMERAE,Astra_Militarum,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,120.0,55.2,55.2,100
+CLAWED FIEND,Chaos_Space_Marines,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,120.0,55.2,55.2,100
+RAZORWING FLOCK,Drukhari,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,120.0,55.2,55.2,100
+Scourges,Drukhari,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,130.0,32.2,32.2,100
+Talos,Drukhari,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm flying base,80.0,51.52,51.52,100
+Cronos,Drukhari,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm flying base,50.0,59.8,59.8,100
+Razorwing Jetfighter,Drukhari,Plastic,Warhammer 40K: 5th Edition,2011.0,120 x 92mm flying base,170.0,59.8,59.8,100
+Venom,Drukhari,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm flying base,65.0,34.04,34.04,100
+Grotesques,Drukhari,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,80.0,55.2,55.2,95
+Haemonculus,Drukhari,Plastic,Warhammer 40K: 6th Edition,2014.0,25mm,60.0,29.44,29.44,100
+Wracks,Drukhari,Plastic,Warhammer 40K: 6th Edition,2014.0,25mm,55.0,55.2,55.2,100
+Voidraven Bomber,Drukhari,Plastic,Warhammer 40K: 6th Edition,2014.0,120 x 92mm flying base,235.0,88.32,88.32,100
+Succubus,Drukhari,Plastic,Warhammer 40K: 6th Edition,2014.0,25mm,45.0,29.44,29.44,100
+Archon,Drukhari,Plastic,Warhammer 40K: 6th Edition,2014.0,32mm,85.0,27.6,27.6,100
+Drazhar,Drukhari,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,85.0,37.72,37.72,100
+INCUBI,Drukhari,Plastic,Warhammer 40K: 8th Edition,2019.0,28.5mm,85.0,57.5,57.5,100
+Lelith Hesperax,Drukhari,Finecast,Warhammer 40K: 5th Edition,2010.0,32mm,95.0,44.16,44.16,100
+Troupe,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,85.0,37.72,37.72,100
+Troupe Master,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,75.0,37.72,37.72,100
+Solitaire,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,115.0,30.82,30.82,100
+Death Jester,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,90.0,26.68,26.68,100
+Shadowseer,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,60.0,26.68,26.68,100
+Skyweavers,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm flying base,95.0,41.4,41.4,100
+Starweaver,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,65mm,80.0,38.64,38.64,100
+Voidweaver,Harlequins,Plastic,Warhammer 40K: 7th Edition,2015.0,65mm,125.0,44.16,44.16,100
+The Yncarne,Ynnari,Plastic,Warhammer 40K: 7th Edition,2017.0,80mm,260.0,55.2,55.2,100
+Yvraine,Ynnari,Plastic,Warhammer 40K: 7th Edition,2017.0,75 x 42mm,100.0,40.02,40.02,100
+The Visarch,Ynnari,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,90.0,32.2,32.2,100
+Scout Sentinels,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,80mm,55.0,44.16,44.16,97
+Leman Russ Commander,Tau_Empire,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,235.0,55.2,55.2,90
+Goliath Truck,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,Use model,85.0,63.48,63.48,100
+Goliath Rockgrinder,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,Use model,120.0,63.48,63.48,100
+Acolyte Hybrids,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,65.0,44.16,44.16,100
+Hybrid Metamorphs,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,70.0,44.16,44.16,100
+Neophyte Hybrids,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,25mm,65.0,55.2,55.2,100
+Acolyte Iconward,Genestealer_Cult,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,50.0,32.2,32.2,100
+Aberrants,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2018.0,32mm,135.0,44.16,44.16,100
+Abominant,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,85.0,32.2,32.2,100
+Kelermorph,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,60.0,32.2,32.2,100
+Achilles Ridgerunners,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2019.0,120 x 92mm,95.0,55.2,55.2,98
+ATALAN JACKAL,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2019.0,60 x 35.5mm,85.0,59.8,59.8,96
+Biophagus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,25mm,50.0,32.2,32.2,100
+Clamavus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,50.0,32.2,32.2,100
+Nexos,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,60.0,32.2,32.2,100
+Sanctus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,50.0,32.2,32.2,100
+Jackal Alphus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,60 x 35.5mm,55.0,44.16,44.16,100
+Locus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,45.0,32.2,32.2,100
+Magus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,50.0,32.2,32.2,100
+Reductus Saboteur,Genestealer_Cult,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,65.0,35.88,35.88,100
+Termagants,Tyranids,Plastic,Warhammer 40K: 3rd Edition,2001.0,28.5mm,60.0,44.16,44.16,85
+Da Red Gobbo Tinboy,Orks,Finecast,Warhammer 40K: 3rd Edition,2001.0,40mm,,55.2,55.2,86
+Spore Mines,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2001.0,25mm,55.0,55.2,55.2,86
+Screamer-killer,Chaos_Daemons,Plastic,Warhammer 40K: 4th Edition,2005.0,90mm,135.0,97.52,97.52,95
+Old One Eye,Tyranids,Plastic,Warhammer 40K: 4th Edition,2005.0,105 x 70mm,150.0,57.5,57.5,100
+Lictor,Tyranids,Finecast,Warhammer 40K: 4th Edition,2005.0,50mm,60.0,48.76,48.76,100
+Deathleaper,Tyranids,Finecast,Warhammer 40K: 4th Edition,2006.0,60mm,80.0,59.8,59.8,100
+Biovores,Tyranids,Finecast,Warhammer 40K: 4th Edition,2006.0,80mm,50.0,48.76,48.76,93
+Trygon,Tyranids,Plastic,Warhammer 40K: 5th Edition,2010.0,120 x 92mm,140.0,88.32,88.32,100
+Mawloc,Tyranids,Plastic,Warhammer 40K: 5th Edition,2010.0,120 x 92mm,135.0,88.32,88.32,100
+Gargoyles,Tyranids,Plastic,Warhammer 40K: 5th Edition,2010.0,32mm flying base,85.0,57.5,57.5,85
+Pyrovores,Tyranids,Finecast,Warhammer 40K: 5th Edition,2010.0,80mm,40.0,48.76,48.76,94
+Tyrannofex,Tyranids,Plastic,Warhammer 40K: 5th Edition,2012.0,120 x 92mm,200.0,63.48,63.48,100
+Tervigon,Tyranids,Plastic,Warhammer 40K: 5th Edition,2012.0,120 x 92mm,160.0,63.48,63.48,100
+Hive Tyrant,Tyranids,Plastic,Warhammer 40K: 5th Edition,2012.0,60mm,195.0,56.12,56.12,100
+The Swarmlord,Tyranids,Plastic,Warhammer 40K: 5th Edition,2012.0,60mm,220.0,59.8,59.8,95
+Harpy,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,120 x 92mm flying base,215.0,74.52,74.52,100
+Hive Crone,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,120 x 92mm flying base,200.0,84.64,84.64,100
+Haruspex,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,120 x 92mm,125.0,81.88,81.88,100
+Exocrine,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,120 x 92mm,140.0,81.88,81.88,100
+Hive Guard,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,50mm,90.0,78.2,78.2,100
+Tyrant Guard,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,50mm,80.0,78.2,78.2,100
+Tyranid Warriors With Melee Bio-weapons,Tyranids,Plastic,Warhammer 40K: 6th Edition,2014.0,50mm,75.0,57.5,57.5,90
+Toxicrene,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,120 x 92mm,150.0,81.88,81.88,100
+Maleceptor,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,120 x 92mm,170.0,81.88,81.88,100
+Tyrannocyte,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,100mm,105.0,60.72,60.72,100
+Sporocyst,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,100mm,145.0,57.5,57.5,90
+Venomthropes,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,70.0,61.64,61.64,100
+Zoanthropes,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,100.0,75.44,75.44,100
+Broodlord,Tyranids,Plastic,Warhammer 40K: 7th Edition,2014.0,75 x 42mm,80.0,37.72,37.72,100
+Parasite Of Mortrex,Tyranids,Plastic,Warhammer 40K: 9th Edition,2022.0,40mm,80.0,40.02,40.02,95
+Winged Tyranid Prime,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,65.0,57.5,57.5,90
+Termagants,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,28.5mm,60.0,44.16,44.16,100
+Psychophage,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,120 x 92mm,110.0,55.2,55.2,100
+Neurogaunts,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,25mm,45.0,40.02,40.02,100
+Von Ryan's Leapers,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,70.0,48.76,48.76,100
+Barbgaunts,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,55.0,44.16,44.16,100
+Screamer-killer,Chaos_Daemons,Plastic,Warhammer 40K: 10th Edition,2023.0,90mm,135.0,97.52,97.52,100
+Neurotyrant,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,105.0,57.5,57.5,100
+Neurolictor,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,70.0,40.02,40.02,100
+Lictor,Tyranids,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,60.0,48.76,48.76,90
+Norn Emissary,Necrons,Plastic,Warhammer 40K: 10th Edition,2023.0,100mm,260.0,112.24,112.24,90
+Necron Warriors,Necrons,Plastic,Warhammer 40K: 3rd Edition,2002.0,32mm,90.0,42.32,42.32,100
+Rapier Laser Destroyer Battery,Necrons,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,35.0,48.76,48.76,90
+C'tan Shard of the Nightbringer,Necrons,Finecast,Warhammer 40K: 3rd Edition,2002.0,90mm,305.0,119.6,119.6,100
+C'tan Shard of the Deceiver,Necrons,Finecast,Warhammer 40K: 3rd Edition,2002.0,40mm,265.0,48.76,48.76,100
+Monolith,Necrons,Plastic,Warhammer 40K: 3rd Edition,2002.0,160mm,400.0,158.24,158.24,100
+Captain With Jump Pack,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2007.0,40mm,75.0,40.02,40.02,86
+Ghost Ark,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm,115.0,51.52,51.52,100
+Doomsday Ark,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm flying base,200.0,63.48,63.48,100
+Catacomb Command Barge,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,Use model,120.0,45.08,45.08,100
+Annihilation Barge,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,Use model,105.0,55.2,55.2,100
+Immortals,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,70.0,35.88,35.88,100
+Deathmarks,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,60.0,44.16,44.16,100
+Lychguard,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,85.0,55.2,55.2,100
+Triarch Praetorians,Necrons,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,90.0,45.08,45.08,100
+Imotekh The Stormlord,Necrons,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,100.0,44.16,44.16,100
+Trazyn The Infinite,Necrons,Finecast,Warhammer 40K: 5th Edition,2011.0,25mm,75.0,30.82,30.82,100
+Overlord,Necrons,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,85.0,26.68,26.68,90
+Flayed Ones,Necrons,Finecast,Warhammer 40K: 5th Edition,2011.0,28.5mm,60.0,55.2,55.2,100
+Triarch Stalker,Necrons,Plastic,Warhammer 40K: 5th Edition,2012.0,Use model,110.0,51.52,51.52,100
+Tomb Blades,Necrons,Plastic,Warhammer 40K: 5th Edition,2012.0,32mm flying base,75.0,46.0,46.0,100
+Canoptek Wraiths,Necrons,Plastic,Warhammer 40K: 5th Edition,2012.0,50mm,110.0,51.52,51.52,100
+Canoptek Spyders,Necrons,Plastic,Warhammer 40K: 5th Edition,2012.0,60mm flying base,75.0,44.16,44.16,97
+Lord,Necrons,Finecast,Warhammer 40K: 5th Edition,2012.0,32mm,65.0,48.76,48.76,90
+Heavy Gun Drones,Death_Guard,Finecast,Warhammer 40K: 5th Edition,2012.0,32mm flying base,45.0,55.2,55.2,86
+Nemesor Zahndrekh,Necrons,Finecast,Warhammer 40K: 5th Edition,2012.0,25mm,85.0,48.76,48.76,100
+Vargard Obyron,Necrons,Finecast,Warhammer 40K: 5th Edition,2012.0,25mm,85.0,48.76,48.76,100
+Doom Scythe,Necrons,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,230.0,56.12,56.12,100
+Night Scythe,Necrons,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,145.0,70.84,70.84,100
+Anrakyr The Traveller,Necrons,Finecast,Warhammer 40K: 6th Edition,2012.0,25mm,95.0,48.76,48.76,100
+Orikan The Diviner,Necrons,Finecast,Warhammer 40K: 6th Edition,2012.0,40mm,80.0,44.16,44.16,100
+Tesseract Vault,Necrons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,425.0,181.24,181.24,100
+Obelisk,Necrons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,300.0,48.76,48.76,100
+Overlord,Necrons,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,85.0,26.68,26.68,90
+Illuminor Szeras,Necrons,Plastic,Warhammer 40K: 8th Edition,2020.0,80mm,165.0,46.92,46.92,100
+Overlord,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,85.0,26.68,26.68,100
+Royal Warden,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,50.0,35.88,35.88,100
+Plasmancer,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,55.0,48.76,48.76,100
+Cryptothralls,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,60.0,48.76,48.76,100
+Skorpekh Lord,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,60mm,90.0,48.76,48.76,92
+Canoptek Reanimator,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,60mm,75.0,48.76,48.76,100
+Skorpekh Destroyers,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,50mm,90.0,51.52,51.52,95
+Canoptek Scarab Swarms,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,40.0,48.76,48.76,100
+Necron Warriors,Necrons,Plastic,Warhammer 40K: 3rd Edition,2002.0,32mm,90.0,42.32,42.32,100
+Lokhust Heavy Destroyers,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,60mm,55.0,35.88,35.88,100
+Canoptek Doomstalker,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,90mm,140.0,37.72,37.72,100
+SZAREKH,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,100mm,400.0,48.76,48.76,90
+Hexmark Destroyer,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,50mm,75.0,33.12,33.12,100
+Convergence Of Dominion,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,Use model,60.0,56.12,56.12,100
+C'tan Shard of the Void Dragon,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,80mm,300.0,119.6,119.6,100
+Monolith,Necrons,Plastic,Warhammer 40K: 3rd Edition,2002.0,160mm,400.0,158.24,158.24,100
+Ophydian Destroyers,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,50mm,80.0,51.52,51.52,100
+Psychomancer,Necrons,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,55.0,33.12,33.12,100
+Chronomancer,Necrons,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,65.0,40.02,40.02,100
+Flayed Ones,Necrons,Finecast,Warhammer 40K: 5th Edition,2011.0,28.5mm,60.0,55.2,55.2,100
+Orikan The Diviner,Necrons,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,80.0,44.16,44.16,90
+Overlord,Necrons,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,85.0,26.68,26.68,90
+Imotekh The Stormlord,Necrons,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,100.0,44.16,44.16,95
+Warboss,Orks,Metal,Warhammer 40K: 3rd Edition,1999.0,40mm,75.0,55.2,55.2,90
+BOY,Orks,Plastic,Warhammer 40K: 3rd Edition,1999.0,32mm,80.0,55.2,55.2,90
+Deffkoptas,Orks,Metal,Warhammer 40K: 3rd Edition,2000.0,75 x 42mm,80.0,63.48,63.48,95
+Mad Dok Grotsnik,Orks,Finecast,Warhammer 40K: 3rd Edition,2000.0,32mm,65.0,55.2,55.2,100
+KOMMANDOS,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2006.0,32mm,120.0,63.48,63.48,95
+Big Mek With Kustom Force Field,Orks,Finecast,Warhammer 40K: 4th Edition,2006.0,40mm,55.0,55.2,55.2,100
+Trukk,Orks,Plastic,Warhammer 40K: 4th Edition,2008.0,Use model,70.0,41.4,41.4,100
+WARBIKER,Craftworlds,Plastic,Warhammer 40K: 4th Edition,2008.0,75 x 42mm,65.0,42.32,42.32,90
+Burna Boyz,Orks,Plastic,Warhammer 40K: 4th Edition,2008.0,32mm,60.0,38.64,38.64,86
+Lootas,Orks,Plastic,Warhammer 40K: 4th Edition,2008.0,32mm,50.0,32.2,32.2,100
+Burna Boyz,Orks,Plastic,Warhammer 40K: 4th Edition,2008.0,32mm,60.0,38.64,38.64,100
+TANKBUSTAS,Orks,Finecast,Warhammer 40K: 4th Edition,2008.0,32mm,140.0,55.2,55.2,100
+Nob With Waaagh! Banner,Orks,Finecast,Warhammer 40K: 4th Edition,2008.0,32mm,70.0,55.2,55.2,95
+Weirdboy,Orks,Finecast,Warhammer 40K: 4th Edition,2008.0,40mm,65.0,30.82,30.82,100
+STORMBOY,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,65.0,32.2,32.2,94
+GRETCHIN,Orks,Plastic,Warhammer 40K: 5th Edition,2009.0,25mm,40.0,17.48,17.48,100
+Nobz,Orks,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,105.0,32.2,32.2,100
+Battlewagon,Orks,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,160.0,69.92,69.92,100
+Boss Zagstruk,Orks,Finecast,Warhammer 40K: 5th Edition,2009.0,40mm,90.0,55.2,55.2,100
+Kaptin Badrukk,Orks,Finecast,Warhammer 40K: 5th Edition,2009.0,40mm,80.0,55.2,55.2,100
+Boss Snikrot,Orks,Finecast,Warhammer 40K: 5th Edition,2009.0,40mm,75.0,40.02,40.02,100
+Stompa,Orks,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,800.0,138.0,138.0,100
+Deff Dread,Orks,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm,120.0,59.8,59.8,100
+Killa Kans,Orks,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm,125.0,51.52,51.52,100
+Dakkajet,Orks,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,135.0,82.8,82.8,100
+Burna-bommer,Orks,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,125.0,82.8,82.8,100
+Blitza-bommer,Orks,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,115.0,82.8,82.8,100
+Gorkanaut,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,170 x 109mm,265.0,115.92,115.92,100
+Morkanaut,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,170 x 109mm,280.0,138.0,138.0,100
+Warboss,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,75.0,55.2,55.2,90
+Deff Rolla Battle Fortress,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,Use model,250.0,55.2,55.2,90
+Flash Gitz,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,80.0,51.52,51.52,100
+Big Mek With Shokk Attack Gun,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,80.0,40.02,40.02,97
+Painboy,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,80.0,27.6,27.6,100
+Mek,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,45.0,55.2,55.2,100
+Mek Gunz,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,Use model,50.0,46.92,46.92,100
+Meganobz,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,65.0,58.88,58.88,100
+Big Mek In Mega Armour,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,90.0,67.62,67.62,100
+BOY,Orks,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,80.0,55.2,55.2,90
+Wazbom Blastajet,Orks,Plastic,Warhammer 40K: 7th Edition,2016.0,120 x 92mm flying base,175.0,69.92,69.92,100
+Shokkjump Dragsta,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,70.0,46.92,46.92,100
+Kustom Boosta-blasta,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,70.0,55.2,55.2,100
+Deffkilla Wartrike,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,80.0,46.92,46.92,100
+Megatrakk Scrapjet,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,75.0,46.92,46.92,100
+Rukkatrukk Squigbuggy,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,95.0,46.92,46.92,100
+Boomdakka Snazzwagon,Orks,Plastic,Warhammer 40K: 8th Edition,2018.0,150 x 95mm,70.0,46.92,46.92,100
+GHAZGHKULL THRAKA,Orks,Plastic,Warhammer 40K: 8th Edition,2020.0,80mm,235.0,75.44,75.44,100
+MAKARI,Astra_Militarum,Plastic,Warhammer 40K: 8th Edition,2020.0,25mm,235.0,55.2,55.2,100
+Zodgrod Wortsnagga,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,50mm,90.0,44.16,44.16,100
+Nob On Smasha Squig,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,90 x 52mm,150.0,55.2,55.2,100
+Squighog Boyz,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,75 x 42mm,150.0,63.48,63.48,100
+Nob On Smasha Squig,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,90 x 52mm,150.0,55.2,55.2,86
+BEAST SNAGGA BOY,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,95.0,55.2,55.2,97
+Beastboss,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,50mm,80.0,40.02,40.02,100
+Burna Boyz,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,60.0,38.64,38.64,90
+Warboss In Mega Armour,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,50mm,80.0,40.02,40.02,100
+Deffkoptas,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,75 x 42mm,80.0,63.48,63.48,100
+Kill Rig,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,170 x 109mm,155.0,133.4,133.4,100
+Hunta Rig,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,170 x 109mm,135.0,133.4,133.4,100
+Painboss,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,70.0,40.02,40.02,100
+Mozrog Skragbad,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,80mm,145.0,55.2,55.2,100
+Beastboss On Squigosaur,Orks,Plastic,Warhammer 40K: 9th Edition,2021.0,80mm,110.0,55.2,55.2,100
+Warboss,Orks,Plastic,Warhammer 40K: 9th Edition,2022.0,40mm,75.0,55.2,55.2,90
+KOMMANDOS,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2022.0,32mm,120.0,63.48,63.48,90
+Big Mek,Orks,Plastic,Warhammer 40K: 10th Edition,2024.0,50mm,70.0,48.76,48.76,100
+Ethereal,Tau_Empire,Finecast,Warhammer 40K: 3rd Edition,2001.0,40mm,50.0,32.2,32.2,100
+Kroot War Shaper,Tau_Empire,Metal,Warhammer 40K: 3rd Edition,2001.0,32mm,50.0,35.88,35.88,95
+Kroot Carnivores,Tau_Empire,Plastic,Warhammer 40K: 3rd Edition,2001.0,28.5mm,65.0,55.2,55.2,86
+Kroot Hounds,Tau_Empire,Finecast,Warhammer 40K: 3rd Edition,2001.0,28.5mm,40.0,40.02,40.02,100
+Devilfish,Tau_Empire,Plastic,Warhammer 40K: 3rd Edition,2001.0,60mm flying base,85.0,59.8,59.8,95
+Ethereal,Tau_Empire,Metal,Warhammer 40K: 3rd Edition,2001.0,40mm,50.0,32.2,32.2,90
+Krootox Riders,Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2001.0,50mm,40.0,44.16,44.16,90
+Hammerhead Gunship,Tau_Empire,Plastic,Warhammer 40K: 3rd Edition,2001.0,60mm flying base,145.0,73.6,73.6,100
+Tactical Drones,Tau_Empire,Finecast,Warhammer 40K: 4th Edition,2006.0,32mm flying base,70.0,18.4,18.4,86
+Ethereal,Tau_Empire,Finecast,Warhammer 40K: 4th Edition,2006.0,40mm,50.0,32.2,32.2,90
+Tx42 Piranha,Tau_Empire,Plastic,Warhammer 40K: 4th Edition,2006.0,60mm flying base,60.0,34.04,34.04,96
+Vespid Stingwings,Tau_Empire,Finecast,Warhammer 40K: 4th Edition,2006.0,28.5mm,65.0,55.2,55.2,100
+AUN'VA,Tau_Empire,Finecast,Warhammer 40K: 4th Edition,2006.0,40mm,65.0,55.2,55.2,90
+Sky Ray Gunship,Tau_Empire,Plastic,Warhammer 40K: 4th Edition,2006.0,60mm flying base,140.0,73.6,73.6,95
+Riptide Battlesuit,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,190.0,112.24,112.24,95
+Sun Shark Bomber,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,160.0,81.88,81.88,100
+Razorshark Strike Fighter,Drukhari,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,170.0,81.88,81.88,95
+Hammerhead Gunship,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm flying base,145.0,73.6,73.6,90
+Sky Ray Gunship,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm flying base,140.0,73.6,73.6,100
+Pathfinder Team,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,25mm,90.0,35.88,35.88,100
+Broadside Battlesuits,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm,80.0,59.8,59.8,87
+Cadre Fireblade,Tau_Empire,Plastic,Warhammer 40K: 6th Edition,2013.0,25mm,50.0,32.2,32.2,100
+Darkstrider,Tau_Empire,Finecast,Warhammer 40K: 6th Edition,2013.0,32mm,60.0,35.88,35.88,100
+Longstrike,Tau_Empire,Finecast,Warhammer 40K: 6th Edition,2013.0,60mm flying base,140.0,55.2,55.2,90
+Commander Farsight,Tau_Empire,Finecast,Warhammer 40K: 6th Edition,2013.0,60mm,85.0,63.48,63.48,100
+Ghostkeel Battlesuit,Tau_Empire,Plastic,Warhammer 40K: 7th Edition,2015.0,105 x 70mm,160.0,88.32,88.32,95
+Strike Team,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,75.0,56.12,56.12,90
+Breacher Team,Adepta_Sororitas,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,100.0,56.12,56.12,90
+Crisis Battlesuits,Tau_Empire,Plastic,Warhammer 40K: 7th Edition,2015.0,50mm,200.0,69.92,69.92,95
+Commander Dante,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2015.0,50mm,120.0,44.16,44.16,86
+Commander Dante,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2015.0,50mm,120.0,44.16,44.16,86
+Tactical Drones,Tau_Empire,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm flying base,70.0,18.4,18.4,100
+Stormsurge,Astra_Militarum,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,400.0,55.2,55.2,90
+Ethereal,Tau_Empire,Finecast,Warhammer 40K: 3rd Edition,2001.0,40mm,50.0,32.2,32.2,100
+Commander Shadowsun,Tau_Empire,Plastic,Warhammer 40K: 8th Edition,2020.0,50mm,100.0,55.2,55.2,100
+Darkstrider,Tau_Empire,Finecast,Warhammer 40K: 6th Edition,2013.0,32mm,60.0,35.88,35.88,100
+Kill Tank,Orks,Plastic,Warhammer 40K: 9th Edition,2022.0,Use model,295.0,55.2,55.2,86
+Kroot Hounds,Tau_Empire,Plastic,Warhammer 40K: 10th Edition,2023.0,28.5mm,40.0,40.02,40.02,86
+Kroot Carnivores,Tau_Empire,Plastic,Warhammer 40K: 10th Edition,2023.0,28.5mm,65.0,55.2,55.2,100
+Krootox Riders,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,40.0,44.16,44.16,96
+Kroot War Shaper,Tau_Empire,Plastic,Warhammer 40K: 10th Edition,2023.0,32mm,50.0,35.88,35.88,90
+Kroot Flesh Shaper,Tau_Empire,Plastic,Warhammer 40K: 10th Edition,2023.0,32mm,45.0,32.2,32.2,90
+Krootox Rampagers,Chaos_Knights,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,85.0,59.8,59.8,94
+Stalker,Space_Marines,Plastic,Warhammer 40K: 10th Edition,,Use model,140.0,54.28,54.28,90
+Custodian Guard With Adrasite And Pyrithite Spears,Adeptus_Custodes,Finecast,Warhammer 40K: Rogue Trader,1993.0,40mm,250.0,56.12,56.12,86
+Scout Bike Squad,Space_Marines,Plastic,Warhammer 40K: 2nd Edition,1996.0,75 x 25mm,75.0,54.28,54.28,90
+ATTACK BIKE,Space_Marines,Plastic,Warhammer 40K: 2nd Edition,1997.0,Use model,80.0,32.2,32.2,100
+Land Speeder,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,1998.0,60mm flying base,80.0,34.04,34.04,100
+Land Raider,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2000.0,Use model,220.0,88.32,88.32,100
+Dreadnought,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2001.0,60mm,135.0,54.28,54.28,100
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Baal Predator,Blood_Angels,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,125.0,73.6,73.6,90
+Scout Bike Squad,Space_Marines,Plastic,Warhammer 40K: 2nd Edition,1996.0,75 x 25mm,75.0,54.28,54.28,90
+Razorback,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,Use model,95.0,42.32,42.32,100
+Servitors,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2003.0,25mm,,55.2,55.2,85
+Skull Cannon,Chaos_Daemons,Plastic,Warhammer 40K: 3rd Edition,2003.0,120 x 92mm,95.0,44.16,44.16,86
+ATTACK BIKE,Space_Marines,Plastic,Warhammer 40K: 2nd Edition,1997.0,Use model,80.0,32.2,32.2,100
+Rubric Marine,Thousand_Sons,Plastic,Warhammer 40K: 4th Edition,2004.0,32mm,105.0,59.8,59.8,86
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2004.0,32mm,165.0,44.16,44.16,100
+Whirlwind,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2004.0,Use model,190.0,68.08,68.08,100
+Techmarine,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,55.0,40.02,40.02,90
+Techmarine,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,55.0,40.02,40.02,100
+Terminator Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2005.0,40mm,170.0,50.6,50.6,100
+Assault Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2005.0,32mm,95.0,46.0,46.0,86
+Chaplain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,60.0,38.64,38.64,90
+Chaplain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,60.0,38.64,38.64,90
+Wolf Scouts,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2005.0,28.5mm,,54.28,54.28,90
+Chaplain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,60.0,38.64,38.64,90
+Chaplain With Jump Pack,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2006.0,32mm,75.0,33.12,33.12,100
+Vanguard Veteran Squad With Jump Packs,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2006.0,32mm,95.0,54.28,54.28,86
+Librarian,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2007.0,40mm,65.0,31.28,31.28,90
+Tycho The Lost,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2007.0,25mm,90.0,54.28,54.28,86
+Vindicator,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,Use model,185.0,56.12,56.12,100
+Tycho The Lost,Space_Marines,Finecast,Warhammer 40K: 5th Edition,2008.0,25mm,90.0,54.28,54.28,86
+Drop Pod,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,Use model,70.0,41.4,41.4,100
+Land Raider Crusader,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,Use model,220.0,105.8,105.8,100
+Land Raider Redeemer,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,Use model,270.0,105.8,105.8,100
+Thunderfire Cannon,Space_Marines,Finecast,Warhammer 40K: 5th Edition,2008.0,Use model,90.0,54.28,54.28,100
+Land Speeder,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,60mm flying base,80.0,34.04,34.04,96
+Scout Bike Squad,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,75 x 25mm,75.0,54.28,54.28,90
+Land Speeder Storm,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,60mm flying base,70.0,34.04,34.04,100
+Ironclad Dreadnought,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,60mm,150.0,54.28,54.28,100
+Venerable Dreadnought,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm,165.0,55.2,55.2,100
+Stormraven Gunship,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2011.0,120 x 92mm flying base,280.0,98.44,98.44,100
+Stormtalon Gunship,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,165.0,63.48,63.48,100
+Captain,Blood_Angels,Finecast,Warhammer 40K: 6th Edition,2013.0,40mm,80.0,40.02,40.02,90
+Tactical Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,140.0,46.0,46.0,100
+Centurion Assault Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,50mm,150.0,72.68,72.68,100
+Centurion Devastator Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,50mm,165.0,73.6,73.6,100
+Sternguard Veteran Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,100.0,54.28,54.28,100
+Vanguard Veteran Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,120.0,45.08,45.08,100
+Stalker,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,Use model,140.0,54.28,54.28,100
+Hunter,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,Use model,100.0,54.28,54.28,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,80.0,40.02,40.02,90
+Librarian,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,65.0,31.28,31.28,100
+Chaplain,Blood_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,60.0,38.64,38.64,90
+Assault Squad,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,95.0,46.0,46.0,100
+Devastator Squad,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,120.0,50.6,50.6,100
+Librarian In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,75.0,38.64,38.64,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,95.0,46.92,46.92,86
+Venerable Contemptor Dreadnought,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm,170.0,59.8,59.8,95
+Rubric Marine,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,105.0,59.8,59.8,86
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2004.0,32mm,165.0,44.16,44.16,100
+Death Company Dreadnought,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2016.0,90mm,160.0,40.02,40.02,86
+Rubric Marine,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,105.0,59.8,59.8,86
+Stormhawk Interceptor,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2016.0,120 x 92mm flying base,155.0,56.12,56.12,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,95.0,46.92,46.92,86
+Captain In Gravis Armour,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,80.0,40.02,40.02,95
+Lieutenant,Necrons,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,65.0,48.76,48.76,90
+Lieutenant,Necrons,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,65.0,48.76,48.76,90
+Ancient,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,50.0,40.02,40.02,90
+Intercessor Squad,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,80.0,59.8,59.8,97
+Hellblaster Squad,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,110.0,59.8,59.8,100
+Inceptor Squad,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,120.0,55.2,55.2,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,80.0,40.02,40.02,90
+Librarian,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,65.0,31.28,31.28,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Redemptor Dreadnought,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,90mm,195.0,59.8,59.8,100
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Primaris Company Champion,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,55.0,55.2,55.2,86
+Chaplain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,60.0,38.64,38.64,90
+Apothecary,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,50.0,38.64,38.64,90
+Repulsor,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,100mm,180.0,54.28,54.28,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Dreadnought,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,60mm,135.0,54.28,54.28,90
+Lieutenant,Necrons,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,65.0,48.76,48.76,90
+Repulsor Executioner,Astra_Militarum,Plastic,Warhammer 40K: 8th Edition,2019.0,100mm,220.0,105.8,105.8,95
+Invictor Tactical Warsuit,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,90mm,125.0,67.62,67.62,95
+Captain In Phobos Armour,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,70.0,34.04,34.04,95
+Librarian In Phobos Armour,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,70.0,35.88,35.88,95
+Impulsor,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,100mm,80.0,54.28,54.28,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Captain,Blood_Angels,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,80.0,40.02,40.02,90
+Lieutenant,Necrons,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,65.0,48.76,48.76,90
+Chaplain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,60.0,38.64,38.64,90
+Judiciar,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,70.0,54.28,54.28,100
+Bladeguard Ancient,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,45.0,54.28,54.28,100
+Bladeguard Veteran Squad,Deathwatch,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,80.0,55.2,55.2,88
+Leman Russ Eradicator,Astra_Militarum,Plastic,Warhammer 40K: 9th Edition,2020.0,Use model,170.0,55.2,55.2,86
+Assault Intercessor Squad,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,75.0,59.8,59.8,100
+OUTRIDER,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,90 x 52mm,80.0,59.8,59.8,94
+Invader Atv,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,Use model,60.0,54.28,54.28,100
+Firestrike Servo-turrets,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,80mm,75.0,35.88,35.88,98
+Chaplain On Bike,Orks,Plastic,Warhammer 40K: 9th Edition,2020.0,90 x 52mm,75.0,55.2,55.2,90
+Hammerfall Bunker,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,Use model,175.0,56.12,56.12,100
+Techmarine,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,55.0,40.02,40.02,90
+Assault Intercessor Squad,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,75.0,59.8,59.8,100
+Gladiator Valiant,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,100mm,150.0,88.32,88.32,100
+Gladiator Reaper,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,100mm,160.0,88.32,88.32,100
+Gladiator Lancer,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2020.0,100mm,160.0,88.32,88.32,100
+Storm Speeder Hailstrike,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,90mm,115.0,75.44,75.44,100
+Storm Speeder Hammerstrike,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,90mm,125.0,75.44,75.44,100
+Storm Speeder Thunderstrike,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,90mm,150.0,75.44,75.44,100
+Bladeguard Veteran Squad,Deathwatch,Plastic,Warhammer 40K: 9th Edition,2020.0,40mm,80.0,55.2,55.2,88
+Captain,Blood_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,80.0,40.02,40.02,90
+Captain,Blood_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,80.0,40.02,40.02,90
+Heavy Intercessor Squad,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,100.0,59.8,59.8,100
+Captain In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,50mm,95.0,43.24,43.24,100
+Librarian In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,75.0,38.64,38.64,100
+Apothecary Biologis,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,70.0,54.28,54.28,100
+Lieutenant In Phobos Armour,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,55.0,33.12,33.12,100
+Sternguard Veteran Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,100.0,54.28,54.28,100
+Terminator Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2005.0,40mm,170.0,50.6,50.6,100
+Infernus Squad,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,32mm,90.0,54.28,54.28,100
+Ballistus Dreadnought,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,90mm,150.0,67.62,67.62,100
+Desolation Squad,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,32mm,200.0,55.2,55.2,100
+Captain With Jump Pack,Blood_Angels,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,75.0,40.02,40.02,100
+Vanguard Veteran Squad With Jump Packs,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,32mm,95.0,54.28,54.28,86
+Company Heroes,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,105.0,63.48,63.48,100
+Terminator Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2005.0,40mm,170.0,50.6,50.6,100
+Chaplain In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 10th Edition,2023.0,40mm,75.0,43.24,43.24,100
+Nobz On Warbikes,Orks,Finecast,Warhammer 40K: 3rd Edition,2002.0,75 x 42mm,125.0,55.2,55.2,86
+Assault Squad,Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2002.0,32mm,95.0,46.0,46.0,86
+Emperor's Champion,Supplement_Marines,Finecast,Warhammer 40K: 3rd Edition,2003.0,40mm,90.0,40.02,40.02,90
+Captain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,80.0,40.02,40.02,90
+Tyrannic War Veterans,Deathwatch,Finecast,Warhammer 40K: 4th Edition,2005.0,25mm,85.0,48.76,48.76,90
+High Marshal Helbrecht,Supplement_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,60mm,120.0,55.2,55.2,90
+Chaplain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,60.0,38.64,38.64,90
+Sword Brethren Squad,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,105.0,54.28,54.28,90
+Pedro Kantor,Space_Marines,Finecast,Warhammer 40K: 5th Edition,2008.0,25mm,90.0,54.28,54.28,90
+Captain,Blood_Angels,Finecast,Warhammer 40K: 5th Edition,2008.0,40mm,80.0,40.02,40.02,90
+Vulkan He'stan,Space_Marines,Finecast,Warhammer 40K: 5th Edition,2009.0,40mm,100.0,43.24,43.24,90
+Captain With Jump Pack,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,75.0,40.02,40.02,86
+Roboute Guilliman,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2017.0,60mm,340.0,56.12,56.12,86
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+MARNEUS CALGAR,Supplement_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,50mm,,55.2,55.2,90
+Kor'sarro Khan,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,70.0,43.24,43.24,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Kayvaan Shrike,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,100.0,37.72,37.72,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Iron Priest,Space_Wolves,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,60.0,30.36,30.36,86
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Tor Garadon,Craftworlds,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,90.0,43.24,43.24,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Adrax Agatone,Harlequins,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,85.0,37.72,37.72,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,95.0,54.28,54.28,86
+Captain,Blood_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,80.0,40.02,40.02,90
+Marshal,Dark_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,80.0,59.8,59.8,90
+Assault Squad,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,95.0,46.0,46.0,86
+Emperor's Champion,Supplement_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,90.0,40.02,40.02,100
+High Marshal Helbrecht,Supplement_Marines,Plastic,Warhammer 40K: 9th Edition,2021.0,60mm,120.0,55.2,55.2,100
+Chaplain,Blood_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,60.0,38.64,38.64,90
+Castellan,Grey_Knights,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,60.0,56.12,56.12,90
+Ravenwing Black Knights,Dark_Angels,Plastic,Warhammer 40K: 9th Edition,2021.0,75 x 42mm,90.0,59.8,59.8,86
+DARK REAPER,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2024.0,28.5mm,90.0,57.5,57.5,86
+Brother Corbulo,Blood_Angels,Finecast,Warhammer 40K: 2nd Edition,1996.0,25mm,75.0,40.02,40.02,100
+Commander Dante,Blood_Angels,Finecast,Warhammer 40K: 2nd Edition,1996.0,50mm,120.0,44.16,44.16,100
+Captain Tycho,Blood_Angels,Finecast,Warhammer 40K: 2nd Edition,1996.0,25mm,75.0,40.02,40.02,100
+Baal Predator,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,125.0,73.6,73.6,100
+Death Company Dreadnought,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2010.0,90mm,160.0,40.02,40.02,90
+Sanguinary Guard,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2010.0,40mm,125.0,45.08,45.08,100
+The Sanguinor,Blood_Angels,Finecast,Warhammer 40K: 5th Edition,2010.0,40mm,140.0,43.24,43.24,100
+Astorath,Blood_Angels,Finecast,Warhammer 40K: 5th Edition,2010.0,40mm,95.0,40.02,40.02,90
+Gabriel Seth,Blood_Angels,Finecast,Warhammer 40K: 5th Edition,2010.0,25mm,90.0,40.02,40.02,100
+Lemartes,Blood_Angels,Finecast,Warhammer 40K: 5th Edition,2010.0,40mm,100.0,43.24,43.24,100
+Furioso Dreadnought,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm,150.0,55.2,55.2,100
+Death Company Dreadnought,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2011.0,90mm,160.0,40.02,40.02,100
+Librarian Dreadnought,Blood_Angels,Plastic,Warhammer 40K: 5th Edition,2011.0,60mm,170.0,40.02,40.02,100
+Tactical Squad,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,140.0,46.0,46.0,90
+Sanguinary Priest,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,75.0,31.28,31.28,100
+Assault Squad,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,95.0,46.0,46.0,90
+Librarian In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2014.0,40mm,75.0,38.64,38.64,95
+Blood Claws,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,135.0,59.8,59.8,86
+Chaplain With Jump Pack,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,75.0,33.12,33.12,90
+Captain In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,50mm,95.0,43.24,43.24,95
+Lieutenant,Necrons,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,65.0,48.76,48.76,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Chief Librarian Mephiston,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,120.0,40.02,40.02,90
+Azrael,Dark_Angels,Finecast,Warhammer 40K: 2nd Edition,1996.0,50mm,115.0,59.8,59.8,100
+Ezekiel,Dark_Angels,Metal,Warhammer 40K: 2nd Edition,1996.0,25mm,75.0,59.8,59.8,100
+Ancient,Adepta_Sororitas,Finecast,Warhammer 40K: 2nd Edition,1996.0,40mm,50.0,40.02,40.02,90
+Azrael,Dark_Angels,Finecast,Warhammer 40K: 4th Edition,2007.0,50mm,115.0,59.8,59.8,90
+Ezekiel,Dark_Angels,Metal,Warhammer 40K: 4th Edition,2007.0,25mm,75.0,59.8,59.8,90
+Sammael,Dark_Angels,Finecast,Warhammer 40K: 4th Edition,2007.0,60mm flying base,115.0,55.2,55.2,100
+Grand Master,Grey_Knights,Finecast,Warhammer 40K: 4th Edition,2007.0,40mm,95.0,56.12,56.12,86
+Assault Squad,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,32mm,95.0,46.0,46.0,86
+ATTACK BIKE,Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,Use model,80.0,32.2,32.2,86
+Ancient,Adepta_Sororitas,Finecast,Warhammer 40K: 6th Edition,2013.0,40mm,50.0,40.02,40.02,90
+Ravenwing Dark Talon,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,210.0,81.88,81.88,100
+Nephilim Jetfighter,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm flying base,195.0,81.88,81.88,100
+Deathwing Command Squad,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,200.0,56.12,56.12,100
+Deathwing Knights,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,250.0,64.4,64.4,100
+Deathwing Terminator Squad,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,180.0,59.8,59.8,100
+Land Speeder Vengeance,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm flying base,120.0,75.44,75.44,100
+Ravenwing Darkshroud,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm flying base,100.0,75.44,75.44,100
+Ravenwing Command Squad,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,75 x 42mm,120.0,50.6,50.6,100
+Ravenwing Black Knights,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,75 x 42mm,90.0,59.8,59.8,100
+Belial,Dark_Angels,Finecast,Warhammer 40K: 6th Edition,2013.0,50mm,85.0,59.8,59.8,100
+Asmodai,Dark_Angels,Finecast,Warhammer 40K: 6th Edition,2013.0,50mm,70.0,59.8,59.8,100
+DARK REAPER,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,28.5mm,90.0,57.5,57.5,86
+Chaplain,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,60.0,38.64,38.64,90
+Lieutenant,Necrons,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,65.0,48.76,48.76,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,95.0,54.28,54.28,86
+Lazarus,Genestealer_Cult,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,70.0,44.16,44.16,90
+Lion El'jonson,Dark_Angels,Plastic,Warhammer 40K: 9th Edition,2023.0,60mm,315.0,67.62,67.62,100
+Azrael,Dark_Angels,Plastic,Warhammer 40K: 10th Edition,2024.0,50mm,115.0,59.8,59.8,90
+Deathwing Knights,Dark_Angels,Plastic,Warhammer 40K: 6th Edition,2013.0,40mm,250.0,64.4,64.4,100
+Inner Circle Companions,Dark_Angels,Plastic,Warhammer 40K: 10th Edition,2024.0,40mm,90.0,55.2,55.2,100
+Belial,Dark_Angels,Plastic,Warhammer 40K: 10th Edition,2024.0,50mm,85.0,59.8,59.8,90
+Asmodai,Dark_Angels,Plastic,Warhammer 40K: 10th Edition,2024.0,50mm,70.0,59.8,59.8,90
+Deathwing Terminator Squad,Dark_Angels,Plastic,Warhammer 40K: 10th Edition,2024.0,40mm,180.0,59.8,59.8,89
+DARK REAPER,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2024.0,28.5mm,90.0,57.5,57.5,86
+Njal Stormcaller,Space_Wolves,Finecast,Warhammer 40K: Rogue Trader,1993.0,40mm,85.0,43.24,43.24,100
+Sanguinary Priest,Blood_Angels,Finecast,Warhammer 40K: Rogue Trader,1993.0,40mm,75.0,31.28,31.28,86
+Sanguinary Priest,Blood_Angels,Finecast,Warhammer 40K: 3rd Edition,2003.0,40mm,75.0,31.28,31.28,86
+Blood Claws,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,135.0,59.8,59.8,100
+Grey Hunters,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,180.0,45.08,45.08,100
+Wolf Guard,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,,54.74,54.74,100
+Wolf Guard Terminators,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2009.0,40mm,170.0,50.6,50.6,100
+Canis Wolfborn,Space_Wolves,Finecast,Warhammer 40K: 5th Edition,2009.0,60mm,,54.74,54.74,100
+Njal Stormcaller,Space_Wolves,Finecast,Warhammer 40K: 5th Edition,2009.0,40mm,85.0,43.24,43.24,90
+Lukas The Trickster,Space_Wolves,Finecast,Warhammer 40K: 5th Edition,2009.0,32mm,,54.74,54.74,100
+Arjac Rockfist,Space_Wolves,Finecast,Warhammer 40K: 5th Edition,2012.0,50mm,105.0,43.24,43.24,100
+Wolf Lord On Thunderwolf,Necrons,Finecast,Warhammer 40K: 5th Edition,2012.0,60mm,,48.76,48.76,100
+Cyberwolf,Space_Wolves,Finecast,Warhammer 40K: 5th Edition,2012.0,40mm,,54.74,54.74,100
+Hunter,Space_Marines,Finecast,Warhammer 40K: 5th Edition,2012.0,Use model,100.0,54.28,54.28,90
+Thunderwolf Cavalry,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2012.0,60mm,115.0,53.36,53.36,100
+Fenrisian Wolves,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2012.0,40mm,40.0,33.12,33.12,100
+Lord,Necrons,Plastic,Warhammer 40K: 7th Edition,2014.0,32mm,65.0,48.76,48.76,90
+Stormfang Gunship,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2014.0,120 x 92mm flying base,,75.44,75.44,100
+Stormwolf,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2014.0,120 x 92mm flying base,,54.74,54.74,100
+Dreadnought,Space_Marines,Plastic,Warhammer 40K: 7th Edition,2014.0,60mm,135.0,54.28,54.28,90
+Bjorn The Fell-handed,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2014.0,60mm,170.0,59.8,59.8,100
+Murderfang,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2014.0,60mm,160.0,59.8,59.8,100
+Logan Grimnar On Stormrider,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2014.0,120 x 92mm,,54.74,54.74,100
+Fenrisian Wolves,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,40.0,33.12,33.12,86
+Wulfen,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2016.0,40mm,85.0,56.12,56.12,100
+Ulrik The Slayer,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,70.0,30.36,30.36,100
+Iron Priest,Space_Wolves,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,60.0,30.36,30.36,100
+Wolf Guard Battle Leader In Terminator Armour,Space_Wolves,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,,54.74,54.74,90
+Rhino Primaris,Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,Use model,95.0,54.28,54.28,86
+Ragnar Blackmane,Space_Wolves,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,100.0,37.72,37.72,100
+Hounds Of Morkai,Space_Wolves,Plastic,Warhammer 40K: 9th Edition,2020.0,32mm,,42.32,42.32,100
+Watch Master,Deathwatch,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,95.0,32.2,32.2,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 7th Edition,2016.0,40mm,80.0,40.02,40.02,90
+Spectrus Kill Team,Deathwatch,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,180.0,48.76,48.76,90
+Corvus Blackstar,Deathwatch,Plastic,Warhammer 40K: 7th Edition,2016.0,120 x 92mm flying base,180.0,74.52,74.52,100
+Watch Captain Artemis,Deathwatch,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,65.0,36.8,36.8,100
+Kill Tank,Orks,Plastic,Warhammer 40K: 7th Edition,2016.0,Use model,295.0,55.2,55.2,86
+Custodian Guard With Adrasite And Pyrithite Spears,Adeptus_Custodes,Finecast,Warhammer 40K: Rogue Trader,1993.0,40mm,250.0,56.12,56.12,86
+Land Raider,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2000.0,Use model,220.0,88.32,88.32,100
+Dreadnought,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2001.0,60mm,135.0,54.28,54.28,100
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Razorback,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,Use model,95.0,42.32,42.32,100
+Servitors,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2003.0,25mm,,55.2,55.2,85
+Skull Cannon,Chaos_Daemons,Plastic,Warhammer 40K: 3rd Edition,2003.0,120 x 92mm,95.0,44.16,44.16,86
+Brother-captain Stern,Grey_Knights,Finecast,Warhammer 40K: 3rd Edition,2003.0,40mm,,56.12,56.12,100
+Techmarine,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,55.0,40.02,40.02,90
+Techmarine,Space_Marines,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,55.0,40.02,40.02,100
+Chaplain,Blood_Angels,Finecast,Warhammer 40K: 4th Edition,2005.0,40mm,60.0,38.64,38.64,90
+Land Raider Crusader,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,Use model,220.0,105.8,105.8,100
+Land Raider Redeemer,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2008.0,Use model,270.0,105.8,105.8,100
+Venerable Dreadnought,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2010.0,60mm,165.0,55.2,55.2,100
+Stormraven Gunship,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2011.0,120 x 92mm flying base,280.0,98.44,98.44,100
+Wolf Guard Terminators,Space_Wolves,Plastic,Warhammer 40K: 5th Edition,2011.0,40mm,170.0,50.6,50.6,90
+Nemesis Dreadknight,Grey_Knights,Plastic,Warhammer 40K: 5th Edition,2011.0,120 x 92mm,210.0,56.12,56.12,100
+Strike Squad,Grey_Knights,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,120.0,56.12,56.12,100
+Purgation Squad,Grey_Knights,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,125.0,63.48,63.48,100
+Interceptor Squad,Grey_Knights,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,130.0,63.48,63.48,100
+Purifier Squad,Grey_Knights,Plastic,Warhammer 40K: 5th Edition,2011.0,32mm,125.0,63.48,63.48,100
+Kaldor Draigo,Grey_Knights,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,,56.12,56.12,95
+Castellan Crowe,Grey_Knights,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,90.0,44.16,44.16,100
+Stormtalon Gunship,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,165.0,63.48,63.48,100
+Librarian In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,75.0,38.64,38.64,100
+Grand Master Voldus,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,110.0,34.04,34.04,100
+Castellan Crowe,Grey_Knights,Finecast,Warhammer 40K: 5th Edition,2011.0,40mm,90.0,44.16,44.16,100
+Basilisk,Astra_Militarum,Plastic,Warhammer 40K: 2nd Edition,1996.0,Use model,140.0,63.48,63.48,100
+Catachan Jungle Fighters,Astra_Militarum,Plastic,Warhammer 40K: 3rd Edition,1999.0,25mm,65.0,35.88,35.88,100
+Catachan Jungle Fighters,Astra_Militarum,Metal,Warhammer 40K: 3rd Edition,2000.0,25mm,65.0,35.88,35.88,86
+Commissar,Astra_Militarum,Finecast,Warhammer 40K: 3rd Edition,2000.0,28.5mm,30.0,35.88,35.88,90
+Assault Squad With Jump Packs,Space_Marines,Metal,Warhammer 40K: 3rd Edition,2000.0,32mm,115.0,54.28,54.28,86
+Cadian Shock Troops,Astra_Militarum,Plastic,Warhammer 40K: 3rd Edition,2003.0,25mm,65.0,48.76,48.76,100
+Lord,Necrons,Finecast,Warhammer 40K: 3rd Edition,2003.0,32mm,65.0,48.76,48.76,90
+HEAVY WEAPONS TEAM,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,60mm,110.0,48.76,48.76,95
+CADIAN VETERAN GUARDSMAN,Deathwatch,Metal,Warhammer 40K: 3rd Edition,2003.0,28.5mm,65.0,48.76,48.76,86
+Basilisk,Astra_Militarum,Plastic,Warhammer 40K: 2nd Edition,1996.0,Use model,140.0,63.48,63.48,100
+Catachan Heavy Weapons Squad,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,60mm,65.0,44.16,44.16,98
+Crusaders,Astra_Militarum,Finecast,Warhammer 40K: 3rd Edition,2004.0,25mm,40.0,55.2,55.2,100
+Baneblade,Astra_Militarum,Plastic,Warhammer 40K: 4th Edition,2007.0,Use model,450.0,129.72,129.72,100
+Hellhammer,Astra_Militarum,Plastic,Warhammer 40K: 4th Edition,2007.0,Use model,420.0,181.24,181.24,100
+Commissar,Astra_Militarum,Metal,Warhammer 40K: 4th Edition,2007.0,28.5mm,30.0,35.88,35.88,90
+Shadowsword,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,410.0,181.24,181.24,100
+Stormlord,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,430.0,181.24,181.24,100
+Banehammer,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,420.0,181.24,181.24,100
+Banesword,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,450.0,181.24,181.24,100
+Doomhammer,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,415.0,181.24,181.24,100
+Stormsword,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,465.0,181.24,181.24,100
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,165.0,44.16,44.16,90
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,165.0,44.16,44.16,90
+Valkyrie,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,120 x 92mm flying base,190.0,74.52,74.52,100
+Ratlings,Astra_Militarum,Metal,Warhammer 40K: 5th Edition,2009.0,25mm,60.0,55.2,55.2,100
+Primaris Psyker,Astra_Militarum,Metal,Warhammer 40K: 5th Edition,2009.0,32mm,60.0,32.2,32.2,100
+Canoptek Tomb Sentinel,Necrons,Plastic,Warhammer 40K: 5th Edition,2009.0,120 x 92mm,115.0,48.76,48.76,90
+Scout Sentinels,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,80mm,55.0,44.16,44.16,97
+Hellhound,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,125.0,59.8,59.8,100
+Leman Russ Demolisher,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2009.0,Use model,190.0,55.2,55.2,100
+‘Iron Hand' Straken,Astra_Militarum,Metal,Warhammer 40K: 5th Edition,2009.0,25mm,55.0,55.2,55.2,95
+Sergeant Harker,Astra_Militarum,Metal,Warhammer 40K: 5th Edition,2009.0,25mm,40.0,55.2,55.2,100
+Chimera,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,85.0,45.08,45.08,100
+Basilisk,Astra_Militarum,Plastic,Warhammer 40K: 2nd Edition,1996.0,Use model,140.0,63.48,63.48,100
+Leman Russ Commander,Tau_Empire,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,235.0,55.2,55.2,90
+Manticore,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,165.0,63.48,63.48,100
+Deathstrike,Astra_Militarum,Plastic,Warhammer 40K: 5th Edition,2010.0,Use model,145.0,63.48,63.48,100
+Commander In Coldstar Battlesuit,Tau_Empire,Metal,Warhammer 40K: 5th Edition,2010.0,60mm,95.0,55.2,55.2,86
+Tempestus Scions,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,25mm,70.0,44.16,44.16,100
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 6th Edition,2014.0,32mm,165.0,44.16,44.16,90
+Taurox,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,Use model,75.0,55.2,55.2,100
+Hydra,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,Use model,95.0,56.12,56.12,100
+Wyvern,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,Use model,110.0,63.48,63.48,100
+Bullgryn Squad,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,40mm,100.0,55.2,55.2,85
+Renegade Plague Ogryns,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,40mm,95.0,55.2,55.2,90
+Nork Deddog,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,40mm,60.0,59.8,59.8,100
+Commissar,Astra_Militarum,Plastic,Warhammer 40K: 6th Edition,2014.0,28.5mm,30.0,35.88,35.88,90
+Sly Marbo,Astra_Militarum,Finecast,Warhammer 40K: 8th Edition,2017.0,32mm,55.0,30.82,30.82,100
+SERPENT'S SCALE PLATFORM,Craftworlds,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,100.0,52.900000000000006,52.900000000000006,86
+Cadian Shock Troops,Astra_Militarum,Plastic,Warhammer 40K: 9th Edition,2021.0,25mm,65.0,48.76,48.76,90
+Kill Tank,Orks,Plastic,Warhammer 40K: 9th Edition,2022.0,Use model,295.0,55.2,55.2,86
+Lord Solar Leontus,Astra_Militarum,Plastic,Warhammer 40K: 9th Edition,2023.0,80mm,130.0,59.8,59.8,100
+Heavy Weapons Squad,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2023.0,50mm,65.0,48.76,48.76,97
+Armoured Sentinels,Space_Marines,Plastic,Warhammer 40K: 9th Edition,2023.0,80mm,65.0,44.16,44.16,87
+Command Squad,Space_Marines,Plastic,Warhammer 40K: 5th Edition,2009.0,32mm,165.0,44.16,44.16,90
+Cadian Shock Troops,Astra_Militarum,Plastic,Warhammer 40K: 3rd Edition,2003.0,25mm,65.0,48.76,48.76,100
+MINKA LESK,Harlequins,Plastic,Warhammer 40K: 9th Edition,2023.0,,80.0,37.72,37.72,100
+Cadian Castellan,Astra_Militarum,Plastic,Warhammer 40K: 9th Edition,2023.0,28.5mm,55.0,35.88,35.88,100
+Rogal Dorn Battle Tank,Astra_Militarum,Plastic,Warhammer 40K: 9th Edition,2023.0,Use model,250.0,96.6,96.6,100
+Custodian Guard With Adrasite And Pyrithite Spears,Adeptus_Custodes,Metal,Warhammer 40K: 2nd Edition,1997.0,40mm,250.0,56.12,56.12,86
+Preacher,Adepta_Sororitas,Metal,Warhammer 40K: 2nd Edition,1997.0,32mm,50.0,56.12,56.12,90
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Death Cult Assassins,Adepta_Sororitas,Finecast,Warhammer 40K: 3rd Edition,2003.0,25mm,55.0,56.12,56.12,100
+Crusaders,Astra_Militarum,Finecast,Warhammer 40K: 3rd Edition,2004.0,25mm,40.0,55.2,55.2,100
+Canoness,Adepta_Sororitas,Finecast,Warhammer 40K: 7th Edition,2016.0,32mm,50.0,33.12,33.12,90
+CELESTINE,Adepta_Sororitas,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,150.0,56.12,56.12,90
+Battle Sisters Squad,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,105.0,56.12,56.12,100
+Custodian Guard With Adrasite And Pyrithite Spears,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,250.0,56.12,56.12,86
+Retributor Squad,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,105.0,51.52,51.52,100
+Triumph Of Saint Katherine,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,120 x 92mm,235.0,112.24,112.24,95
+Exorcist,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,Use model,210.0,74.52,74.52,100
+Penitent Engines,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,50mm,75.0,56.12,56.12,100
+Mortifiers,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,50mm,70.0,59.8,59.8,100
+Arco-flagellants,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,25mm,45.0,55.2,55.2,100
+Hospitaller,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,50mm,50.0,33.12,33.12,100
+Junith Eruita,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,50mm,80.0,42.32,42.32,100
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Immolator,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,Use model,115.0,69.92,69.92,100
+Canoness,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,50.0,33.12,33.12,100
+Dialogus,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,40.0,33.12,33.12,100
+Imagifier,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,65.0,28.52,28.52,100
+SISTERS REPENTIA,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,28.5mm,75.0,56.12,56.12,100
+Seraphim Squad,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,80.0,51.52,51.52,90
+Zephyrim Squad,Adepta_Sororitas,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,80.0,59.8,59.8,100
+EPHRAEL STERN,Thousand_Sons,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,85.0,55.2,55.2,90
+Palatine,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,50.0,35.88,35.88,100
+Morvenn Vahl,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,60mm,170.0,56.12,56.12,90
+Paragon Warsuits,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,50mm,210.0,75.44,75.44,100
+Dogmata,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,45.0,56.12,56.12,90
+Celestian Sacresants,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,70.0,59.8,59.8,100
+AESTRED THURGA,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,70.0,56.12,56.12,90
+Castigator,Adepta_Sororitas,Plastic,Warhammer 40K: 9th Edition,2021.0,Use model,160.0,84.64,84.64,100
+Kill Tank,Orks,Plastic,Warhammer 40K: 9th Edition,2022.0,Use model,295.0,55.2,55.2,86
+Vanguard Veteran Squad With Jump Packs,Space_Marines,Plastic,Warhammer 40K: 10th Edition,2024.0,32mm,95.0,54.28,54.28,86
+Land Raider,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2000.0,Use model,220.0,88.32,88.32,100
+Venerable Contemptor Dreadnought,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm,170.0,59.8,59.8,95
+Custodian Guard,Adeptus_Custodes,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,160.0,56.12,56.12,95
+Praetor,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2017.0,Use model,275.0,56.12,56.12,90
+Shield-captain,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,120.0,59.8,59.8,100
+Prosecutors,Astra_Militarum,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,40.0,55.2,55.2,90
+Vigilators,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,50.0,55.2,55.2,90
+Seekers,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2017.0,60 x 35.5mm,80.0,55.2,55.2,90
+Captain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,80.0,40.02,40.02,90
+Vertus Praetors,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2018.0,75 x 42mm,150.0,56.12,56.12,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,80.0,40.02,40.02,90
+Allarus Custodians,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,120.0,46.92,46.92,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,80.0,40.02,40.02,90
+Praetor,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,Use model,275.0,56.12,56.12,90
+Custodian Wardens,Adeptus_Custodes,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,210.0,56.12,56.12,100
+Captain,Blood_Angels,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,80.0,40.02,40.02,90
+Praetor,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,Use model,275.0,56.12,56.12,90
+Aleya,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,65.0,55.2,55.2,90
+Blade Champion,Adeptus_Custodes,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,120.0,40.02,40.02,100
+Shield-captain,Grey_Knights,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,120.0,59.8,59.8,100
+Custodian Guard With Adrasite And Pyrithite Spears,Adeptus_Custodes,Finecast,Warhammer 40K: Rogue Trader,1993.0,40mm,250.0,56.12,56.12,86
+Servitors,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2003.0,25mm,,55.2,55.2,85
+Skull Cannon,Chaos_Daemons,Plastic,Warhammer 40K: 3rd Edition,2003.0,120 x 92mm,95.0,44.16,44.16,86
+Tech-priest Enginseer,Adeptus_Mechanicus,Metal,Warhammer 40K: 3rd Edition,2003.0,32mm,55.0,59.8,59.8,93
+Knight Errant,Adeptus_Mechanicus,Plastic,Warhammer 40K: 6th Edition,2014.0,170 x 109mm,375.0,179.4,179.4,100
+Knight Paladin,Adeptus_Mechanicus,Plastic,Warhammer 40K: 6th Edition,2014.0,170 x 109mm,375.0,59.8,59.8,100
+Skitarii Vanguard,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,95.0,55.2,55.2,100
+Skitarii Rangers,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,25mm,85.0,55.2,55.2,100
+Sydonian Dragoons,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,105 x 70mm,65.0,59.8,59.8,97
+Ironstrider Ballistarii,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,105 x 70mm,75.0,59.8,59.8,94
+Sicarian Infiltrators,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,70.0,55.2,55.2,100
+Sicarian Ruststalkers,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,40mm,75.0,55.2,55.2,100
+Onager Dunecrawler,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,130mm,155.0,69.92,69.92,100
+Kastelan Robots,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm,180.0,69.92,69.92,90
+Kataphron Destroyers,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm,105.0,59.8,59.8,100
+Kataphron Breachers,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,60mm,160.0,59.8,59.8,95
+Tech-priest Dominus,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,50mm,65.0,40.02,40.02,100
+Fulgurite Electro-priests,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,70.0,55.2,55.2,100
+Corpuscarii Electro-priests,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,65.0,55.2,55.2,100
+Knight Warden,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,385.0,59.8,59.8,100
+Knight Gallant,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,375.0,179.4,179.4,100
+Knight Crusader,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,395.0,59.8,59.8,100
+Tech-priest Enginseer,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,55.0,59.8,59.8,100
+Belisarius Cawl,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2017.0,105 x 70mm,175.0,51.52,51.52,100
+Tech-priest Manipulus,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2019.0,50mm,60.0,40.02,40.02,100
+Skorpius Disintegrator,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,165.0,77.28,77.28,100
+Skorpius Dunerider,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2019.0,Use model,85.0,77.28,77.28,100
+Archaeopter Fusilave,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,170 x 109mm,160.0,112.24,112.24,100
+Archaeopter Stratoraptor,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,170 x 109mm,185.0,112.24,112.24,100
+Archaeopter Transvector,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,170 x 109mm,150.0,112.24,112.24,100
+Pteraxii Skystalkers,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,70.0,59.8,59.8,100
+Pteraxii Sterylizors,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,80.0,59.8,59.8,100
+Serberys Raiders,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,60 x 35.5mm,60.0,56.12,56.12,100
+Serberys Sulphurhounds,Adeptus_Mechanicus,Plastic,Warhammer 40K: 8th Edition,2020.0,60 x 35.5mm,55.0,59.8,59.8,100
+Skitarii Marshal,Adeptus_Mechanicus,Plastic,Warhammer 40K: 9th Edition,2021.0,32mm,35.0,32.2,32.2,100
+Sydonian Skatros,Adeptus_Mechanicus,Plastic,Warhammer 40K: 9th Edition,2023.0,40mm,50.0,38.64,38.64,90
+Vindicare Assassin,Imperial_Assassins,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,110.0,38.64,38.64,100
+Culexus Assassin,Imperial_Assassins,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,85.0,38.64,38.64,100
+Callidus Assassin,Imperial_Assassins,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,100.0,33.58,33.58,100
+Eversor Assassin,Imperial_Assassins,Plastic,Warhammer 40K: 7th Edition,2015.0,32mm,110.0,38.64,38.64,100
+Knight Errant,Adeptus_Mechanicus,Plastic,Warhammer 40K: 6th Edition,2014.0,170 x 109mm,375.0,179.4,179.4,100
+Knight Paladin,Adeptus_Mechanicus,Plastic,Warhammer 40K: 6th Edition,2014.0,170 x 109mm,375.0,59.8,59.8,100
+Knight Warden,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,385.0,59.8,59.8,100
+Knight Gallant,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,375.0,179.4,179.4,100
+Knight Crusader,Adeptus_Mechanicus,Plastic,Warhammer 40K: 7th Edition,2015.0,170 x 109mm,395.0,59.8,59.8,100
+Armiger Warglaive,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,100mm,140.0,92.0,92.0,90
+Knight Castellan,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,410.0,158.24,158.24,100
+Knight Valiant,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,410.0,158.24,158.24,100
+Armiger Helverin,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,100mm,140.0,92.0,92.0,100
+Armiger Warglaive,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,100mm,140.0,92.0,92.0,97
+Knight Preceptor,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,365.0,179.4,179.4,100
+Canis Rex,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,415.0,179.4,179.4,100
+Inquisitor Coteaz,Inquisition,Finecast,Warhammer 40K: 3rd Edition,2003.0,40mm,75.0,44.16,44.16,100
+Inquisitor,Inquisition,Metal?,Warhammer 40K: 3rd Edition,2003.0,32mm,55.0,44.16,44.16,90
+Crusaders,Astra_Militarum,Finecast,Warhammer 40K: 3rd Edition,2004.0,25mm,40.0,55.2,55.2,100
+Inquisitor Karamazov,Inquisition,Finecast,Warhammer 40K: 3rd Edition,2004.0,60mm,140.0,44.16,44.16,100
+Acolyte Hybrids With Hand Flamers,Genestealer_Cult,Metal?,Warhammer 40K: 3rd Edition,2004.0,32mm,70.0,44.16,44.16,86
+Inquisitor,Inquisition,Finecast,Warhammer 40K: 3rd Edition,2004.0,32mm,55.0,44.16,44.16,90
+Jokaero Weaponsmith,Inquisition,Finecast,Warhammer 40K: 4th Edition,2011.0,25mm,30.0,44.16,44.16,100
+Inquisitor Greyfax,Inquisition,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,65.0,32.2,32.2,100
+Inquisitor Eisenhorn,Inquisition,Finecast,Warhammer 40K: 8th Edition,2018.0,32mm,65.0,44.16,44.16,90
+Inquisitor,Inquisition,Plastic,Warhammer 40K: 8th Edition,2020.0,32mm,55.0,44.16,44.16,90
+Bloodletters,Chaos_Daemons,Plastic,Warhammer 40K: 4th Edition,2008.0,32mm,110.0,40.02,40.02,90
+Daemonettes,Chaos_Daemons,Plastic,Warhammer 40K: 4th Edition,2008.0,25mm,100.0,55.2,55.2,90
+Warboss On Warbike,Orks,Finecast,Warhammer 40K: 4th Edition,2008.0,100 x 40mm,75.0,55.2,55.2,86
+Epidemius,Chaos_Daemons,Finecast,Warhammer 40K: 4th Edition,2008.0,60mm,80.0,55.2,55.2,100
+Soul Grinder,Chaos_Daemons,Plastic,Warhammer 40K: 4th Edition,2008.0,160mm,180.0,75.44,75.44,100
+Heretic Astartes Daemon Prince,Chaos_Daemons,Finecast,Warhammer 40K: 5th Edition,2010.0,60mm,165.0,55.2,55.2,90
+Seekers,Chaos_Daemons,Plastic,Warhammer 40K: 5th Edition,2010.0,60 x 35.5mm,80.0,55.2,55.2,100
+Bloodcrushers,Chaos_Daemons,Plastic,Warhammer 40K: 5th Edition,2010.0,90 x 52mm,110.0,101.2,101.2,90
+Fluxmaster,Chaos_Daemons,Finecast,Warhammer 40K: 5th Edition,2011.0,60mm flying base,60.0,55.2,55.2,90
+Seeker Chariot,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm,65.0,32.2,32.2,90
+Seeker Chariot,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm,65.0,32.2,32.2,90
+Plaguebearers,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,110.0,40.02,40.02,90
+Screamers,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm flying base,80.0,35.88,35.88,90
+Flamers,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,65.0,35.88,35.88,90
+The Blue Scribes,Chaos_Daemons,Finecast,Warhammer 40K: 6th Edition,2012.0,60mm flying base,75.0,55.2,55.2,100
+Burning Chariot,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,115.0,55.2,55.2,90
+Burning Chariot,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,115.0,55.2,55.2,90
+Exalted Flamer,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2013.0,75 x 42mm,65.0,55.2,55.2,90
+Blood Claws,Space_Wolves,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,135.0,59.8,59.8,86
+Skull Cannon,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,95.0,44.16,44.16,90
+Herald Of Slaanesh On Steed Of Slaanesh,Chaos_Space_Marines,Finecast,Warhammer 40K: 6th Edition,2013.0,60 x 35.5mm,70.0,55.2,55.2,90
+Poxbringer,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2013.0,32mm,55.0,32.2,32.2,100
+Plague Drones,Death_Guard,Plastic,Warhammer 40K: 6th Edition,2013.0,60mm,110.0,59.8,59.8,90
+Bloodthirster,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2015.0,120 x 92mm,305.0,156.4,156.4,100
+Skarbrand,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2015.0,100mm,305.0,156.4,156.4,100
+C'tan Shard of the Nightbringer,Necrons,Plastic,Warhammer 40K: 7th Edition,2017.0,90mm,305.0,119.6,119.6,86
+Kairos Fateweaver,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2017.0,100mm,270.0,156.4,156.4,100
+Lord of Change,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2017.0,100mm,260.0,156.4,156.4,100
+The Changeling,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,90.0,35.88,35.88,100
+Horticulous Slimux,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2017.0,105 x 70mm,120.0,59.8,59.8,100
+Great Unclean One,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,130mm,250.0,156.4,156.4,100
+Rotigus,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,130mm,250.0,156.4,156.4,100
+Sloppity Bilepiper,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,32mm,55.0,35.88,35.88,100
+Spoilpox Scrivener,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,60.0,55.2,55.2,100
+Beasts Of Nurgle,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2018.0,60mm,65.0,55.2,55.2,97
+Karanak,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,75 x 42mm,75.0,40.02,40.02,90
+Flesh Hounds,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,60 x 35.5mm,75.0,55.2,55.2,100
+Infernal Enrapturess,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,60 x 35.5mm,60.0,44.16,44.16,100
+Fiends,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2018.0,75 x 42mm,95.0,55.2,55.2,100
+Skulltaker,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,85.0,40.02,40.02,100
+Bloodmaster,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,65.0,55.2,55.2,90
+Syll'esske,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,50mm,120.0,55.2,55.2,90
+Keeper Of Secrets,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,100mm,270.0,156.4,156.4,100
+Shalaxi Helbane,Drukhari,Plastic,Warhammer 40K: 8th Edition,2019.0,100mm,380.0,156.4,156.4,97
+Contorted Epitome,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,75 x 42mm,100.0,55.2,55.2,100
+The Masque Of Slaanesh,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,95.0,55.2,55.2,90
+Be'lakor,Chaos_Daemons,Plastic,Warhammer 40K: 9th Edition,2021.0,100mm,375.0,55.2,55.2,90
+War Walkers,Chaos_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,60mm,85.0,78.2,78.2,86
+War Walkers,Chaos_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,60mm,85.0,78.2,78.2,86
+Knight Tyrant,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,410.0,179.4,179.4,90
+Knight Tyrant,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,410.0,179.4,179.4,90
+Knight Despoiler,Imperial_Knights,Plastic,Warhammer 40K: 8th Edition,2018.0,170 x 109mm,375.0,156.4,156.4,90
+Knight Desecrator,Chaos_Knights,Plastic,Warhammer 40K: 8th Edition,2019.0,170 x 109mm,365.0,139.84,139.84,100
+Knight Rampager,Chaos_Knights,Plastic,Warhammer 40K: 8th Edition,2019.0,170 x 109mm,365.0,78.2,78.2,100
+Khorne Berzerkers,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,1999.0,32mm,180.0,45.08,45.08,100
+Chaos Bikers,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,1999.0,75 x 42mm,70.0,44.62,44.62,100
+Chaos Land Raider,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2000.0,Use model,220.0,88.32,88.32,100
+Noise Marines,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2002.0,40mm,145.0,63.48,63.48,90
+Noise Marines,Chaos_Space_Marines,Finecast,Warhammer 40K: 3rd Edition,2002.0,40mm,145.0,63.48,63.48,90
+Iron Priest,Space_Wolves,Metal,Warhammer 40K: 3rd Edition,2002.0,32mm,60.0,30.36,30.36,86
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Chaos Rhino,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,75.0,55.2,55.2,100
+Chaos Predator Destructor,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,Use model,140.0,73.6,73.6,90
+Lord,Necrons,Finecast?,Warhammer 40K: 3rd Edition,2003.0,32mm,65.0,48.76,48.76,90
+Lord,Necrons,Finecast,Warhammer 40K: 3rd Edition,2003.0,32mm,65.0,48.76,48.76,90
+Defiler,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,160mm,190.0,133.4,133.4,100
+Lucius the Eternal,Chaos_Space_Marines,Finecast,Warhammer 40K: 4th Edition,2006.0,50mm,150.0,44.16,44.16,100
+Possessed,Chaos_Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,40mm,120.0,35.88,35.88,100
+Lord,Necrons,Plastic,Warhammer 40K: 4th Edition,2007.0,32mm,65.0,48.76,48.76,90
+Sorcerer In Terminator Armour,Chaos_Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,40mm,80.0,32.2,32.2,95
+Lord,Necrons,Finecast,Warhammer 40K: 4th Edition,2007.0,32mm,65.0,48.76,48.76,90
+Huron Blackheart,Chaos_Space_Marines,Finecast,Warhammer 40K: 4th Edition,2007.0,50mm,80.0,55.2,55.2,100
+Chaos Spawn,Chaos_Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,50mm,70.0,55.2,55.2,100
+Bloodletters,Chaos_Daemons,Plastic,Warhammer 40K: 4th Edition,2008.0,32mm,110.0,40.02,40.02,90
+Heretic Astartes Daemon Prince,Chaos_Daemons,Finecast,Warhammer 40K: 5th Edition,2010.0,60mm,165.0,55.2,55.2,90
+Plaguebearers,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,110.0,40.02,40.02,90
+Chaos Lord In Terminator Armour,Necrons,Plastic,Warhammer 40K: 6th Edition,2012.0,40mm,95.0,32.2,32.2,86
+Maulerfiend,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm,130.0,81.88,81.88,100
+Forgefiend,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm,180.0,69.92,69.92,100
+Heldrake,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,120 x 92mm flying base,205.0,69.0,69.0,100
+Raptors,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,90.0,35.88,35.88,100
+Warp Talons,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,125.0,55.2,55.2,100
+Warpsmith,Chaos_Space_Marines,Finecast,Warhammer 40K: 6th Edition,2012.0,60 x 35.5mm,70.0,40.02,40.02,100
+Mutilators,Chaos_Space_Marines,Finecast,Warhammer 40K: 6th Edition,2012.0,40mm,185.0,63.48,63.48,100
+Khorne Lord Of Skulls,Necrons,Plastic,Warhammer 40K: 6th Edition,2013.0,Use model,450.0,181.24,181.24,100
+Helbrute,Chaos_Space_Marines,Plastic,Warhammer 40K: 6th Edition,2014.0,60mm,130.0,59.8,59.8,100
+Khârn The Betrayer,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2016.0,40mm,100.0,40.02,40.02,100
+Cypher,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2017.0,32mm,90.0,35.88,35.88,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,90
+Poxwalkers,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,25mm,65.0,33.12,33.12,90
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,87
+Icon Bearer,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,45.0,32.2,32.2,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,32mm,95.0,46.92,46.92,87
+Chaos Lord,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,90.0,28.52,28.52,100
+Haarken Worldclaimer,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,90.0,34.04,34.04,100
+Noise Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,145.0,63.48,63.48,96
+Abaddon The Despoiler,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,60mm,270.0,67.62,67.62,100
+Chaos Lord,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,90.0,28.52,28.52,86
+Havocs,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,125.0,51.52,51.52,90
+Chaos Terminators,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,175.0,59.8,59.8,100
+Lord,Necrons,Plastic,Warhammer 40K: 8th Edition,2019.0,32mm,65.0,48.76,48.76,90
+DARK APOSTLE,Tau_Empire,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,65.0,40.02,40.02,100
+Master Of Executions,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,80.0,28.52,28.52,100
+Sorcerer,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2019.0,40mm,60.0,28.52,28.52,90
+FABIUS BILE,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2020.0,40mm,85.0,44.16,44.16,100
+Chosen,Chaos_Space_Marines,Plastic,Warhammer 40K: 9th Edition,2022.0,32mm,125.0,59.8,59.8,100
+Warpsmith,Chaos_Space_Marines,Finecast,Warhammer 40K: 6th Edition,2012.0,60 x 35.5mm,70.0,40.02,40.02,100
+Chaos Lord,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,40mm,90.0,28.52,28.52,100
+Lord,Necrons,Plastic,Warhammer 40K: 10th Edition,2024.0,32mm,65.0,48.76,48.76,90
+Chaos Land Raider,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2000.0,Use model,220.0,88.32,88.32,100
+Rhino,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,80.0,41.4,41.4,100
+Chaos Rhino,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2002.0,Use model,75.0,55.2,55.2,100
+Chaos Predator Destructor,Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,Use model,140.0,73.6,73.6,90
+Defiler,Chaos_Space_Marines,Plastic,Warhammer 40K: 3rd Edition,2003.0,160mm,190.0,133.4,133.4,100
+Daemon Prince of Nurgle,Death_Guard,Finecast,Warhammer 40K: 4th Edition,2006.0,60mm,195.0,55.2,55.2,100
+Possessed,Chaos_Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,40mm,120.0,35.88,35.88,100
+Chaos Spawn,Chaos_Space_Marines,Plastic,Warhammer 40K: 4th Edition,2007.0,50mm,70.0,55.2,55.2,100
+Plaguebearers,Chaos_Daemons,Plastic,Warhammer 40K: 6th Edition,2012.0,32mm,110.0,40.02,40.02,90
+Chaos Lord In Terminator Armour,Necrons,Plastic,Warhammer 40K: 6th Edition,2012.0,40mm,95.0,32.2,32.2,86
+Lord of Contagion,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,120.0,55.2,55.2,100
+Noxious Blightbringer,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,50.0,55.2,55.2,100
+Malignant Plaguecaster,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,60.0,55.2,55.2,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,87
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,100
+Foetid Bloat-drone,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,60mm,100.0,55.2,55.2,100
+Poxwalkers,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,25mm,65.0,33.12,33.12,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,90
+Poxwalkers,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,25mm,65.0,33.12,33.12,90
+Mortarion,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,100mm,380.0,55.2,55.2,100
+Blightlord Terminators,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,115.0,56.12,56.12,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,100
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,95.0,46.92,46.92,87
+Icon Bearer,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2017.0,32mm,45.0,32.2,32.2,100
+Plagueburst Crawler,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,Use model,210.0,60.72,60.72,100
+Foetid Bloat-drone,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,60mm,100.0,55.2,55.2,100
+Foul Blightspawn,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,75.0,28.52,28.52,100
+Plague Surgeon,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,50.0,32.2,32.2,90
+Biologus Putrifier,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,60.0,28.52,28.52,100
+Tallyman,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2017.0,40mm,50.0,32.2,32.2,90
+Typhus,Death_Guard,Plastic,Warhammer 40K: 8th Edition,2017.0,50mm,100.0,55.2,55.2,90
+Wolf Lord On Thunderwolf,Necrons,Plastic,Warhammer 40K: 8th Edition,2017.0,60mm,,48.76,48.76,86
+Greater Blight Drone,Chaos_Daemons,Plastic,Warhammer 40K: 8th Edition,2017.0,60mm,150.0,55.2,55.2,86
+Plague Marines,Chaos_Space_Marines,Plastic,Warhammer 40K: 8th Edition,2018.0,32mm,95.0,46.92,46.92,87
+Lord of Virulence,Death_Guard,Plastic,Warhammer 40K: 9th Edition,2021.0,50mm,100.0,40.02,40.02,100
+Miasmic Malignifier,Death_Guard,Plastic,Warhammer 40K: 9th Edition,2021.0,Use model,105.0,56.12,56.12,100
+Mutalith Vortex Beast,Thousand_Sons,Plastic,Warhammer 40K: 6th Edition,2013.0,120 x 92mm,175.0,88.32,88.32,100
+Magnus The Red,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2016.0,100mm,435.0,139.84,139.84,100
+Rubric Marine,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,105.0,59.8,59.8,96
+Scarab Occult Terminator,Chaos_Space_Marines,Plastic,Warhammer 40K: 7th Edition,2016.0,40mm,180.0,59.8,59.8,98
+Exalted Sorcerer,Chaos_Daemons,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,80.0,59.8,59.8,97
+Tzaangors,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2016.0,32mm,70.0,55.2,55.2,100
+Ahriman,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2016.0,40mm,100.0,44.16,44.16,100
+Tzaangor Enlightened,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,55.0,55.2,55.2,100
+Tzaangor Enlightened with Fatecaster Greatbows,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,60.0,55.2,55.2,86
+Tzaangor Shaman,Thousand_Sons,Plastic,Warhammer 40K: 7th Edition,2017.0,40mm,60.0,35.88,35.88,100
+Infernal Master,Thousand_Sons,Plastic,Warhammer 40K: 9th Edition,2021.0,40mm,95.0,40.02,40.02,100
