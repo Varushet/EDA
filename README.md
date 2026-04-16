@@ -1,7 +1,7 @@
 <h1 style="display: flex; align-items: center; gap: 15px;">
     <img src="src/img/imperium.png" width="50" height="50">
      Exploratory Data Analysis (EDA) - Warhammer 40K
-    <img src="src/img/imperium.png">
+    <img src="src/img/imperium.png" width="50" height="50">
 </h1>
 
 Este repositorio contiene el análisis exploratorio de datos (EDA) realizado sobre diversos conjuntos de datos relacionados con el universo de Warhammer 40K. A continuación, se destacan las hipótesis más interesantes y sus resultados.
