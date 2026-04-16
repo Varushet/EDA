@@ -162,7 +162,7 @@ A continuación, se presenta una tabla con los DataSets disponibles en la carpet
 
 ---
 
-### HIPÓTESIS 13: Primary Players y Soporte
+### HIPÓTESIS 10: Primary Players y Soporte
 
 - **Pregunta**: ¿Las facciones con más jugadores "Primary" tienen mejor soporte?
 - **Análisis**: Relación entre número de jugadores primarios por facción y métricas de soporte
