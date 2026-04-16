@@ -1,6 +1,6 @@
 <h1 style="display: flex; align-items: center; gap: 15px;">
     <img src="src/img/imperium.png" width="50" height="50">
-     Exploratory Data Analysis (EDA) - Warhammer 40K
+     Exploratory Data Analysis - Warhammer 40K
     <img src="src/img/imperium.png" width="50" height="50">
 </h1>
 
