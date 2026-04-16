@@ -69,4 +69,4 @@ Este repositorio contiene el análisis exploratorio de datos (EDA) realizado sob
 
 ## Créditos
 
-Este análisis fue realizado por [Tu Nombre].
+Este análisis fue realizado por D. Alejandro Serrato.
